@@ -1217,7 +1217,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 49.9,
@@ -1253,5 +1253,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-02T21:17:17+00:00"
+ "updated": "2026-10-02T21:36:49+00:00"
 }
