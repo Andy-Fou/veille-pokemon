@@ -5,7 +5,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 288.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -14,7 +14,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 288.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -1016,7 +1016,7 @@
    "price": 49.9,
    "shop": "Pokemillon",
    "title": "Pokémon Center 30th Celebration Camiseta",
-   "url": "https://www.pokemillon.com/products/pokemon-center-30th-celebration-camiseta-copia"
+   "url": "https://www.pokemillon.com/products/pokemon-center-30th-celebration-camiseta"
   },
   {
    "available": true,
@@ -1025,7 +1025,7 @@
    "price": 49.9,
    "shop": "Pokemillon",
    "title": "Pokémon Center 30th Celebration Camiseta",
-   "url": "https://www.pokemillon.com/products/pokemon-center-30th-celebration-camiseta"
+   "url": "https://www.pokemillon.com/products/pokemon-center-30th-celebration-camiseta-copia"
   },
   {
    "available": false,
@@ -1253,5 +1253,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-02T20:55:38+00:00"
+ "updated": "2026-10-02T21:17:17+00:00"
 }
