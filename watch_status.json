@@ -2,6 +2,24 @@
  "errors": {},
  "products": [
   {
+   "available": null,
+   "country": "FR",
+   "kind": "watch",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "coffret pokemon collection ultra premium mentali ex 30e anniversaire me_5 scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-mentali-ex-30e-anniversaire-me_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "watch",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "coffret pokemon collection ultra premium noctali ex 30e anniversaire me_5 scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-noctali-ex-30e-anniversaire-me_5-scelle-francais.html"
+  },
+  {
    "available": false,
    "country": "ES",
    "kind": "watch",
@@ -142,6 +160,33 @@
    "kind": "anniv",
    "price": null,
    "shop": "InvestCollect",
+   "title": "[06-11-2026] Coffret - Pokemon - Collection Figurine Mew - 30e Anniversaire - ME05.5 - Scellé - Français",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-figurine-mew-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "[06-11-2026] Deck - Pokemon - Combat 30e Anniversaire - Mentali ex - Scellé - Français",
+   "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-mentali-ex-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
    "title": "case 10 etb pokemon 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/case-10-etb-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
   },
@@ -171,6 +216,24 @@
    "shop": "InvestCollect",
    "title": "coffret pokemon collection classeur 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-classeur-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "coffret pokemon collection figurine mewtwo 30e anniversaire me05_5 scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-figurine-mewtwo-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "deck pokemon combat 30e anniversaire noctali ex scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais.html"
   },
   {
    "available": null,
@@ -1244,7 +1307,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-5-30e-anniversaire"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 29.9,
@@ -1253,5 +1316,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-03T11:12:58+00:00"
+ "updated": "2026-10-03T14:45:15+00:00"
 }
