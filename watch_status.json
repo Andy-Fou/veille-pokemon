@@ -794,7 +794,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 89.9,
@@ -983,7 +983,7 @@
    "url": "https://www.pokemillon.com/products/first-partner-illustration-collections-pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 41.9,
@@ -995,7 +995,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 32.9,
+   "price": 26.9,
    "shop": "Pokemillon",
    "title": "First Partner Series 2 | Primer Compañero 30 Aniversario",
    "url": "https://www.pokemillon.com/products/first-parther-serie-2-caos-creciente-chaos-rising"
@@ -1004,7 +1004,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 32.9,
+   "price": 28.9,
    "shop": "Pokemillon",
    "title": "First Partner Series 3 | Primer Compañero 30 Aniversario",
    "url": "https://www.pokemillon.com/products/first-partner-serie-3-oscuridad-absoluta-pitch-black"
@@ -1316,5 +1316,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-04T10:57:19+00:00"
+ "updated": "2026-10-04T17:53:30+00:00"
 }
