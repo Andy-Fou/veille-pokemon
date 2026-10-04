@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 288.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 288.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -965,7 +965,7 @@
    "url": "https://www.pokemillon.com/products/etb-30th"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 129.9,
@@ -1316,5 +1316,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-04T21:46:11+00:00"
+ "updated": "2026-10-04T22:17:11+00:00"
 }
