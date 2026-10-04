@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 287.0,
+   "price": 288.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 287.0,
+   "price": 288.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -806,7 +806,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 41.9,
+   "price": 29.95,
    "shop": "Pokemillon",
    "title": "30th Poster Collection Box Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-poster-collection-box-celebraciones-30-aniversario"
@@ -833,7 +833,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 22.99,
+   "price": 16.99,
    "shop": "Pokemillon",
    "title": "Blíster 2 Sobres Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-2-sobres-30th"
@@ -1022,7 +1022,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 45.9,
+   "price": 33.95,
    "shop": "Pokemillon",
    "title": "Greninja Special Box Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/greninja-special-box-celebraciones-30-aniversario-elite-celebrations-30th"
@@ -1154,7 +1154,7 @@
    "url": "https://www.pokemillon.com/products/sobre-pokemon-30th-anniversary"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 45.9,
@@ -1280,7 +1280,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 49.9,
@@ -1316,5 +1316,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-04T17:53:30+00:00"
+ "updated": "2026-10-04T21:11:56+00:00"
 }
