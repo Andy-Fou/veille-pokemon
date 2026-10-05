@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "Flash Store": "403 Client Error: Forbidden for url: https://flashstore.es/wp-json/wc/store/v1/products?search=pokemon&per_page=100&page=1"
+ },
  "products": [
   {
    "available": null,
@@ -23,7 +25,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 286.0,
+   "price": 250.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 286.0,
+   "price": 250.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -275,7 +277,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 46.0,
+   "price": 39.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Booster Bundle 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-bundle-30th-celebration-ingles-espanol"
@@ -284,7 +286,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 75.0,
+   "price": 65.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
@@ -293,7 +295,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 32.5,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - First Partners Illustration Collection - Series 1 - 30th Anniversary (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol"
@@ -302,7 +304,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 32.5,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - First Partners Illustration Collection - Series 2 - 30th Anniversary (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-2-30th-anniversary-ingles-espanol"
@@ -320,7 +322,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 80.0,
+   "price": 69.9,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -329,7 +331,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 66.0,
+   "price": 56.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Binder collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-binder-collection-espanol"
@@ -338,7 +340,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 54.0,
+   "price": 46.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Figure Collection Mew | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-figure-collection-mew-espanol"
@@ -347,7 +349,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 54.0,
+   "price": 46.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Figure Collection Mewtwo | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo-espanol"
@@ -356,7 +358,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 32.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Greninja Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-box-espanol"
@@ -365,7 +367,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 31.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Greninja ex Tin | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-tin-espanol"
@@ -374,7 +376,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 19.0,
+   "price": 15.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Mini Tin | Día y Noche (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-mini-tin-dia-y-noche-espanol"
@@ -383,7 +385,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 34.0,
+   "price": 28.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Poster Collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-poster-collection-espanol"
@@ -392,7 +394,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 32.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Sylveon Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-sylveon-ex-box-espanol"
@@ -401,7 +403,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 31.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Sylveon ex Tin | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-sylveon-ex-tin-espanol"
@@ -410,7 +412,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 28.0,
+   "price": 23.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Tech Sticker Collection | Alolan Exeggutor (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-tech-sticker-collection-alolan-exeggutor-espanol"
@@ -419,7 +421,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 28.0,
+   "price": 23.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Tech Sticker Collection | Lucario  (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-tech-sticker-collection-lucario-espanol"
@@ -428,7 +430,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 32.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Espeon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex-espanol"
@@ -437,7 +439,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 32.98,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Umbreon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex-espanol"
@@ -524,10 +526,10 @@
    "url": "https://lebordelmagique.com/products/pokemon30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 81.0,
+   "price": 70.0,
    "shop": "Masterset",
    "title": "Ultra Pro - Zip PRO-Binder 12 cases - MTG 30th Anniv.",
    "url": "https://masterset.store/products/ultra-pro-zip-pro-binder-12-cases-mtg-30th-anniv"
@@ -536,7 +538,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 32.0,
    "shop": "Masterset",
    "title": "[LIMITE1] Pokémon - Coffret Collection Poster - 30e Anniversaire",
    "url": "https://masterset.store/products/pok-mon-coffret-collection-poster-30e-anniversaire"
@@ -545,7 +547,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 104.0,
+   "price": 90.0,
    "shop": "Masterset",
    "title": "[Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
    "url": "https://masterset.store/products/pokemon-etb-coffret-dresseur-d-lite-30e-anniversaire"
@@ -554,16 +556,16 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 41.0,
+   "price": 35.0,
    "shop": "Masterset",
    "title": "[Limite de 1] [1 au choix] Pokémon - Coffret 4 boosters - 30e Anniversaire - Amphinobi-ex ou Nymphali-ex",
    "url": "https://masterset.store/products/limite-de-1-1-au-choix-pokemon-coffret-4-boosters-30e-anniversaire-amphinobi-ex-ou-nymphali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 81.0,
+   "price": 69.9,
    "shop": "Masterset",
    "title": "[PRECOMMANDE] Vanguard [EN]- Boîte de 10 Boosters Premium- VGE-DZ-TBP02 - Persona 30th Anniversary",
    "url": "https://masterset.store/products/vanguard-en-bo-te-de-10-boosters-premium-vge-dz-tbp02-persona-30th-anniversary"
@@ -1316,5 +1318,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-05T11:41:48+00:00"
+ "updated": "2026-10-05T12:00:41+00:00"
 }
