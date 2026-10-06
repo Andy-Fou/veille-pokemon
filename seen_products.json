@@ -31931,7 +31931,7 @@
    "url": "https://metamorphcenter.com/products/caja-op17-the-worlds-strongest-warriors-one-piece-japones"
   },
   "10982584549718": {
-   "available": true,
+   "available": false,
    "price": 13.95,
    "title": "Mini Lata Ciudad Luminalia - Español",
    "url": "https://metamorphcenter.com/products/mini-lata-ciudad-luminalia-pokemon-espanol"
@@ -49362,6 +49362,30 @@
    "title": "Caja de 18 Sobres Llamas Obsidiana | Obsidian Flames Booster Box",
    "url": "https://www.pokemillon.com/products/caja-de-18-sobres-llamas-obsidiana-obsidian-flames-booster-box"
   },
+  "15432638267715": {
+   "available": true,
+   "price": 299.0,
+   "title": "Caja 18 Sobres Origen Perdido | Lost Origin",
+   "url": "https://www.pokemillon.com/products/caja-18-sobres-origen-perdido-lost-origin"
+  },
+  "15432638726467": {
+   "available": true,
+   "price": 269.9,
+   "title": "Caja 18 Sobres Resplandor Astral | Astral Radiance Booster Box",
+   "url": "https://www.pokemillon.com/products/caja-18-sobres-resplandor-astral-astral-radiance-booster-box"
+  },
+  "15432638890307": {
+   "available": true,
+   "price": 119.9,
+   "title": "Caja 18 Sobres Escarlata y Púrpura | Scarlet & Violet",
+   "url": "https://www.pokemillon.com/products/caja-18-sobres-escarlata-y-purpura-scarlet-violet"
+  },
+  "15432639185219": {
+   "available": true,
+   "price": 169.9,
+   "title": "Caja 18 Sobres Espada y Escudo| Sworld and Shield",
+   "url": "https://www.pokemillon.com/products/caja-18-sobres-espada-y-escudo-sworld-and-shield"
+  },
   "7430823411958": {
    "available": false,
    "price": 36.95,
@@ -49910,7 +49934,7 @@
   },
   "7738553630966": {
    "available": false,
-   "price": 229.0,
+   "price": 389.99,
    "title": "Caja 36 Sobres Origen Perdido | Lost Origin",
    "url": "https://www.pokemillon.com/products/pokemon-lost-origin"
   },
@@ -51613,8 +51637,8 @@
    "url": "https://www.pokemillon.com/products/digimon-caja-24-sobres-draconic-roar-ex-3-2023"
   },
   "9146624213315": {
-   "available": false,
-   "price": 169.9,
+   "available": true,
+   "price": 269.9,
    "title": "Caja 18 Sobres Albor de Guardianes 2017",
    "url": "https://www.pokemillon.com/products/pokemon-caja-18-sobres-albor-de-guardianes-2017"
   },
