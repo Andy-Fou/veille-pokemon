@@ -38785,7 +38785,7 @@
    "url": "https://www.pokemillon.com/products/vanguard-pack-de-100-25x4-toploaders-3x4-clean"
   },
   "14866597019971": {
-   "available": false,
+   "available": true,
    "price": 199.99,
    "title": "Booster Box 36 Sobres Rivales Predestinados | Destined Rivals",
    "url": "https://www.pokemillon.com/products/rivales-predestinados-36"
@@ -48188,7 +48188,7 @@
   },
   "15397669011779": {
    "available": true,
-   "price": 21.26,
+   "price": 18.99,
    "title": "Panini | Winner Póster World Cup 2026",
    "url": "https://www.pokemillon.com/products/panini-winner-poster-world-cup-2026"
   },
@@ -48789,13 +48789,13 @@
   "15402856251715": {
    "available": true,
    "price": 21.9,
-   "title": "Expositor de Lugia",
+   "title": "Premium Lugia Card Display (2 Sobres)",
    "url": "https://www.pokemillon.com/products/expositor-de-lugia"
   },
   "15402858348867": {
    "available": true,
    "price": 21.9,
-   "title": "Expositor de Giratina",
+   "title": "Premium Giratina Card Display (2 Sobres)",
    "url": "https://www.pokemillon.com/products/expositor-de-giratina"
   },
   "15402921853251": {
@@ -48813,13 +48813,13 @@
   "15402927489347": {
    "available": true,
    "price": 23.9,
-   "title": "Expositor de Hisui Typhlosion",
+   "title": "Premium Hisui Typhlosion Card Display (2 Sobres)",
    "url": "https://www.pokemillon.com/products/expositor-de-hisui-typhlosion"
   },
   "15402931159363": {
    "available": true,
    "price": 23.9,
-   "title": "Expositor de Lucario",
+   "title": "Premium Lucario Card Display (2 Sobres)",
    "url": "https://www.pokemillon.com/products/expositor-de-lucario"
   },
   "15402941186371": {
@@ -49385,6 +49385,12 @@
    "price": 169.9,
    "title": "Caja 18 Sobres Espada y Escudo| Sworld and Shield",
    "url": "https://www.pokemillon.com/products/caja-18-sobres-espada-y-escudo-sworld-and-shield"
+  },
+  "15432649539907": {
+   "available": true,
+   "price": 499.95,
+   "title": "Sobre Unlimited \"Brook\" Gym Heroes",
+   "url": "https://www.pokemillon.com/products/sobre-unlimited-brook-gym-heroes"
   },
   "7430823411958": {
    "available": false,
@@ -52177,8 +52183,8 @@
    "url": "https://www.pokemillon.com/products/etb-chispas"
   },
   "9515701829955": {
-   "available": false,
-   "price": 159.9,
+   "available": true,
+   "price": 189.9,
    "title": "Caja 36 Sobres Chispas Fulgurantes | Surging Sparks Booster Box - sv8",
    "url": "https://www.pokemillon.com/products/36-sobres-surging-sparks"
   },
