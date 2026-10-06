@@ -16385,7 +16385,7 @@
    "url": "https://kairyu.fr/products/184-162-draieul"
   },
   "9037878985039": {
-   "available": true,
+   "available": false,
    "price": 6.9,
    "title": "185/162 Torterra ex",
    "url": "https://kairyu.fr/products/185-162-torterra-ex"
@@ -49203,7 +49203,7 @@
   "15414724952387": {
    "available": true,
    "price": 590.0,
-   "title": "Sobre Neo Discovery (1st Edition)",
+   "title": "Sobre Neo Discovery (1st Edition) \"Smeagle\"",
    "url": "https://www.pokemillon.com/products/sobre-neo-discovery-1st-edition"
   },
   "15414729015619": {
@@ -51703,8 +51703,8 @@
    "url": "https://www.pokemillon.com/products/sobre-fossil-1999-2000-es"
   },
   "9153193967939": {
-   "available": false,
-   "price": 590.0,
+   "available": true,
+   "price": 1200.0,
    "title": "Sobre Fossil 1st Edition \"Aerodactyl\" 1999-2000",
    "url": "https://www.pokemillon.com/products/sobre-fossil-aerodactyl-1999-2000-es"
   },
