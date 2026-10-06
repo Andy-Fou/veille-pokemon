@@ -5933,7 +5933,7 @@
    "url": "https://kairyu.fr/products/grade-psa-7-002-102-tortank"
   },
   "16348812181839": {
-   "available": true,
+   "available": false,
    "price": 1299.9,
    "title": "[GRADE] [PSA 8] 002/102 Tortank",
    "url": "https://kairyu.fr/products/grade-psa-8-002-102-tortank"
@@ -5951,49 +5951,49 @@
    "url": "https://kairyu.fr/products/grade-psa-8-016-102-electhor"
   },
   "16348821619023": {
-   "available": true,
+   "available": false,
    "price": 849.9,
    "title": "[GRADE] [PSA 8] 015/102 Florizarre",
    "url": "https://kairyu.fr/products/grade-psa-8-015-102-florizarre"
   },
   "16348828860751": {
-   "available": true,
+   "available": false,
    "price": 399.9,
    "title": "[GRADE] [PSA 8] 013/102 Tartard",
    "url": "https://kairyu.fr/products/grade-psa-8-013-102-tartard"
   },
   "16348831678799": {
-   "available": true,
+   "available": false,
    "price": 349.9,
    "title": "[GRADE] [PSA 8] 012/102 Feunard",
    "url": "https://kairyu.fr/products/grade-psa-8-012-102-feunard"
   },
   "16348833481039": {
-   "available": true,
+   "available": false,
    "price": 379.9,
    "title": "[GRADE] [PSA 8] 011/102 Nidoking",
    "url": "https://kairyu.fr/products/grade-psa-8-011-102-nidoking"
   },
   "16348835873103": {
-   "available": true,
+   "available": false,
    "price": 599.9,
    "title": "[GRADE] [PSA 8] 006/102 Leviator",
    "url": "https://kairyu.fr/products/grade-psa-8-006-102-leviator"
   },
   "16348839608655": {
-   "available": true,
+   "available": false,
    "price": 249.9,
    "title": "[GRADE] [PSA 8] 005/102 Mélofée",
    "url": "https://kairyu.fr/products/grade-psa-8-005-102-melofee"
   },
   "16348840591695": {
-   "available": true,
+   "available": false,
    "price": 499.9,
    "title": "[GRADE] [PSA 8] 003/102 Leveinard",
    "url": "https://kairyu.fr/products/grade-psa-8-008-102-leveinard"
   },
   "16348843213135": {
-   "available": true,
+   "available": false,
    "price": 499.9,
    "title": "[GRADE] [PSA 8] 001/102 Alakazam",
    "url": "https://kairyu.fr/products/grade-psa-8-001-102-alakazam"
@@ -6005,13 +6005,13 @@
    "url": "https://kairyu.fr/products/grade-psa-8-004-102-dracaufeu"
   },
   "16348848488783": {
-   "available": true,
+   "available": false,
    "price": 349.9,
    "title": "[GRADE] [PSA 8] 009/102 Magneton",
    "url": "https://kairyu.fr/products/grade-psa-8-009-102-magneton"
   },
   "16348853305679": {
-   "available": true,
+   "available": false,
    "price": 299.9,
    "title": "[GRADE] [PSA 8] 007/102 Tygnon",
    "url": "https://kairyu.fr/products/grade-psa-8-007-102-tygnon"
@@ -53115,7 +53115,7 @@
    "url": "https://www.relictcg.com/products/duplicate-avant-premiere-fab-rosetta-14-10"
   },
   "14949138334041": {
-   "available": true,
+   "available": false,
    "price": 3.0,
    "title": "Gamegenic : Just Sleeves Standard  - Yellow (50 sleeves)",
    "url": "https://www.relictcg.com/products/gamegenic-just-sleeves-standard-yellow-50-sleeves"
