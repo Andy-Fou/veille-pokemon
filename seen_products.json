@@ -1264,7 +1264,7 @@
   },
   "10074734723401": {
    "available": false,
-   "price": 690.0,
+   "price": 689.0,
    "title": "Pokémon TCG - Case X10 ETB Ascended Heroes (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-ascended-heroes-espanol"
   },
@@ -2068,7 +2068,7 @@
   },
   "9814308225353": {
    "available": false,
-   "price": 133.0,
+   "price": 132.0,
    "title": "Dragon Ball - Prismatic Clash BT28 Booster Box (Inglés)",
    "url": "https://www.jjcollection.es/products/dragon-ball-super-tcg-prismatic-clash-bt28-caja-de-sobres-ingles"
   },
@@ -45308,14 +45308,14 @@
   },
   "15338691002691": {
    "available": true,
-   "price": 1299.0,
-   "title": "Pokémon | Sobre Base Set Unlimited 1999",
+   "price": 1239.0,
+   "title": "Sobre Pokémon Base Set Unlimited 1999 \"Blastoise\"",
    "url": "https://www.pokemillon.com/products/pokemon-sobre-base-set-unlimited-1999"
   },
   "15338692149571": {
-   "available": false,
-   "price": 999.0,
-   "title": "Pokémon | Sobre Base Set Unlimited 1999",
+   "available": true,
+   "price": 1239.0,
+   "title": "Sobre Pokémon Base Set Unlimited 1999 \"Venusaur\"",
    "url": "https://www.pokemillon.com/products/pokemon-sobre-base-set-unlimited-1999-copia"
   },
   "15338720624963": {
@@ -46651,7 +46651,7 @@
    "url": "https://www.pokemillon.com/products/caja-knock-out-collection-celebraciones-30-aniversario-celebrations-30th"
   },
   "15362836463939": {
-   "available": true,
+   "available": false,
    "price": 33.9,
    "title": "Blíster Exeguttor Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
@@ -49337,6 +49337,12 @@
    "price": 590.0,
    "title": "Sobre Neo Discovery Unlimited \"Scizor\"",
    "url": "https://www.pokemillon.com/products/sobre-neo-discovery"
+  },
+  "15432633221443": {
+   "available": true,
+   "price": 1299.0,
+   "title": "Sobre Pokémon Base Set Unlimited 1999 \"Charizard\"",
+   "url": "https://www.pokemillon.com/products/sobre-pokemon-base-set-unlimited-1999-charizard"
   },
   "7430823411958": {
    "available": false,
