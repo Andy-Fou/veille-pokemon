@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 288.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 288.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -1184,6 +1184,15 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 40.0,
+   "shop": "Relic TCG",
+   "title": "Coffret - Figurine Premium Pokémon - 30 ans - Mewtwo - FR",
+   "url": "https://www.relictcg.com/products/coffret-figurine-premium-pokemon-30-ans-mewtwo-fr"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 27.0,
    "shop": "Relic TCG",
    "title": "Coffret 3 boosters Pokémon DAY 30 ANS - 2026 - ME01 + ME02 - Pikachu Promo - FR",
@@ -1316,5 +1325,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-06T13:57:06+00:00"
+ "updated": "2026-10-06T14:20:50+00:00"
 }
