@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 287.0,
+   "price": 288.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 287.0,
+   "price": 288.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -160,6 +160,15 @@
    "kind": "anniv",
    "price": null,
    "shop": "InvestCollect",
+   "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
    "title": "case 10 etb pokemon 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/case-10-etb-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
   },
@@ -207,15 +216,6 @@
    "shop": "InvestCollect",
    "title": "coffret pokemon collection figurine mewtwo 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-figurine-mewtwo-30e-anniversaire-me05_5-scelle-francais.html"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "InvestCollect",
-   "title": "coffret pokemon collection premium metamorph 30e anniversaire me05_5 scelle francais.html",
-   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
   },
   {
    "available": null,
@@ -1316,5 +1316,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-06T11:59:05+00:00"
+ "updated": "2026-10-06T12:26:56+00:00"
 }
