@@ -1,7 +1,5 @@
 {
- "errors": {
-  "Kairyu": "503 Server Error: Service Unavailable for url: https://kairyu.fr/products.json?limit=250&page=7"
- },
+ "errors": {},
  "products": [
   {
    "available": null,
@@ -1327,5 +1325,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T03:21:57+00:00"
+ "updated": "2026-10-07T03:56:47+00:00"
 }
