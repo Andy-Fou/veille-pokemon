@@ -1150,7 +1150,7 @@
  "jjcollection": {
   "10005780070729": {
    "available": false,
-   "price": 194.0,
+   "price": 195.0,
    "title": "Pokémon TCG - Booster Box Surging Sparks (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-surging-sparks-ingles"
   },
@@ -1198,7 +1198,7 @@
   },
   "10024469659977": {
    "available": false,
-   "price": 605.0,
+   "price": 606.0,
    "title": "Pokémon TCG - Display Bundle Destinos de paldea (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-bundle-destinos-de-paldea-espanol"
   },
@@ -1210,7 +1210,7 @@
   },
   "10030711931209": {
    "available": false,
-   "price": 89.0,
+   "price": 90.0,
    "title": "Pokémon TCG - Nihil zero (Japonés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-nihil-zero-japones"
   },
@@ -1222,7 +1222,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1398.0,
+   "price": 1399.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1288,7 +1288,7 @@
   },
   "10090869227849": {
    "available": false,
-   "price": 593.0,
+   "price": 594.0,
    "title": "Pokémon TCG - Case X10 ETB Fuegos fantasmales (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-etb-fuegos-fantasmales-espanol"
   },
@@ -1450,7 +1450,7 @@
   },
   "10177140556105": {
    "available": true,
-   "price": 136.0,
+   "price": 137.0,
    "title": "Magic The Gathering - Marvel Super Heroes Commander Decks Collector's Edition (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering"
   },
@@ -1690,7 +1690,7 @@
   },
   "10344523006281": {
    "available": false,
-   "price": 194.0,
+   "price": 195.0,
    "title": "One Piece Card Game - Booster Box OP-17 The World's Strongest Warriors (Inglés)",
    "url": "https://www.jjcollection.es/products/one-piece-card-game-booster-box-op-17-the-worlds-strongest-warriors-ingles"
   },
@@ -2026,7 +2026,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.82,
+   "price": 22.83,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2146,7 +2146,7 @@
   },
   "9837626261833": {
    "available": false,
-   "price": 49.0,
+   "price": 50.0,
    "title": "Ultra Pro - PRO Binder Elite Gengar 12 Bolsillos con Cremallera Pokémon",
    "url": "https://www.jjcollection.es/products/carpeta-12-bolsillos-con-cremallera-pro-binder-elite-gengar-pokemon-ultra-pro"
   },
@@ -2272,7 +2272,7 @@
   },
   "9923522134345": {
    "available": true,
-   "price": 194.0,
+   "price": 195.0,
    "title": "Magic The Gathering - Play Booster Box Final Fantasy (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-play-booster-box-final-fantasy-ingles"
   },
@@ -2320,7 +2320,7 @@
   },
   "9948456059209": {
    "available": false,
-   "price": 97.0,
+   "price": 98.0,
    "title": "Pokémon TCG - Booster Box Mega Brave (Japonés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-mega-brave-booster-box-japones"
   },
@@ -34477,6 +34477,12 @@
    "price": 79.9,
    "title": "[PRECOMMANDE] Original Artwork Collection - JAP",
    "url": "https://pika-boutique.fr/products/precommande-original-artwork-collection-jap"
+  },
+  "12330926047496": {
+   "available": true,
+   "price": 14.9,
+   "title": "Duopack Ectoplasma 2026",
+   "url": "https://pika-boutique.fr/products/duopack-ectoplasma-2026"
   },
   "8377953616136": {
    "available": true,
@@ -73915,7 +73921,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-vision-du-typhon-radieux-sr-ra05-fr075"
   },
   "15528081686876": {
-   "available": false,
+   "available": true,
    "price": 1.0,
    "title": "Yu-Gi-Oh! Vision du Typhon Radieux : UR RA05-FR075",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-vision-du-typhon-radieux-ur-ra05-fr075"
@@ -78637,7 +78643,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-gray-layer-c-cori-fr026"
   },
   "15648878526812": {
-   "available": false,
+   "available": true,
    "price": 19.9,
    "title": "Yu-Gi-Oh! Magicien du Chaos des Ténèbres - Chaos Sombre : SE CORI-FR027",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-magicien-du-chaos-des-tenebres-chaos-sombre-se-cori-fr027"
