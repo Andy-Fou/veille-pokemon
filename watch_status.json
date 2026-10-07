@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "Philibert": "500 Server Error: Internal Server Error for url: https://www.philibertnet.com/fr/212-pokemon/s-3/langues-francais?page=1"
+ },
  "products": [
   {
    "available": null,
@@ -1325,5 +1327,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T10:01:49+00:00"
+ "updated": "2026-10-07T10:38:45+00:00"
 }
