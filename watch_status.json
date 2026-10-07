@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "Pika-Boutique": "500 Server Error: Internal Server Error for url: https://pika-boutique.fr/products.json?limit=250&page=1"
+ },
  "products": [
   {
    "available": null,
@@ -1370,5 +1372,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T21:21:02+00:00"
+ "updated": "2026-10-07T21:41:28+00:00"
 }
