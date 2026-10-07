@@ -641,6 +641,33 @@
    "url": "https://metamorphcenter.com/products/danada-etb-celebracion-30-aniversario-espanol"
   },
   {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 1.5,
+   "shop": "Pika-Boutique",
+   "title": "Carte unité ME05.5 - Holographique",
+   "url": "https://pika-boutique.fr/products/carte-unite-me05-5-reverse"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 1.5,
+   "shop": "Pika-Boutique",
+   "title": "Carte unité ME05.5 - Reprint",
+   "url": "https://pika-boutique.fr/products/carte-unite-me05-5-reprint"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 1.5,
+   "shop": "Pika-Boutique",
+   "title": "Carte unité ME05.5 - Ultra Rare",
+   "url": "https://pika-boutique.fr/products/carte-unite-me05-5-ultra-rare"
+  },
+  {
    "available": true,
    "country": "FR",
    "kind": "anniv",
@@ -1343,5 +1370,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T17:39:36+00:00"
+ "updated": "2026-10-07T17:59:33+00:00"
 }
