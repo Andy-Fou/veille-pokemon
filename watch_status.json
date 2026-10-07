@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 285.0,
+   "price": 286.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 285.0,
+   "price": 286.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -329,7 +329,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 65.0,
+   "price": 66.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Binder collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-binder-collection-espanol"
@@ -1208,12 +1208,12 @@
    "url": "https://www.relictcg.com/products/duplicate-soiree-anniversaire-pokemon-day-1"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 89.99,
    "shop": "Strike Games",
-   "title": "Pack Pokémon : 1 Bundle 30e Anniversaire + 1 Pokebox 2026/8 | FR",
+   "title": "Pack Pokémon : 1 Bundle 30e Anniversaire + 1 Pokebox 2026/8 (aléatoire) | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-6-boosters-fr"
   },
   {
@@ -1343,5 +1343,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T14:00:42+00:00"
+ "updated": "2026-10-07T14:25:41+00:00"
 }
