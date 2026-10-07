@@ -2783,7 +2783,7 @@
    "url": "https://kairyu.fr/products/180-159-esprit-combatif-diris-copie"
   },
   "15558629425487": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "183/159 Ampibidou ex de Mashynn",
    "url": "https://kairyu.fr/products/182-159-volcanion-ex-copie"
@@ -14255,7 +14255,7 @@
    "url": "https://kairyu.fr/products/199-193-braisillon"
   },
   "8635681603919": {
-   "available": true,
+   "available": false,
    "price": 14.9,
    "title": "200/193 Némélios",
    "url": "https://kairyu.fr/products/200-193-nemelios"
@@ -14309,7 +14309,7 @@
    "url": "https://kairyu.fr/products/220-193-selutin"
   },
   "8635711095119": {
-   "available": true,
+   "available": false,
    "price": 39.9,
    "title": "226/193 Famignol",
    "url": "https://kairyu.fr/products/226-193-famignol"
@@ -14321,7 +14321,7 @@
    "url": "https://kairyu.fr/products/227-193-flamenroule"
   },
   "8635712405839": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "230/193 Foretress ex",
    "url": "https://kairyu.fr/products/230-193-foretress-ex"
@@ -14333,7 +14333,7 @@
    "url": "https://kairyu.fr/products/231-193-miascarade-ex"
   },
   "8635713061199": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "232/193 Chongjian ex",
    "url": "https://kairyu.fr/products/232-193-chongjian-ex"
@@ -14345,13 +14345,13 @@
    "url": "https://kairyu.fr/products/233-193-flamigator-ex"
   },
   "8635713618255": {
-   "available": true,
+   "available": false,
    "price": 5.9,
    "title": "234/193 Yuyu ex",
    "url": "https://kairyu.fr/products/234-193-yuyu-ex"
   },
   "8635714175311": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "235/193 Palmaval ex",
    "url": "https://kairyu.fr/products/235-193-palmaval-ex"
@@ -14387,13 +14387,13 @@
    "url": "https://kairyu.fr/products/240-193-forgelina-ex"
   },
   "8635716239695": {
-   "available": true,
+   "available": false,
    "price": 4.9,
    "title": "241/193 Lougaroc ex",
    "url": "https://kairyu.fr/products/241-193-lougaroc-ex"
   },
   "8635716436303": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "242/193 Courrousinge ex",
    "url": "https://kairyu.fr/products/242-193-courrousinge-ex"
@@ -14411,7 +14411,7 @@
    "url": "https://kairyu.fr/products/244-193-terraiste-de-paldea-ex"
   },
   "8635717255503": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "245/193 Pachyradjah ex",
    "url": "https://kairyu.fr/products/245-193-pachyradjah-ex"
@@ -14441,7 +14441,7 @@
    "url": "https://kairyu.fr/products/252-193-brome"
   },
   "8635719778639": {
-   "available": true,
+   "available": false,
    "price": 4.9,
    "title": "253/193 Grusha",
    "url": "https://kairyu.fr/products/253-193-grusha"
@@ -14453,7 +14453,7 @@
    "url": "https://kairyu.fr/products/254-193-mashynn"
   },
   "8635725250895": {
-   "available": true,
+   "available": false,
    "price": 11.9,
    "title": "265/193 Ordres du Boss (Ghetis)",
    "url": "https://kairyu.fr/products/265-193-ordres-du-boss-ghetis"
@@ -22690,13 +22690,13 @@
   },
   "15286232613189": {
    "available": false,
-   "price": 3.0,
+   "price": 5.0,
    "title": "Phoenix Shield – Crystal Box Protection ETB Pokémon",
    "url": "https://masterset.store/products/phoenix-shield-crystal-box-protection-etb-pokemon"
   },
   "15286289301829": {
    "available": false,
-   "price": 3.0,
+   "price": 4.0,
    "title": "Phoenix Shield – Crystal Box Protection Display Pokémon",
    "url": "https://masterset.store/products/phoenix-shield-crystal-box-protection-display-pokemon"
   },
@@ -36115,6 +36115,12 @@
    "price": 8.9,
    "title": "BOOSTER BLISTER - EV01",
    "url": "https://pika-boutique.fr/products/booster-blister-ev01"
+  },
+  "9618900287752": {
+   "available": true,
+   "price": 15.9,
+   "title": "Duopack Pondralugon 2025",
+   "url": "https://pika-boutique.fr/products/duopack-pondralugon-2025"
   },
   "9676111282440": {
    "available": true,
@@ -62379,7 +62385,7 @@
    "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-6"
   },
   "16564198211929": {
-   "available": true,
+   "available": false,
    "price": 0.0,
    "title": "07/10 DUEL COMMANDER NIGHT - 7 Oct 2026",
    "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-7"
@@ -78421,7 +78427,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-sage-mystique-star-cori-fr003"
   },
   "15648875446620": {
-   "available": true,
+   "available": false,
    "price": 17.9,
    "title": "Yu-Gi-Oh! Griffoh : UR CORI-FR004",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-griffoh-ur-cori-fr004"
