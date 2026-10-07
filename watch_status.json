@@ -1,7 +1,5 @@
 {
- "errors": {
-  "Philibert": "500 Server Error: Internal Server Error for url: https://www.philibertnet.com/fr/212-pokemon/s-3/langues-francais?page=1"
- },
+ "errors": {},
  "products": [
   {
    "available": null,
@@ -1210,6 +1208,24 @@
    "url": "https://www.relictcg.com/products/duplicate-soiree-anniversaire-pokemon-day-1"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 89.99,
+   "shop": "Strike Games",
+   "title": "Pack Pokémon : 1 Bundle 30e Anniversaire + 1 Pokebox 2026/8 | FR",
+   "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-6-boosters-fr"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 39.99,
+   "shop": "Strike Games",
+   "title": "Pack Pokémon : 1 Mini Tin 30e Anniversaire + 1 Tripack Chaos Ascendant | FR",
+   "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-mini-tin-fr"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1219,10 +1235,10 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-boite-nymphali-ex-ou-amphinobi-ex-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 39.99,
+   "price": 49.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Coffret Amphinobi-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-amphinobi-ex-fr"
@@ -1237,28 +1253,28 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-dresseur-delite-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 39.99,
+   "price": 49.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Coffret Nymphali-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-nymphali-ex-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 39.99,
+   "price": 44.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Collection poster | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-collection-poster-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 19.99,
+   "price": 24.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Pack promotionnel de 2 boosters Évoli | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-pack-promotionnel-de-2-boosters-evoli-fr"
@@ -1327,5 +1343,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T10:38:45+00:00"
+ "updated": "2026-10-07T10:59:01+00:00"
 }
