@@ -1,7 +1,5 @@
 {
- "errors": {
-  "Pika-Boutique": "500 Server Error: Internal Server Error for url: https://pika-boutique.fr/products.json?limit=250&page=1"
- },
+ "errors": {},
  "products": [
   {
    "available": null,
@@ -1024,7 +1022,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 26.9,
+   "price": 28.9,
    "shop": "Pokemillon",
    "title": "First Partner Series 2 | Primer Compañero 30 Aniversario",
    "url": "https://www.pokemillon.com/products/first-parther-serie-2-caos-creciente-chaos-rising"
@@ -1372,5 +1370,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-07T21:41:28+00:00"
+ "updated": "2026-10-07T21:59:40+00:00"
 }
