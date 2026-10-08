@@ -1096,7 +1096,7 @@
    "kind": "anniv",
    "price": 49.9,
    "shop": "Pokemillon",
-   "title": "Pokemon Artistic Touch 30th Anniversary Celebration Pikachu Figure Set",
+   "title": "Pokémon Artistic Touch 30th Anniversary Celebration Pikachu Figure Set",
    "url": "https://www.pokemillon.com/products/30th-pikachu-figure-set"
   },
   {
@@ -1172,7 +1172,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 7.99,
@@ -1370,5 +1370,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-08T20:24:29+00:00"
+ "updated": "2026-10-08T20:57:30+00:00"
 }
