@@ -653,7 +653,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 1.5,
+   "price": 10.0,
    "shop": "Pika-Boutique",
    "title": "Carte unité ME05.5 - Reprint",
    "url": "https://pika-boutique.fr/products/carte-unite-me05-5-reprint"
@@ -662,7 +662,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 1.5,
+   "price": 3.0,
    "shop": "Pika-Boutique",
    "title": "Carte unité ME05.5 - Ultra Rare",
    "url": "https://pika-boutique.fr/products/carte-unite-me05-5-ultra-rare"
@@ -1370,5 +1370,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-08T17:42:26+00:00"
+ "updated": "2026-10-08T18:20:43+00:00"
 }
