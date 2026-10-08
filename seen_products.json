@@ -31619,7 +31619,7 @@
    "url": "https://metamorphcenter.com/products/first-partner-illustration-collection-serie-2-espanol"
   },
   "10871159652694": {
-   "available": false,
+   "available": true,
    "price": 4.95,
    "title": "Ultra Pro Toploader 3\"x4\" Premium (25 unidades)",
    "url": "https://metamorphcenter.com/products/ultra-pro-toploader-premium-3x4-25-unidades"
@@ -54201,7 +54201,7 @@
    "url": "https://www.relictcg.com/products/gamegenic-sidekick-100-xl-convertible-rose"
   },
   "15252060078425": {
-   "available": false,
+   "available": true,
    "price": 21.0,
    "title": "Gamegenic : Sidekick 100+ XL Convertible - Noir",
    "url": "https://www.relictcg.com/products/gamegenic-sidekick-100-xl-convertible-noir"
@@ -63085,6 +63085,54 @@
    "price": 25.0,
    "title": "Road to Nationals - 2027 - 10 Jan 2027",
    "url": "https://www.relictcg.com/products/duplicate-road-to-nationals-2026"
+  },
+  "16674308555097": {
+   "available": true,
+   "price": 0.0,
+   "title": "04/11 DUEL COMMANDER NIGHT - 4 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-11"
+  },
+  "16674338799961": {
+   "available": true,
+   "price": 0.0,
+   "title": "11/11 DUEL COMMANDER NIGHT - 11 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-12"
+  },
+  "16674341650777": {
+   "available": true,
+   "price": 0.0,
+   "title": "18/11 DUEL COMMANDER NIGHT - 18 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-13"
+  },
+  "16674343813465": {
+   "available": true,
+   "price": 0.0,
+   "title": "25/11 DUEL COMMANDER NIGHT - 25 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-14"
+  },
+  "16674360983897": {
+   "available": true,
+   "price": 0.0,
+   "title": "05/11 MULTI COMMANDER CHILL - 5 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0608-chill-and-command-12"
+  },
+  "16674364293465": {
+   "available": true,
+   "price": 0.0,
+   "title": "12/11 MULTI COMMANDER CHILL - 12 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0608-chill-and-command-13"
+  },
+  "16674366816601": {
+   "available": true,
+   "price": 0.0,
+   "title": "19/11 MULTI COMMANDER CHILL - 19 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0608-chill-and-command-14"
+  },
+  "16674368225625": {
+   "available": true,
+   "price": 0.0,
+   "title": "26/11 MULTI COMMANDER CHILL - 26 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0608-chill-and-command-15"
   },
   "7441091887327": {
    "available": false,
