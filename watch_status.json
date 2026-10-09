@@ -1379,7 +1379,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-poster-30e-anniversaire-me05-5-artikodin-electhor-et-sulfura"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 399.9,
@@ -1388,7 +1388,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-display-de-10-mini-tin-me05-5-30e-anniversaire"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 84.9,
@@ -1406,5 +1406,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-09T20:17:22+00:00"
+ "updated": "2026-10-09T20:38:43+00:00"
 }
