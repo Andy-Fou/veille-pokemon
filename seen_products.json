@@ -503,7 +503,7 @@
    "url": "https://flashstore.es/producto/pokemon-go-sobre/"
   },
   "1939": {
-   "available": true,
+   "available": false,
    "price": 18.9,
    "title": "Protector Acrílico Magnético ETB Pokémon Premium",
    "url": "https://flashstore.es/producto/protector-magnetico-etb/"
@@ -27167,7 +27167,7 @@
   "16223389188421": {
    "available": false,
    "price": 42.0,
-   "title": "[EXPEDITION] Palworld - Protèges-cartes et Cartes Set Vol.1 [EN]",
+   "title": "Palworld - Protèges-cartes et Cartes Set Vol.1 [EN]",
    "url": "https://masterset.store/products/palworld-prot-ges-cartes-et-cartes-set-vol-1-en"
   },
   "16223424676165": {
@@ -27178,7 +27178,7 @@
   },
   "16232674656581": {
    "available": false,
-   "price": 372.0,
+   "price": 360.0,
    "title": "[PRECOMMANDE]  Pokémon [Japonais] - MEGA PACK 9 Coffrets First Partners – Pokémon 30th Celebration",
    "url": "https://masterset.store/products/pok-mon-japonais-mega-pack-9-coffrets-first-partners-pok-mon-30th-celebration"
   },
@@ -31691,7 +31691,7 @@
    "url": "https://metamorphcenter.com/products/sobre-op16-the-time-of-battle-japones"
   },
   "10880337281366": {
-   "available": true,
+   "available": false,
    "price": 2.0,
    "title": "Sobre Night Wanderer - Coreano",
    "url": "https://metamorphcenter.com/products/sobre-night-wanderer-coreano"
@@ -34325,7 +34325,7 @@
   "12036322951432": {
    "available": true,
    "price": 24.9,
-   "title": "Classeur ZIP 480 cartes - Phoenix Shield",
+   "title": "Classeur ZIP SLEEVES 480 cartes - Phoenix Shield",
    "url": "https://pika-boutique.fr/products/classeur-480-cartes-phoenix-shield"
   },
   "12036326523144": {
@@ -34639,6 +34639,12 @@
    "price": 3.0,
    "title": "Carte unité ME05.5 - Ultra Rare",
    "url": "https://pika-boutique.fr/products/carte-unite-me05-5-ultra-rare"
+  },
+  "12339956973832": {
+   "available": true,
+   "price": 26.9,
+   "title": "Classeur ZIP TOPLOADER 480 cartes - Phoenix Shield",
+   "url": "https://pika-boutique.fr/products/classeur-zip-480-cartes-phoenix-shield"
   },
   "8377953616136": {
    "available": true,
@@ -44263,7 +44269,7 @@
    "url": "https://www.pokemillon.com/products/topps®-arsenal-forever"
   },
   "15305682190659": {
-   "available": true,
+   "available": false,
    "price": 329.9,
    "title": "Topps | 2024 Chrome Formula 1 - HOBBY",
    "url": "https://www.pokemillon.com/products/topps-2024-chrome-formula-1-hobby"
@@ -49369,7 +49375,7 @@
    "url": "https://www.pokemillon.com/products/kanto-powers-collection-dragonite-ex-pidgeot-ex"
   },
   "15414724952387": {
-   "available": true,
+   "available": false,
    "price": 590.0,
    "title": "Sobre Neo Discovery (1st Edition) \"Smeagle\"",
    "url": "https://www.pokemillon.com/products/sobre-neo-discovery-1st-edition"
@@ -49483,7 +49489,7 @@
    "url": "https://www.pokemillon.com/products/sobres-choque-rebelde-rebel-clash"
   },
   "15432612086083": {
-   "available": true,
+   "available": false,
    "price": 390.0,
    "title": "Sobre Fossil Unlimited \"Lapras\" 1999-2000",
    "url": "https://www.pokemillon.com/products/sobre-fossil-unlimited-lapras-1999-2000"
@@ -49495,13 +49501,13 @@
    "url": "https://www.pokemillon.com/products/sobre-unlimited-flareon-jungla-jungle"
   },
   "15432620310851": {
-   "available": true,
+   "available": false,
    "price": 629.9,
    "title": "Sobre Unlimited \"Gyarados\" Base Set 2",
    "url": "https://www.pokemillon.com/products/sobre-unlimited-gyarados-base-set-2"
   },
   "15432627519811": {
-   "available": true,
+   "available": false,
    "price": 590.0,
    "title": "Sobre Neo Discovery Unlimited \"Scizor\"",
    "url": "https://www.pokemillon.com/products/sobre-neo-discovery"
@@ -49555,7 +49561,7 @@
    "url": "https://www.pokemillon.com/products/caja-18-sobres-espada-y-escudo-sworld-and-shield"
   },
   "15432649539907": {
-   "available": true,
+   "available": false,
    "price": 499.95,
    "title": "Sobre Unlimited \"Brook\" Gym Heroes",
    "url": "https://www.pokemillon.com/products/sobre-unlimited-brook-gym-heroes"
@@ -51931,7 +51937,7 @@
    "url": "https://www.pokemillon.com/products/sobre-fossil-1999-2000-es"
   },
   "9153193967939": {
-   "available": true,
+   "available": false,
    "price": 1200.0,
    "title": "Sobre Fossil 1st Edition \"Aerodactyl\" 1999-2000",
    "url": "https://www.pokemillon.com/products/sobre-fossil-aerodactyl-1999-2000-es"
@@ -54807,7 +54813,7 @@
    "url": "https://www.relictcg.com/products/coffret-dresseur-delite-ecarlate-et-violet-rivalites-destinees-ev10-fr"
   },
   "15368966832473": {
-   "available": false,
+   "available": true,
    "price": 9.0,
    "title": "Booster - Écarlate et Violet : Rivalités Destinées [EV10] - FR",
    "url": "https://www.relictcg.com/products/booster-ecarlate-et-violet-rivalites-destinees-ev10-fr"
@@ -62694,7 +62700,7 @@
    "available": true,
    "price": 10.0,
    "title": "SKIRMISH 2 - Riftbound - Vendetta - 11 Oct 2026",
-   "url": "https://www.relictcg.com/products/duplicate-skirmish-riftbound-vendetta-1"
+   "url": "https://www.relictcg.com/products/skirmish-riftbound-vendetta-2"
   },
   "16590708867417": {
    "available": true,
@@ -82706,7 +82712,7 @@
   },
   "15871110938972": {
    "available": true,
-   "price": 34.9,
+   "price": 29.9,
    "title": "Yu-Gi-Oh! Guerrier Panthère du Vent Rapide : STAR BETB-FR001",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-guerrier-panthere-du-vent-rapide-star-betb-fr001"
   },
@@ -82802,7 +82808,7 @@
   },
   "15871111987548": {
    "available": true,
-   "price": 29.9,
+   "price": 24.9,
    "title": "Yu-Gi-Oh! Dragon-Levia d'Atlantis - Dédale : STAR BETB-FR013",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-levia-datlantis-dedale-star-betb-fr013"
   },
@@ -82832,7 +82838,7 @@
   },
   "15871112315228": {
    "available": true,
-   "price": 29.9,
+   "price": 24.9,
    "title": "Yu-Gi-Oh! Vortex Sirène d'Atlantis : STAR BETB-FR016",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-vortex-sirene-datlantis-star-betb-fr016"
   },
@@ -82844,7 +82850,7 @@
   },
   "15871112642908": {
    "available": true,
-   "price": 79.9,
+   "price": 49.9,
    "title": "Yu-Gi-Oh! Théoréalisation Medius : STAR BETB-FR017",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-theorealisation-medius-star-betb-fr017"
   },
@@ -82856,7 +82862,7 @@
   },
   "15871112937820": {
    "available": true,
-   "price": 59.9,
+   "price": 49.9,
    "title": "Yu-Gi-Oh! Ars Magna le Fini et l'Infini : STAR BETB-FR018",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-ars-magna-le-fini-et-linfini-star-betb-fr018"
   },
@@ -82879,7 +82885,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-destro-dogma-heros-de-la-destinee-sr-betb-fr021"
   },
   "15871113757020": {
-   "available": false,
+   "available": true,
    "price": 59.9,
    "title": "Yu-Gi-Oh! Destro-Dogma - HÉROS de la Destinée : STAR BETB-FR021",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-destro-dogma-heros-de-la-destinee-star-betb-fr021"
@@ -82891,7 +82897,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-seigneur-supreme-de-la-damnation-heros-de-la-destinee-ur-betb-fr022"
   },
   "15871113888092": {
-   "available": false,
+   "available": true,
    "price": 59.9,
    "title": "Yu-Gi-Oh! Seigneur Suprême de la Damnation - HÉROS de la Destinée : STAR BETB-FR022",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-seigneur-supreme-de-la-damnation-heros-de-la-destinee-star-betb-fr022"
@@ -82922,7 +82928,7 @@
   },
   "15871114215772": {
    "available": true,
-   "price": 49.9,
+   "price": 39.9,
    "title": "Yu-Gi-Oh! Dragon Crâne Noir, l'Archdémon de l'Unité : STAR BETB-FR026",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-crane-noir-larchdemon-de-lunite-star-betb-fr026"
   },
@@ -83029,7 +83035,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-maitre-sans-effroi-heros-de-la-destinee-sr-betb-fr037"
   },
   "15871115198812": {
-   "available": false,
+   "available": true,
    "price": 59.9,
    "title": "Yu-Gi-Oh! Maître Sans Effroi - HÉROS de la Destinée : STAR BETB-FR037",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-maitre-sans-effroi-heros-de-la-destinee-star-betb-fr037"
@@ -83108,7 +83114,7 @@
   },
   "15871115952476": {
    "available": true,
-   "price": 29.9,
+   "price": 24.9,
    "title": "Yu-Gi-Oh! Seigneur Dragon Océan Azur - Rage du Néo-Dédale : STAR BETB-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-seigneur-dragon-ocean-azur-rage-du-neo-dedale-star-betb-fr046"
   },
@@ -83126,7 +83132,7 @@
   },
   "15871116116316": {
    "available": true,
-   "price": 79.9,
+   "price": 59.9,
    "title": "Yu-Gi-Oh! Mediclius le Mécène du Pouvoir de l'Extraordinaire : STAR BETB-FR048",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-mediclius-le-mecene-du-pouvoir-de-lextraordinaire-star-betb-fr048"
   },
@@ -83221,7 +83227,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-ville-tenebreuse-a-minuit-ur-betb-fr062"
   },
   "15871117230428": {
-   "available": false,
+   "available": true,
    "price": 59.9,
    "title": "Yu-Gi-Oh! Ville Ténébreuse à Minuit : STAR BETB-FR062",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-ville-tenebreuse-a-minuit-star-betb-fr062"
@@ -83264,7 +83270,7 @@
   },
   "15871117623644": {
    "available": true,
-   "price": 99.9,
+   "price": 79.9,
    "title": "Yu-Gi-Oh! Hé, Espace Trunade ! : STAR BETB-FR068",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-he-espace-trunade-star-betb-fr068"
   },
@@ -83462,7 +83468,7 @@
   },
   "15871120834908": {
    "available": true,
-   "price": 49.9,
+   "price": 39.9,
    "title": "Yu-Gi-Oh! Verre, la Domestique d'Endymion : STAR BETB-FR098",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-verre-la-domestique-dendymion-star-betb-fr098"
   },
