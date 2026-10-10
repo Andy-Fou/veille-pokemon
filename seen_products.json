@@ -503,7 +503,7 @@
    "url": "https://flashstore.es/producto/pokemon-go-sobre/"
   },
   "1939": {
-   "available": false,
+   "available": true,
    "price": 18.9,
    "title": "Protector Acrílico Magnético ETB Pokémon Premium",
    "url": "https://flashstore.es/producto/protector-magnetico-etb/"
@@ -14243,7 +14243,7 @@
    "url": "https://kairyu.fr/products/scelle-ultra-premium-mew-fr"
   },
   "8632647156047": {
-   "available": true,
+   "available": false,
    "price": 279.9,
    "title": "[SCELLE] Lot de 5 Mini Tins Pokémon 151 [FR]",
    "url": "https://kairyu.fr/products/scelle-lot-de-5-mini-tins-pokemon-151-fr"
