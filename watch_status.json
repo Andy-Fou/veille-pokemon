@@ -1199,7 +1199,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-center-pokemon-30th-celebration-playmat"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 32.9,
@@ -1406,5 +1406,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-11T08:18:13+00:00"
+ "updated": "2026-10-11T08:39:59+00:00"
 }
