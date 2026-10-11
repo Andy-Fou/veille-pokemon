@@ -938,7 +938,7 @@
    "url": "https://www.pokemillon.com/products/caja-20-sobres-pokemon-30th-anniversary-m6a"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 146.9,
@@ -1406,5 +1406,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-11T13:18:23+00:00"
+ "updated": "2026-10-11T13:38:29+00:00"
 }
