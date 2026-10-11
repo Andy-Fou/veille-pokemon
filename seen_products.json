@@ -1456,14 +1456,14 @@
   },
   "10175434195273": {
    "available": true,
-   "price": 92.0,
+   "price": 90.0,
    "title": "Pokémon TCG - Elite Trainer Box Pitch Black (Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-pitch-black-ingles-espanol"
   },
   "10175441437001": {
-   "available": false,
-   "price": 42.0,
-   "title": "Pokémon TCG - Booster Bundle Pitch Black (Ingles & Español)",
+   "available": true,
+   "price": 52.0,
+   "title": "Pokémon TCG - Booster Bundle Pitch Black (Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-bundle-pitch-black-ingles-espanol"
   },
   "10175535743305": {
@@ -79747,7 +79747,7 @@
    "url": "https://tradingcardsxxx.fr/products/dragon-ball-super-masters-display-de-24-boosters-b31-impact-beyond-dimensions"
   },
   "15721810067804": {
-   "available": true,
+   "available": false,
    "price": 7.5,
    "title": "Dragon Ball Super Masters - Booster de 12 cartes B31 : Impact Beyond Dimensions",
    "url": "https://tradingcardsxxx.fr/products/dragon-ball-super-masters-booster-de-12-cartes-b31-impact-beyond-dimensions"
