@@ -39739,7 +39739,7 @@
    "url": "https://www.pokemillon.com/products/cgc-6-sylveon-ex-gen-rc21-generaciones"
   },
   "15026523996483": {
-   "available": true,
+   "available": false,
    "price": 54.9,
    "title": "Caja 30 Sobres Mega Brave m1L",
    "url": "https://www.pokemillon.com/products/caja-mega-brave"
@@ -55545,7 +55545,7 @@
    "url": "https://www.relictcg.com/products/booster-collector-strixhaven-jp"
   },
   "15449596297561": {
-   "available": true,
+   "available": null,
    "price": 42.0,
    "title": "Coffret - Collection Spéciale Lenticulaire Dracaufeu Ex - FR",
    "url": "https://www.relictcg.com/products/coffret-collection-speciale-lenticulaire-dracaufeu-ex-fr"
@@ -71276,13 +71276,13 @@
   },
   "15510205202780": {
    "available": true,
-   "price": 199.9,
+   "price": 219.9,
    "title": "Dragon Ball Super Masters - Display de 24 boosters B30 : Three Glorious Fighters",
    "url": "https://tradingcardsxxx.fr/products/dragon-ball-super-masters-display-de-24-boosters-b30-three-glorious-fighters"
   },
   "15510212018524": {
    "available": true,
-   "price": 8.9,
+   "price": 9.9,
    "title": "Dragon Ball Super Masters - Booster de 12 cartes B30 : Three Glorious Fighters",
    "url": "https://tradingcardsxxx.fr/products/dragon-ball-super-masters-booster-de-12-cartes-b30-three-glorious-fighters"
   },
@@ -83567,6 +83567,12 @@
    "price": 3.5,
    "title": "Yu-Gi-Oh! Token \"Gong Strong & Superheavy Samurai Warlord Susanowo\" : SR BETB / TKN5-EN056",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-token-gong-strong-sr-betb-tkn5-en056"
+  },
+  "15884277154140": {
+   "available": true,
+   "price": 11.9,
+   "title": "One Piece - Blister de 12 cartes OP14-EB04 : Les Sept de la Mer d'Azur",
+   "url": "https://tradingcardsxxx.fr/products/one-piece-blister-de-12-cartes-op14-eb04-les-sept-de-la-mer-dazur"
   },
   "7331019194539": {
    "available": true,
