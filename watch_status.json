@@ -1388,7 +1388,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-pack-promotionnel-de-2-boosters-evoli-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1397,7 +1397,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-amphinobi-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1406,7 +1406,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 199.9,
@@ -1415,7 +1415,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 49.9,
@@ -1442,7 +1442,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-5-30e-anniversaire"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 29.9,
@@ -1451,5 +1451,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-12T15:05:05+00:00"
+ "updated": "2026-10-12T15:42:49+00:00"
 }
