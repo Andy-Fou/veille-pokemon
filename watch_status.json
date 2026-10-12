@@ -365,7 +365,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 66.0,
+   "price": 65.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Binder collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-binder-collection-espanol"
@@ -1289,7 +1289,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-6-boosters-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 39.99,
@@ -1298,7 +1298,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-mini-tin-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 99.99,
@@ -1451,5 +1451,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-12T10:00:38+00:00"
+ "updated": "2026-10-12T10:26:54+00:00"
 }
