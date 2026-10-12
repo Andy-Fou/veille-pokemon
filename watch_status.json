@@ -947,19 +947,19 @@
    "url": "https://www.pokemillon.com/products/pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 89.9,
+   "price": 79.9,
    "shop": "Pokemillon",
    "title": "Caja Figura Mew Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/caja-figura-mew-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 89.9,
+   "price": 79.9,
    "shop": "Pokemillon",
    "title": "Caja Figura Mewtwo Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/caja-figura-mewtwo-celebraciones-30-aniversario-celebrations-30th"
@@ -1013,7 +1013,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 59.9,
+   "price": 99.9,
    "shop": "Pokemillon",
    "title": "Ditto Premium Box Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ditto-premium-box-30th"
@@ -1451,5 +1451,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   }
  ],
- "updated": "2026-10-12T17:41:48+00:00"
+ "updated": "2026-10-12T18:20:47+00:00"
 }
