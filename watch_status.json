@@ -839,10 +839,10 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-elite-trainer-box-tech-sticker-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 19.9,
+   "price": 29.9,
    "shop": "Pokemillon",
    "title": "30th Celebration Espeon Battle Deck Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-celebration-espeon-battle-deck-celebraciones-30-aniversario"
@@ -855,6 +855,15 @@
    "shop": "Pokemillon",
    "title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario"
+  },
+  {
+   "available": true,
+   "country": "ES",
+   "kind": "anniv",
+   "price": 29.9,
+   "shop": "Pokemillon",
+   "title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario",
+   "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario-1"
   },
   {
    "available": false,
@@ -938,7 +947,7 @@
    "url": "https://www.pokemillon.com/products/caja-20-sobres-pokemon-30th-anniversary-m6a"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 146.9,
@@ -1010,7 +1019,7 @@
    "url": "https://www.pokemillon.com/products/case-6-first-partner-series-3-primer-companero-30-aniversario-espanol"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 99.9,
@@ -1469,5 +1478,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-13T20:07:38+00:00"
+ "updated": "2026-10-13T20:56:38+00:00"
 }
