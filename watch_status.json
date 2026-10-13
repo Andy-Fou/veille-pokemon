@@ -74,7 +74,7 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-ultra-premium-collection-ditto-premium-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -83,7 +83,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -842,7 +842,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 29.9,
+   "price": 49.9,
    "shop": "Pokemillon",
    "title": "30th Celebration Espeon Battle Deck Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-celebration-espeon-battle-deck-celebraciones-30-aniversario"
@@ -860,7 +860,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 29.9,
+   "price": 54.9,
    "shop": "Pokemillon",
    "title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario-1"
@@ -929,7 +929,7 @@
    "url": "https://www.pokemillon.com/products/blister-lucario-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 49.95,
@@ -956,7 +956,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 79.9,
@@ -965,7 +965,7 @@
    "url": "https://www.pokemillon.com/products/caja-figura-mew-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 79.9,
@@ -1478,5 +1478,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-13T20:56:38+00:00"
+ "updated": "2026-10-13T21:26:42+00:00"
 }
