@@ -1406,7 +1406,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 199.9,
@@ -1433,7 +1433,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-display-de-10-mini-tin-me05-5-30e-anniversaire"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 84.9,
@@ -1449,7 +1449,25 @@
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Pack 2 boosters 30e Anniversaire ME05.5 : Évoli",
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 59.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Pokébox 30e Anniversaire ME05.5 : Amphinobi ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-amphinobi-ex"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 59.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Pokébox 30e Anniversaire ME05.5 : Nymphali ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-13T09:25:44+00:00"
+ "updated": "2026-10-13T09:59:14+00:00"
 }

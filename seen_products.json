@@ -1089,7 +1089,7 @@
   "etb-pokemon-equilibre-parfait-mega-zygarde-me03-scelle-francais": {
    "available": null,
    "price": null,
-   "title": "ETB - Pokemon - Équilibre Parfait - Méga-Zygarde - ME03 - Scellé - Français",
+   "title": "etb pokemon equilibre parfait mega zygarde me03 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/etb-pokemon-equilibre-parfait-mega-zygarde-me03-scelle-francais.html"
   },
   "etb-pokemon-flammes-fantasmagoriques-mega-dracaufeu-x-me02-scelle-francais": {
@@ -24136,7 +24136,7 @@
   },
   "15670591029573": {
    "available": false,
-   "price": 113.0,
+   "price": 109.0,
    "title": "Naruto Mythos [FR] : Display de 24 boosters Set 1 Konoha Shidō",
    "url": "https://masterset.store/products/naruto-mythos-fr-display-de-24-boosters-set-1-konoha-shid"
   },
@@ -24664,7 +24664,7 @@
   },
   "15775120097605": {
    "available": false,
-   "price": 120.0,
+   "price": 109.0,
    "title": "Naruto Mythos [FR] : Display de 24 boosters Set 1 2d edition",
    "url": "https://masterset.store/products/precommande-naruto-mythos-fr-display-de-24-boosters-set-1-2d-edition"
   },
@@ -24838,7 +24838,7 @@
   },
   "15842744336709": {
    "available": false,
-   "price": 126.0,
+   "price": 109.0,
    "title": "Naruto Mythos [EN] : Display de 24 boosters Set 1 Konoha Shidō",
    "url": "https://masterset.store/products/naruto-mythos-en-display-de-24-boosters-set-1-konoha-shido"
   },
@@ -67915,7 +67915,7 @@
    "url": "https://tradingcardsxxx.fr/products/one-piece-extra-booster-de-12-cartes-eb-02-anime-25th-collection"
   },
   "15153687331164": {
-   "available": true,
+   "available": false,
    "price": 29.9,
    "title": "Pokémon - Collection Autocollant Réajustable EV10.5 Foudre Noire : Symbios",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-autocollant-reajustable-ev10-5-foudre-noire-symbios"
@@ -68689,13 +68689,13 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-clip-du-son-kewl-sr-phre-fr032"
   },
   "15329749533020": {
-   "available": true,
+   "available": null,
    "price": 24.9,
    "title": "Yu-Gi-Oh! Clip du Son Kewl : CR PHRE-FR032",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-clip-du-son-kewl-cr-phre-fr032"
   },
   "15329749565788": {
-   "available": true,
+   "available": null,
    "price": 39.9,
    "title": "Yu-Gi-Oh! Clip du Son Kewl : STAR PHRE-FR032",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-clip-du-son-kewl-star-phre-fr032"
@@ -79657,7 +79657,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-tri-pack-me05-nuit-noire-opermine"
   },
   "15669545042268": {
-   "available": true,
+   "available": false,
    "price": 74.9,
    "title": "Pokémon - Coffret Dresseur d'Élite ME05 Nuit Noire : Méga Darkrai",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-nuit-noire-mega-darkrai"
@@ -82753,7 +82753,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-amphinobi-ex"
   },
   "15812623991132": {
-   "available": true,
+   "available": false,
    "price": 199.9,
    "title": "Pokémon - Coffret Dresseur d'Élite ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
@@ -82765,7 +82765,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-duo-pack-de-2-boosters-octobre-2026-ectoplasma-mimiqui-et-marshadow"
   },
   "15855167570268": {
-   "available": true,
+   "available": false,
    "price": 84.9,
    "title": "Pokémon - Lot de 6 boosters ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-5-30e-anniversaire"
@@ -83621,6 +83621,18 @@
    "price": 3.5,
    "title": "Yu-Gi-Oh! Token \"Gong Strong & Superheavy Samurai Warlord Susanowo\" : SR BETB / TKN5-EN056",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-token-gong-strong-sr-betb-tkn5-en056"
+  },
+  "15882582557020": {
+   "available": true,
+   "price": 59.9,
+   "title": "Pokémon - Pokébox 30e Anniversaire ME05.5 : Nymphali ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
+  },
+  "15882604970332": {
+   "available": true,
+   "price": 59.9,
+   "title": "Pokémon - Pokébox 30e Anniversaire ME05.5 : Amphinobi ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-amphinobi-ex"
   },
   "15884277154140": {
    "available": true,
