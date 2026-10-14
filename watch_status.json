@@ -74,7 +74,7 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-ultra-premium-collection-ditto-premium-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -1217,7 +1217,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 7.99,
@@ -1478,5 +1478,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-14T05:53:39+00:00"
+ "updated": "2026-10-14T06:34:56+00:00"
 }
