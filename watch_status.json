@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 286.0,
+   "price": 284.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 286.0,
+   "price": 284.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -329,7 +329,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 75.0,
+   "price": 74.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
@@ -338,7 +338,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - First Partners Illustration Collection - Series 1 - 30th Anniversary (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol"
@@ -347,7 +347,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - First Partners Illustration Collection - Series 2 - 30th Anniversary (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-2-30th-anniversary-ingles-espanol"
@@ -374,7 +374,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 66.0,
+   "price": 65.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Binder collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-binder-collection-espanol"
@@ -428,7 +428,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 34.0,
+   "price": 33.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Poster Collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-poster-collection-espanol"
@@ -1505,5 +1505,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-14T13:06:02+00:00"
+ "updated": "2026-10-14T13:57:16+00:00"
 }
