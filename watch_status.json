@@ -39,6 +39,15 @@
   },
   {
    "available": false,
+   "country": "FR",
+   "kind": "watch",
+   "price": 0.0,
+   "shop": "Le Bordel Magique",
+   "title": "Ultra-Premium Pokémon 30th Mentali édition jour / Noctali édition Nuit FR",
+   "url": "https://lebordelmagique.com/products/ultra-premium-pokemon-30th-mentali-edition-jour"
+  },
+  {
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 250.0,
@@ -196,15 +205,6 @@
    "kind": "anniv",
    "price": null,
    "shop": "InvestCollect",
-   "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
-   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "InvestCollect",
    "title": "case 10 etb pokemon 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/case-10-etb-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
   },
@@ -252,6 +252,15 @@
    "shop": "InvestCollect",
    "title": "coffret pokemon collection figurine mewtwo 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-figurine-mewtwo-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "coffret pokemon collection premium metamorph 30e anniversaire me05_5 scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
   },
   {
    "available": null,
@@ -509,6 +518,15 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 0.0,
+   "shop": "Le Bordel Magique",
+   "title": "Coffret collection Premium Metamorph Pokémon 30th",
+   "url": "https://lebordelmagique.com/products/coffret-metamorph-pokemon-30th"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 19.99,
    "shop": "Le Bordel Magique",
    "title": "Coffret collection autocollant réajustable Pokémon 30 ans",
@@ -522,6 +540,15 @@
    "shop": "Le Bordel Magique",
    "title": "Coffret duopack Pokémon 30 ans 30th",
    "url": "https://lebordelmagique.com/products/coffret-duopack-pokemon-30-ans"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 0.0,
+   "shop": "Le Bordel Magique",
+   "title": "Coffret figurine Mew / Mewtwo Pokémon 30th FR",
+   "url": "https://lebordelmagique.com/products/coffret-mew-pokemon-30th-fr"
   },
   {
    "available": false,
@@ -1478,5 +1505,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-14T11:30:12+00:00"
+ "updated": "2026-10-14T12:10:03+00:00"
 }
