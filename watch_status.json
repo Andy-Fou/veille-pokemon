@@ -866,7 +866,7 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-elite-trainer-box-tech-sticker-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 49.9,
@@ -1505,5 +1505,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-15T11:29:34+00:00"
+ "updated": "2026-10-15T12:10:18+00:00"
 }
