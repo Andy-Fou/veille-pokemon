@@ -212,6 +212,12 @@
    "title": "Pokémon - Coffret Méga-Kangourex ex - Nov 2025",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok247204-pokemon-coffret-mega-kangourex-ex-nov-2025-44660"
   },
+  "45000": {
+   "available": null,
+   "price": null,
+   "title": "Pokémon - Coffret Collection avec Pin’s Deluxe Premiers Partenaires - ME2.5 Héros Transcendants",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok251806-pokemon-coffret-collection-avec-pin-s-deluxe-premiers-partenaires-me2-5-heros-transcendants-45000"
+  },
   "45017": {
    "available": null,
    "price": null,
@@ -247,6 +253,12 @@
    "price": null,
    "title": "Pokémon - Bundle 6 Boosters - ME03 Équilibre Parfait",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok165731-pokemon-bundle-6-boosters-me03-equilibre-parfait-45176"
+  },
+  "45260": {
+   "available": null,
+   "price": null,
+   "title": "Pokémon - Coffret ex 4 Boosters - ME2.5 Héros Transcendants (Aléatoire)",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok254608-pokemon-coffret-ex-4-boosters-me2-5-heros-transcendants-aleatoire-45260"
   },
   "45282": {
    "available": null,
@@ -1252,7 +1264,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1405.0,
+   "price": 1406.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1294,7 +1306,7 @@
   },
   "10074734723401": {
    "available": false,
-   "price": 688.0,
+   "price": 689.0,
    "title": "Pokémon TCG - Case X10 ETB Ascended Heroes (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-ascended-heroes-espanol"
   },
@@ -1348,7 +1360,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1120.0,
+   "price": 1121.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -1588,13 +1600,13 @@
   },
   "10234751582537": {
    "available": true,
-   "price": 172.0,
+   "price": 173.0,
    "title": "Pokémon TCG - Terastal Grand Gathering | Advanced Gift Box (Chino Simplificado)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-terastal-grand-gathering-advanced-gift-box-chino-simplificado"
   },
   "10234781204809": {
    "available": false,
-   "price": 367.0,
+   "price": 368.0,
    "title": "Pokémon TCG - Terastal Grand Gathering | Premium Box (Chino Simplificado)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-terastal-grand-gathering-premium-box-chino-simplificado"
   },
@@ -1948,7 +1960,7 @@
   },
   "9760309477705": {
    "available": true,
-   "price": 149.0,
+   "price": 150.0,
    "title": "Pokémon TCG - Super Premium Collection Evoluciones Prismáticas (Ingles)",
    "url": "https://www.jjcollection.es/products/evoluciones-prismaticas-super-premium-collection-jcc-pokemon"
   },
@@ -2062,7 +2074,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.93,
+   "price": 22.94,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2230,7 +2242,7 @@
   },
   "9900877349193": {
    "available": false,
-   "price": 172.0,
+   "price": 173.0,
    "title": "Riftbound League of Legends - SpiritForged Booster Box (Inglés)",
    "url": "https://www.jjcollection.es/products/piritforged-booster-box-24"
   },
@@ -82861,7 +82873,7 @@
    "url": "https://tradingcardsxxx.fr/products/one-piece-lot-de-4-blisters-op17-les-guerriers-les-plus-puissants-au-monde"
   },
   "15811429433692": {
-   "available": false,
+   "available": true,
    "price": 29.9,
    "title": "Pokémon - Pack 2 boosters 30e Anniversaire ME05.5 : Évoli",
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
@@ -82885,7 +82897,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-amphinobi-ex"
   },
   "15812623991132": {
-   "available": false,
+   "available": true,
    "price": 199.9,
    "title": "Pokémon - Coffret Dresseur d'Élite ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
