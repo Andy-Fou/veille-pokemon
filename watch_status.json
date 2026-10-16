@@ -1316,13 +1316,22 @@
    "url": "https://strikegames.shop/products/pack-pokemon-1-boite-nymphali-ex-ou-amphinobi-ex-30e-anniversaire-1-pokebox-2026-8-aleatoire-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 79.99,
    "shop": "Strike Games",
    "title": "Pack Pokémon : 1 Bundle 30e Anniversaire + 1 Pokebox 2026/8 (aléatoire) | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-6-boosters-fr"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 79.99,
+   "shop": "Strike Games",
+   "title": "Pack Pokémon : 1 Bundle 30e Anniversaire + 1 Pokéball (3 Boosters) | FR",
+   "url": "https://strikegames.shop/products/pack-pokemon-1-bundle-30e-anniversaire-1-pokeball-3-boosters-fr"
   },
   {
    "available": false,
@@ -1332,6 +1341,15 @@
    "shop": "Strike Games",
    "title": "Pack Pokémon : 1 Mini Tin 30e Anniversaire + 1 Tripack Chaos Ascendant | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-mini-tin-fr"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 109.99,
+   "shop": "Strike Games",
+   "title": "Pack Pokémon : Bundle 30e Anniversaire + Méga-Amphinobi ex Premium Collection | FR",
+   "url": "https://strikegames.shop/products/pack-pokemon-bundle-30e-anniversaire-mega-amphinobi-ex-premium-collection-fr"
   },
   {
    "available": false,
@@ -1505,5 +1523,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-16T08:01:19+00:00"
+ "updated": "2026-10-16T08:37:12+00:00"
 }
