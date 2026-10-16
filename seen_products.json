@@ -1264,7 +1264,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1402.0,
+   "price": 1403.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1306,7 +1306,7 @@
   },
   "10074734723401": {
    "available": false,
-   "price": 687.0,
+   "price": 688.0,
    "title": "Pokémon TCG - Case X10 ETB Ascended Heroes (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-ascended-heroes-espanol"
   },
@@ -1318,7 +1318,7 @@
   },
   "10081469432137": {
    "available": true,
-   "price": 198.0,
+   "price": 199.0,
    "title": "Pokémon TCG - Case x6 Mega Charizard ex Tin (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-mega-charizard-ex-tin-espanol"
   },
@@ -1360,13 +1360,13 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1118.0,
+   "price": 1119.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
   "10112722338121": {
    "available": false,
-   "price": 80.0,
+   "price": 81.0,
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
   },
@@ -1630,7 +1630,7 @@
   },
   "10243905814857": {
    "available": false,
-   "price": 166.0,
+   "price": 167.0,
    "title": "One Piece Card Game - Booster Box OP-16 The Time of Battle (Inglés)",
    "url": "https://www.jjcollection.es/products/one-piece-card-game-booster-box-op-16-the-time-of-battle-ingles"
   },
@@ -1942,7 +1942,7 @@
   },
   "9759995855177": {
    "available": false,
-   "price": 32.0,
+   "price": 33.0,
    "title": "Pokémon TCG - Infernape V Collection Box (Español)",
    "url": "https://www.jjcollection.es/products/infernape-collection-espanol"
   },
@@ -2074,7 +2074,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.89,
+   "price": 22.9,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2555,7 +2555,7 @@
    "url": "https://kairyu.fr/products/scelle-coffret-premium-carchacrok-ex-de-cynthia-fr"
   },
   "15471824109903": {
-   "available": true,
+   "available": false,
    "price": 109.9,
    "title": "[SCELLE] Elite Trainer Box EV10.5 - Foudre Noire [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-ev10-5-foudre-noire-fr"
@@ -33813,8 +33813,8 @@
    "url": "https://pika-boutique.fr/products/booster-carton-aventures-ensemble-ev09"
   },
   "10152891285768": {
-   "available": false,
-   "price": 7.5,
+   "available": true,
+   "price": 7.9,
    "title": "Booster Aventures Ensemble - EV09",
    "url": "https://pika-boutique.fr/products/booster-aventures-ensemble-ev09"
   },
@@ -33895,6 +33895,12 @@
    "price": 54.9,
    "title": "Boîte Surprise Evolution Prismatique - EV08.5",
    "url": "https://pika-boutique.fr/products/bundle-evolution-prismatic-ev08-5"
+  },
+  "10219902861576": {
+   "available": true,
+   "price": 139.9,
+   "title": "ETB Evolution Prismatique - EV08.5",
+   "url": "https://pika-boutique.fr/products/etb-evolution-prismatique-ev08-5-scellage-abime"
   },
   "10223339045128": {
    "available": true,
@@ -33993,7 +33999,7 @@
    "url": "https://pika-boutique.fr/products/coffret-mega-kangourex-ex"
   },
   "10594248163592": {
-   "available": false,
+   "available": true,
    "price": 9.9,
    "title": "Booster Flammes Fantasmagoriques - ME02",
    "url": "https://pika-boutique.fr/products/booster-flammes-phantasmagoriques-me02"
@@ -34801,6 +34807,12 @@
    "price": 44.9,
    "title": "[PRECOMMANDE] à venir Bundle Règne Delta - ME06",
    "url": "https://pika-boutique.fr/products/precommande-a-venir-bundle-regne-delta-me06"
+  },
+  "12353164312840": {
+   "available": true,
+   "price": 89.9,
+   "title": "ETB Aventures Ensemble - EV09",
+   "url": "https://pika-boutique.fr/products/etb-aventures-ensemble-ev09"
   },
   "8377953616136": {
    "available": true,
@@ -68003,7 +68015,7 @@
    "url": "https://strikegames.shop/products/pack-pokemon-coffret-amphinobi-ex-30e-anniversaire-mega-amphinobi-ex-premium-collection-fr"
   },
   "16094708826456": {
-   "available": true,
+   "available": false,
    "price": 79.99,
    "title": "Pack Pokémon : 1 Boîte Nymphali-ex ou Amphinobi-ex 30e Anniversaire + 1 Pokebox 2026/8 (aléatoire) | FR",
    "url": "https://strikegames.shop/products/pack-pokemon-1-boite-nymphali-ex-ou-amphinobi-ex-30e-anniversaire-1-pokebox-2026-8-aleatoire-fr"

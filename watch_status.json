@@ -365,7 +365,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 80.0,
+   "price": 81.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1307,7 +1307,7 @@
    "url": "https://www.relictcg.com/products/duplicate-soiree-anniversaire-pokemon-day-1"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 79.99,
@@ -1523,5 +1523,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-16T17:26:17+00:00"
+ "updated": "2026-10-16T18:07:44+00:00"
 }
