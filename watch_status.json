@@ -1325,7 +1325,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-6-boosters-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 79.99,
@@ -1523,5 +1523,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-16T20:02:59+00:00"
+ "updated": "2026-10-16T20:53:06+00:00"
 }
