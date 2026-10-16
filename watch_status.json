@@ -1316,7 +1316,7 @@
    "url": "https://strikegames.shop/products/pack-pokemon-1-boite-nymphali-ex-ou-amphinobi-ex-30e-anniversaire-1-pokebox-2026-8-aleatoire-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 79.99,
@@ -1523,5 +1523,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-16T11:10:04+00:00"
+ "updated": "2026-10-16T11:54:15+00:00"
 }
