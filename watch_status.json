@@ -633,6 +633,15 @@
   },
   {
    "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 83.0,
+   "shop": "Masterset",
+   "title": "[PRECOMMANDE] Weiss Schwarz [EN] - Boîte de 10 Boosters - Persona 30th Anniversary",
+   "url": "https://masterset.store/products/weiss-schwarz-en-bo-te-de-10-boosters-persona-30th-anniversary"
+  },
+  {
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 24.95,
@@ -1523,5 +1532,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-18T22:23:00+00:00"
+ "updated": "2026-10-18T23:01:03+00:00"
 }
