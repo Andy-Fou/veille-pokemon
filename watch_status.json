@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 286.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 286.0,
+   "price": 287.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -1343,6 +1343,15 @@
    "url": "https://strikegames.shop/products/pack-pokemon-1-bundle-30e-anniversaire-1-pokeball-3-boosters-fr"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 39.99,
+   "shop": "Strike Games",
+   "title": "Pack Pokémon : 1 Mini Tin 30e Anniversaire + 1 Pack promotionnel de 2 boosters Zarude | FR",
+   "url": "https://strikegames.shop/products/pack-pokemon-1-mini-tin-30e-anniversaire-1-pack-promotionnel-de-2-boosters-zarude-fr"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1532,5 +1541,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-19T17:52:11+00:00"
+ "updated": "2026-10-19T18:31:51+00:00"
 }
