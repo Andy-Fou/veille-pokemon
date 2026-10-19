@@ -1258,7 +1258,7 @@
   },
   "10034137956681": {
    "available": false,
-   "price": 41.0,
+   "price": 40.0,
    "title": "Pokémon TCG - Booster Bundle Destined Rivals (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-bundle-destined-rivals"
   },
@@ -1378,7 +1378,7 @@
   },
   "10115635970377": {
    "available": false,
-   "price": 97.0,
+   "price": 96.0,
    "title": "Pokémon TCG - Ninja Spinner (Japonés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-ninja-spinner-japones"
   },
@@ -1672,7 +1672,7 @@
   },
   "10278026936649": {
    "available": false,
-   "price": 41.0,
+   "price": 40.0,
    "title": "Riftbound League of Legends - Radiance Vault (Inglés)",
    "url": "https://www.jjcollection.es/products/riftbound-league-of-legends-radiance-vault-ingles"
   },
@@ -2086,7 +2086,7 @@
   },
   "9809548411209": {
    "available": false,
-   "price": 25.0,
+   "price": 24.0,
    "title": "Riftbound League of Legends - Origins Champion Deck Jinx (Inglés)",
    "url": "https://www.jjcollection.es/products/origins-booster-box-riftbound-league-of-legends-tcg-ingles-copia"
   },
@@ -2098,7 +2098,7 @@
   },
   "9809671094601": {
    "available": false,
-   "price": 25.0,
+   "price": 24.0,
    "title": "Riftbound League of Legends - Origins Champion Deck Viktor (Inglés)",
    "url": "https://www.jjcollection.es/products/origins-proving-grounds-riftbound-league-of-legends-tcg-ingles"
   },
@@ -2110,7 +2110,7 @@
   },
   "9809735450953": {
    "available": false,
-   "price": 9.0,
+   "price": 8.0,
    "title": "Riftbound League of Legends - Origins Booster Pack (Inglés)",
    "url": "https://www.jjcollection.es/products/origins-booster-riftbound-league-of-legends-tcg-ingles"
   },
@@ -4619,7 +4619,7 @@
    "url": "https://kairyu.fr/products/252-191-energie-propulsion"
   },
   "16048935829839": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "165 Terapagos ex",
    "url": "https://kairyu.fr/products/165-terapagos-ex"
@@ -5573,7 +5573,7 @@
    "url": "https://kairyu.fr/products/207-terhal-de-pierre"
   },
   "16258159477071": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "211 Sidérella",
    "url": "https://kairyu.fr/products/211-siderella"
@@ -14867,7 +14867,7 @@
    "url": "https://kairyu.fr/products/188-165-alakazam-ex"
   },
   "8711690551631": {
-   "available": true,
+   "available": false,
    "price": 24.9,
    "title": "189/165 Grolem ex",
    "url": "https://kairyu.fr/products/189-165-grolem-ex"
@@ -14879,7 +14879,7 @@
    "url": "https://kairyu.fr/products/190-165-kangourex-ex"
   },
   "8711693271375": {
-   "available": true,
+   "available": false,
    "price": 19.9,
    "title": "191/165 Lippoutou ex",
    "url": "https://kairyu.fr/products/191-165-lippoutou-ex-2"
@@ -14939,7 +14939,7 @@
    "url": "https://kairyu.fr/products/206-165-echange"
   },
   "8711706313039": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "207/165 Énergie Psy de base",
    "url": "https://kairyu.fr/products/207-165-energie-psy-de-base"
@@ -17147,7 +17147,7 @@
    "url": "https://kairyu.fr/products/205-167-hassa"
   },
   "9652024967503": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "206/167 Kassis",
    "url": "https://kairyu.fr/products/206-167-kassis"
