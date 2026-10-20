@@ -713,6 +713,33 @@
    "url": "https://metamorphcenter.com/products/danada-etb-celebracion-30-aniversario-espanol"
   },
   {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Philibert",
+   "title": "Pokémon - Collection classeur 30e Anniversaire",
+   "url": "https://www.philibertnet.com/fr/pokemon/184180-pokemon-collection-classeur-30e-anniversaire-0196214145153.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Philibert",
+   "title": "Pokémon - Deck Combat 30e Anniversaire – Mentali‑ex",
+   "url": "https://www.philibertnet.com/fr/pokemon/184149-pokemon-deck-combat-30e-anniversaire-mentaliex-2100001427870.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Philibert",
+   "title": "Pokémon - Deck Combat 30e Anniversaire – Noctali‑ex",
+   "url": "https://www.philibertnet.com/fr/pokemon/184148-pokemon-deck-combat-30e-anniversaire-noctaliex-2100001427856.html"
+  },
+  {
    "available": true,
    "country": "FR",
    "kind": "anniv",
@@ -1541,5 +1568,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-20T00:37:37+00:00"
+ "updated": "2026-10-20T01:19:13+00:00"
 }
