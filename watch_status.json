@@ -1,7 +1,5 @@
 {
- "errors": {
-  "Masterset": "HTTPSConnectionPool(host='masterset.store', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='masterset.store', port=443) "
- },
+ "errors": {},
  "products": [
   {
    "available": null,
@@ -1588,5 +1586,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-20T18:32:32+00:00"
+ "updated": "2026-10-20T19:17:47+00:00"
 }
