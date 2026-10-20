@@ -41869,7 +41869,7 @@
    "url": "https://www.pokemillon.com/products/vol-6"
   },
   "15218152636739": {
-   "available": true,
+   "available": false,
    "price": 29.9,
    "title": "Icons 2nd Edition Football Cards",
    "url": "https://www.pokemillon.com/products/icons-2nd-edition-football-cards"
@@ -64025,8 +64025,44 @@
   "16710840975705": {
    "available": true,
    "price": 0.0,
-   "title": "04/11 CLASSIC CONSTRUCTED - 7 Oct 2026",
+   "title": "04/11 CLASSIC CONSTRUCTED - 4 Nov 2026",
    "url": "https://www.relictcg.com/products/duplicate-1208-classic-constructed-4"
+  },
+  "16710845432153": {
+   "available": true,
+   "price": 0.0,
+   "title": "10/11 Armory Classic Constructed - 10 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0809-armory-silver-age-3"
+  },
+  "16710849691993": {
+   "available": true,
+   "price": 0.0,
+   "title": "11/11 Silver Age - 11 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0508-silver-age-3"
+  },
+  "16710854213977": {
+   "available": true,
+   "price": 0.0,
+   "title": "17/11 Armory Silver Age - 17 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0809-armory-silver-age-6"
+  },
+  "16710857720153": {
+   "available": true,
+   "price": 0.0,
+   "title": "18/11 DRAFT  - 18 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-2907-draft-3"
+  },
+  "16710861554009": {
+   "available": true,
+   "price": 0.0,
+   "title": "24/11 ARMORY DRAFT  - 24 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0109-armory-draft-1"
+  },
+  "16710864077145": {
+   "available": true,
+   "price": 0.0,
+   "title": "25/11 CLASSIC CONSTRUCTED - 25 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-1208-classic-constructed-5"
   },
   "7441091887327": {
    "available": false,
