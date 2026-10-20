@@ -23,7 +23,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 287.0,
+   "price": 286.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 287.0,
+   "price": 286.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -365,7 +365,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 81.0,
+   "price": 80.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1514,6 +1514,15 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 74.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Collection 30e Anniversaire ME05.5 : Classeur",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-collection-30e-anniversaire-me05-5-classeur"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1559,7 +1568,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-amphinobi-ex"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1568,5 +1577,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-20T09:33:54+00:00"
+ "updated": "2026-10-20T10:11:10+00:00"
 }
