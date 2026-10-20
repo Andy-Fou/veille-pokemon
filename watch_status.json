@@ -1478,6 +1478,15 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-display-mini-tin-scelle-fr"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 299.99,
+   "shop": "Strike Games",
+   "title": "Pokémon ME 5.5 - 30e Anniversaire - Display Mini Tin | FR",
+   "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-display-mini-tin-fr"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1577,5 +1586,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-20T16:31:45+00:00"
+ "updated": "2026-10-20T17:17:02+00:00"
 }
