@@ -1390,7 +1390,7 @@
   },
   "10121743597897": {
    "available": true,
-   "price": 181.0,
+   "price": 182.0,
    "title": "Pokémon TCG - Booster box Chaos Rising (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-chaos-rising-ingles-espanol"
   },
@@ -1546,13 +1546,13 @@
   },
   "10188440273225": {
    "available": false,
-   "price": 378.0,
+   "price": 379.0,
    "title": "Pokémon TCG - Team Rocket's Moltres ex Ultra Premium Collection (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-team-rockets-moltres-ex-ultra-premium-collection-ingles"
   },
   "10192152002889": {
    "available": false,
-   "price": 126.0,
+   "price": 127.0,
    "title": "Pokémon TCG - Abyss Eye (Japonés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-abyss-eye-japones"
   },
@@ -1690,7 +1690,7 @@
   },
   "10279257375049": {
    "available": false,
-   "price": 126.0,
+   "price": 127.0,
    "title": "Riftbound League of Legends - Secret Garden Limited Gift Box Ivern & Lillia (CN) (DAÑO LEVE)",
    "url": "https://www.jjcollection.es/products/riftbound-league-of-legends-secret-garden-limited-gift-box-ivern-lillia-cn"
   },
@@ -1828,7 +1828,7 @@
   },
   "10381335101769": {
    "available": true,
-   "price": 19.0,
+   "price": 20.0,
    "title": "Pokémon Booster Bundle Case V2 - The Acrylic Box",
    "url": "https://www.jjcollection.es/products/the-acrylic-box-pokemon-booster-bundle-case-v2"
   },
@@ -46939,7 +46939,7 @@
    "url": "https://www.pokemillon.com/products/case-etb-chaos-rising-caos-creciente"
   },
   "15352848056643": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "Mega Emboar Box Collection Héroes Ascendentes | Ascended Heroes",
    "url": "https://www.pokemillon.com/products/mega-emboar-box-collection-heroes-ascendentes-ascended-heroes-copia"
@@ -60309,7 +60309,7 @@
    "url": "https://www.relictcg.com/products/gamegenic-gaming-box-deckholder-100-red"
   },
   "16183493722457": {
-   "available": true,
+   "available": false,
    "price": 4.0,
    "title": "Gamegenic - Gaming Box - DeckHolder 100+ - Black",
    "url": "https://www.relictcg.com/products/gamegenic-gaming-box-deckholder-100-black"
@@ -69277,31 +69277,31 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-enneacrimaisseau-atori-mar-star-phre-fr022"
   },
   "15329748517212": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Ennéacrimaisseau - Archa.TAIL : SR PHRE-FR023",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-enneacrimaisseau-archa-tail-sr-phre-fr023"
   },
   "15329748582748": {
-   "available": true,
+   "available": null,
    "price": 19.9,
    "title": "Yu-Gi-Oh! Ennéacrimaisseau - Archa.TAIL : CR PHRE-FR023",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-enneacrimaisseau-archa-tail-cr-phre-fr023"
   },
   "15329748615516": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Ennéapolis : SR PHRE-FR024",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-enneapolis-sr-phre-fr024"
   },
   "15329748681052": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Activation Ennéacrimaisseau : SR PHRE-FR025",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-activation-enneacrimaisseau-sr-phre-fr025"
   },
   "15329748746588": {
-   "available": true,
+   "available": null,
    "price": 24.9,
    "title": "Yu-Gi-Oh! Activation Ennéacrimaisseau : CR PHRE-FR025",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-activation-enneacrimaisseau-cr-phre-fr025"
@@ -69313,13 +69313,13 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-renainversement-enneacrimaisseau-r-phre-fr026"
   },
   "15329748975964": {
-   "available": true,
+   "available": null,
    "price": 2.9,
    "title": "Yu-Gi-Oh! Renainversement Ennéacrimaisseau : SR PHRE-FR026",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-renainversement-enneacrimaisseau-sr-phre-fr026"
   },
   "15329749041500": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Pot de La Restriction : R PHRE-FR027",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-pot-de-la-restriction-r-phre-fr027"
@@ -84365,6 +84365,48 @@
    "price": 34.9,
    "title": "Riftbound TCG | League Of Legends - Vault Set 5 : Radiance - VERSION ANGLAISE",
    "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-vault-set-5-radiance-version-anglaise"
+  },
+  "15924503118172": {
+   "available": true,
+   "price": 17.9,
+   "title": "Disney Lorcana TCG - Playmat Chapitre 14 : Stitch & Angel",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-playmat-chapitre-14-stitch-angel"
+  },
+  "15924516847964": {
+   "available": true,
+   "price": 17.9,
+   "title": "Disney Lorcana TCG - Playmat Chapitre 14 : Coco",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-playmat-chapitre-14-coco"
+  },
+  "15924519436636": {
+   "available": true,
+   "price": 119.9,
+   "title": "Disney Lorcana TCG - Display 24 boosters Chapitre 14 : Hyperia City",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-display-24-boosters-chapitre-14-hyperia-city"
+  },
+  "15924531102044": {
+   "available": true,
+   "price": 5.5,
+   "title": "Disney Lorcana TCG - Booster Chapitre 14 : Hyperia City",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-booster-chapitre-14-hyperia-city"
+  },
+  "15924538507612": {
+   "available": true,
+   "price": 47.9,
+   "title": "Disney Lorcana TCG - Coffret Trésor des Illumineurs Chapitre 14 : Hyperia City",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-coffret-tresor-des-illumineurs-chapitre-14-hyperia-city"
+  },
+  "15924552008028": {
+   "available": true,
+   "price": 24.9,
+   "title": "Disney Lorcana TCG - Coffret Cadeau : La Bete",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-coffret-cadeau-la-bete"
+  },
+  "15924565770588": {
+   "available": true,
+   "price": 22.9,
+   "title": "Disney Lorcana TCG - Decks 2 joueurs Chapitre 14 : Technologie Brillante et Magie Folle",
+   "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-decks-2-joueurs-chapitre-14-technologie-brillante-et-magie-folle"
   },
   "7331019194539": {
    "available": true,
