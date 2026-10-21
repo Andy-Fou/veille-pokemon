@@ -1550,7 +1550,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-display-de-10-mini-tin-me05-5-30e-anniversaire"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 84.9,
@@ -1568,7 +1568,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1577,7 +1577,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-amphinobi-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1586,5 +1586,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-21T05:54:02+00:00"
+ "updated": "2026-10-21T06:36:01+00:00"
 }
