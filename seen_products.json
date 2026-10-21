@@ -1318,7 +1318,7 @@
   },
   "10081469432137": {
    "available": true,
-   "price": 199.0,
+   "price": 198.0,
    "title": "Pokémon TCG - Case x6 Mega Charizard ex Tin (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-mega-charizard-ex-tin-espanol"
   },
@@ -1366,7 +1366,7 @@
   },
   "10112722338121": {
    "available": false,
-   "price": 81.0,
+   "price": 80.0,
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
   },
@@ -32833,7 +32833,7 @@
   "11276777587030": {
    "available": true,
    "price": 109.95,
-   "title": "[ RESERVA ] Caja 30th C Anniversary Celebration - Chino",
+   "title": "Caja 30th C Anniversary Celebration - Chino",
    "url": "https://metamorphcenter.com/products/caja-30th-celebration-pokemon-chino"
   },
   "11281873437014": {
@@ -63639,7 +63639,7 @@
    "url": "https://www.relictcg.com/products/1107-17h-avant-premieres-nuit-noire-3"
   },
   "16649526804825": {
-   "available": true,
+   "available": false,
    "price": 35.0,
    "title": "25/10 11H AVANT-PREMIERES: REGNE DELTA - 25 Oct 2026",
    "url": "https://www.relictcg.com/products/1107-17h-avant-premieres-nuit-noire-4"
@@ -69301,7 +69301,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-activation-enneacrimaisseau-cr-phre-fr025"
   },
   "15329748844892": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Renainversement Ennéacrimaisseau : R PHRE-FR026",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-renainversement-enneacrimaisseau-r-phre-fr026"
@@ -69319,31 +69319,31 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-pot-de-la-restriction-r-phre-fr027"
   },
   "15329749139804": {
-   "available": true,
+   "available": null,
    "price": 1.0,
    "title": "Yu-Gi-Oh! Pot de La Restriction : SR PHRE-FR027",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-pot-de-la-restriction-sr-phre-fr027"
   },
   "15329749172572": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Esprit du Vent d'Automne : R PHRE-FR028",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-esprit-du-vent-dautomne-r-phre-fr028"
   },
   "15329749270876": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Atterrissage Parfait : R PHRE-FR029",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-atterrissage-parfait-r-phre-fr029"
   },
   "15329749303644": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Canon Daruma Karma Destructeur : R PHRE-FR030",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-canon-daruma-karma-destructeur-r-phre-fr030"
   },
   "15329749369180": {
-   "available": true,
+   "available": null,
    "price": 14.9,
    "title": "Yu-Gi-Oh! Mix du Son Kewl : UR PHRE-FR031",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-mix-du-son-kewl-ur-phre-fr031"
@@ -84323,6 +84323,42 @@
    "price": 74.9,
    "title": "Pokémon - Collection 30e Anniversaire ME05.5 : Classeur",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-30e-anniversaire-me05-5-classeur"
+  },
+  "15920557523292": {
+   "available": true,
+   "price": 109.9,
+   "title": "Riftbound TCG | League Of Legends - Display de 24 boosters Set 4 : Vendetta",
+   "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-display-de-24-boosters-set-4-vendetta"
+  },
+  "15920563028316": {
+   "available": true,
+   "price": 4.9,
+   "title": "Riftbound TCG | League Of Legends - Booster de 14 cartes Set 4 : Vendetta",
+   "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-booster-de-14-cartes-set-4-vendetta"
+  },
+  "15920565911900": {
+   "available": true,
+   "price": 109.9,
+   "title": "Riftbound TCG | League Of Legends - Display de 24 boosters Set 5 : Radiance",
+   "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-display-de-24-boosters-set-5-radiance"
+  },
+  "15920610476380": {
+   "available": true,
+   "price": 4.9,
+   "title": "Riftbound TCG | League Of Legends - Booster de 14 cartes Set 5 : Radiance",
+   "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-booster-de-14-cartes-set-5-radiance"
+  },
+  "15920630661468": {
+   "available": true,
+   "price": 29.9,
+   "title": "Riftbound TCG | League Of Legends - Decks Confrontation Set 5 Radiance : Evelynn vs Séraphine",
+   "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-decks-confrontation-set-5-radiance-evelynn-vs-seraphine"
+  },
+  "15920657269084": {
+   "available": true,
+   "price": 34.9,
+   "title": "Riftbound TCG | League Of Legends - Vault Set 5 : Radiance - VERSION ANGLAISE",
+   "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-vault-set-5-radiance-version-anglaise"
   },
   "7331019194539": {
    "available": true,
