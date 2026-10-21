@@ -162,6 +162,15 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
+   "title": "Pokémon - Coffret Collection Classeur 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169047-pokemon-coffret-collection-classeur-30e-anniversaire-46095"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Aux Trois Koalas",
    "title": "Pokémon - Mini-Tin 30e Anniversaire (Aléatoire)",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok260122-pokemon-mini-tin-30e-anniversaire-aleatoire-45948"
   },
@@ -367,7 +376,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 81.0,
+   "price": 80.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1588,5 +1597,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-21T15:58:55+00:00"
+ "updated": "2026-10-21T16:34:35+00:00"
 }
