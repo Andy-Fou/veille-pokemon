@@ -646,6 +646,15 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 21.0,
+   "shop": "Masterset",
+   "title": "[EXPEDITION 28/10] [LIMITE 2] Pokémon - Duopack - 30e Anniversaire - Evoli",
+   "url": "https://masterset.store/products/pok-mon-duopack-30e-anniversaire-evoli"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 109.0,
    "shop": "Masterset",
    "title": "[EXPEDITION 29/10] [Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
@@ -655,10 +664,46 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 62.0,
+   "shop": "Masterset",
+   "title": "[EXPEDITION 29/10] [Limite 1] Pokémon - Bundle de 6 Boosters - 30e Anniversaire",
+   "url": "https://masterset.store/products/pok-mon-bundle-de-6-boosters-30e-anniversaire"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 30.0,
+   "shop": "Masterset",
+   "title": "[LIMITE 1] [Précommande] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Lucario",
+   "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-lucario"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 30.0,
+   "shop": "Masterset",
+   "title": "[LIMITE 1] [Précommande] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Noadkoko d’Alola",
+   "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-noadkoko-d-alola"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 37.0,
    "shop": "Masterset",
    "title": "[LIMITE1] Pokémon - Coffret Collection Poster - 30e Anniversaire",
    "url": "https://masterset.store/products/pok-mon-coffret-collection-poster-30e-anniversaire"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 21.0,
+   "shop": "Masterset",
+   "title": "[Limite 2] Pokémon - Mini-Tins - 30e Anniversaire",
+   "url": "https://masterset.store/products/pok-mon-mini-tins-30e-anniversaire"
   },
   {
    "available": false,
@@ -1633,5 +1678,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-22T16:14:48+00:00"
+ "updated": "2026-10-22T16:57:43+00:00"
 }
