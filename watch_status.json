@@ -1204,7 +1204,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 59.9,
+   "price": 19.9,
    "shop": "Pokemillon",
    "title": "First Partner Illustration Collections Pokémon 30th Anniversary",
    "url": "https://www.pokemillon.com/products/first-partner-illustration-collections-pokemon-30th-anniversary"
@@ -1237,7 +1237,7 @@
    "url": "https://www.pokemillon.com/products/first-partner-serie-3-oscuridad-absoluta-pitch-black"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 219.9,
@@ -1678,5 +1678,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-22T20:28:36+00:00"
+ "updated": "2026-10-22T21:12:33+00:00"
 }
