@@ -580,6 +580,42 @@
    "url": "https://lebordelmagique.com/products/etb-pokemon-30-ans"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 249.99,
+   "shop": "Le Bordel Magique",
+   "title": "Lot 1 : ETB 30th FR + 1 Coffret mid-Autumn Festival + 2 Coffret cadres + 1 Tin Trainer + 3 coffret 1st partners",
+   "url": "https://lebordelmagique.com/products/lot-1-etb-30th-fr-1-coffret-mid-autumn-festival-2-coffret-cadres-1-tin-trainer-3-coffret-1st-partners"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 294.99,
+   "shop": "Le Bordel Magique",
+   "title": "Lot 2 : ETB 30th FR + 3 ETB Energy + 3 coffret 1st partners",
+   "url": "https://lebordelmagique.com/products/lot-2-etb-30th-fr-1-coffret-mid-autumn-festival-2-coffret-cadres-1-tin-trainer-3-coffret-1st-partners-copie"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 294.99,
+   "shop": "Le Bordel Magique",
+   "title": "Lot 3 : ETB 30th FR + 1 Coffret Morpeko VMAX + 1 Coffret Return of the Dragon Ultra Necrozma + 3 coffret 1st partners",
+   "url": "https://lebordelmagique.com/products/lot-2-etb-30th-fr-3-etb-energy-3-coffret-1st-partners-copie"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 69.99,
+   "shop": "Le Bordel Magique",
+   "title": "Lot 4 : Duopack 30th FR + 1 Pins CSV8.5c + 1 First Partner 3 + 1 Coffret cadre Pyrobut",
+   "url": "https://lebordelmagique.com/products/lot-3-etb-30th-fr-1-coffret-morpeko-vmax-1-coffret-return-of-the-dragon-ultra-necrozma-3-coffret-1st-partners-copie"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1597,5 +1633,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-22T12:37:24+00:00"
+ "updated": "2026-10-22T13:27:57+00:00"
 }
