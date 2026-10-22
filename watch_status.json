@@ -43,7 +43,7 @@
    "available": false,
    "country": "FR",
    "kind": "watch",
-   "price": 0.0,
+   "price": 479.99,
    "shop": "Le Bordel Magique",
    "title": "Ultra-Premium Pokémon 30th Mentali édition jour / Noctali édition Nuit FR",
    "url": "https://lebordelmagique.com/products/ultra-premium-pokemon-30th-mentali-edition-jour"
@@ -529,7 +529,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 0.0,
+   "price": 64.99,
    "shop": "Le Bordel Magique",
    "title": "Coffret collection Premium Metamorph Pokémon 30th",
    "url": "https://lebordelmagique.com/products/coffret-metamorph-pokemon-30th"
@@ -556,7 +556,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 0.0,
+   "price": 49.99,
    "shop": "Le Bordel Magique",
    "title": "Coffret figurine Mew / Mewtwo Pokémon 30th FR",
    "url": "https://lebordelmagique.com/products/coffret-mew-pokemon-30th-fr"
@@ -646,19 +646,19 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 109.0,
    "shop": "Masterset",
-   "title": "[LIMITE1] Pokémon - Coffret Collection Poster - 30e Anniversaire",
-   "url": "https://masterset.store/products/pok-mon-coffret-collection-poster-30e-anniversaire"
+   "title": "[EXPEDITION 28/10] [Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
+   "url": "https://masterset.store/products/pokemon-etb-coffret-dresseur-d-lite-30e-anniversaire"
   },
   {
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 104.0,
+   "price": 37.0,
    "shop": "Masterset",
-   "title": "[Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
-   "url": "https://masterset.store/products/pokemon-etb-coffret-dresseur-d-lite-30e-anniversaire"
+   "title": "[LIMITE1] Pokémon - Coffret Collection Poster - 30e Anniversaire",
+   "url": "https://masterset.store/products/pok-mon-coffret-collection-poster-30e-anniversaire"
   },
   {
    "available": false,
@@ -1633,5 +1633,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-22T13:27:57+00:00"
+ "updated": "2026-10-22T14:18:10+00:00"
 }
