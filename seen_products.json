@@ -71623,13 +71623,13 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-sparkman-heros-elementaire-se-mzmu-fr059"
   },
   "15444786250076": {
-   "available": true,
+   "available": null,
    "price": 7.5,
    "title": "Yu-Gi-Oh! Magicien du Temps : SE MZMU-FR060",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-magicien-du-temps-se-mzmu-fr060"
   },
   "15444786282844": {
-   "available": true,
+   "available": null,
    "price": 5.9,
    "title": "Yu-Gi-Oh! Roi des Fantômes : SE MZMU-FR061",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-roi-des-fantomes-se-mzmu-fr061"
@@ -80497,7 +80497,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-booster-de-9-cartes-sous-blister-les-origines-du-chaos"
   },
   "15683487367516": {
-   "available": true,
+   "available": false,
    "price": 109.9,
    "title": "Riftbound TCG | League Of Legends - Display de 24 boosters Set 2 : Armes Spirituelles",
    "url": "https://tradingcardsxxx.fr/products/riftbound-tcg-league-of-legends-display-de-24-boosters-set-2-armes-spirituelles"
@@ -86579,6 +86579,18 @@
    "price": 499.9,
    "title": "Pokémon - Display de 36 boosters Épée et Bouclier EB11 : Origine Perdue",
    "url": "https://tradingcardsxxx.fr/products/pokemon-display-de-36-boosters-epee-et-bouclier-eb11-origine-perdue"
+  },
+  "7529462956203": {
+   "available": true,
+   "price": 39.9,
+   "title": "Ultra PRO - Classeur Elite Series 9-Pocket Zippered Pro-Binder : Arceus",
+   "url": "https://tradingcardsxxx.fr/products/ultra-pro-classeur-elite-series-9-pocket-zippered-pro-binder-arceus"
+  },
+  "7529475276971": {
+   "available": true,
+   "price": 44.9,
+   "title": "Ultra PRO - Classeur Elite Series 12-Pocket Zippered Pro-Binder : Arceus",
+   "url": "https://tradingcardsxxx.fr/products/ultra-pro-classeur-elite-series-12-pocket-zippered-pro-binder-arceus"
   },
   "8397265338716": {
    "available": true,
