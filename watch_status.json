@@ -1660,7 +1660,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-5-30e-anniversaire"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 29.9,
@@ -1687,5 +1687,5 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   }
  ],
- "updated": "2026-10-23T12:32:51+00:00"
+ "updated": "2026-10-23T13:21:57+00:00"
 }
