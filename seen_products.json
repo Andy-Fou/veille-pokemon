@@ -1270,7 +1270,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1400.0,
+   "price": 1399.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1360,7 +1360,7 @@
   },
   "10112659718473": {
    "available": false,
-   "price": 572.0,
+   "price": 571.0,
    "title": "Pokémon TCG - Case X10 ETB Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-fuegos-fantasmales-espanol-copia"
   },
@@ -1468,7 +1468,7 @@
   },
   "10175409488201": {
    "available": false,
-   "price": 218.0,
+   "price": 217.0,
    "title": "Pokémon TCG - Booster box Pitch Black (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-pitch-black"
   },
@@ -1582,7 +1582,7 @@
   },
   "10202161381705": {
    "available": true,
-   "price": 218.0,
+   "price": 217.0,
    "title": "LEGO® Pokémon™ — Pikachu y Poké Ball",
    "url": "https://www.jjcollection.es/products/lego®-pokemon™-pikachu-y-poke-ball"
   },
@@ -2080,7 +2080,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.85,
+   "price": 22.84,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -71599,7 +71599,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-fusion-du-futur-en-surcharge-cr-mzmu-fr055"
   },
   "15444786053468": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Journée du Sandwich : SR MZMU-FR056",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-journee-du-sandwich-sr-mzmu-fr056"
@@ -86567,6 +86567,12 @@
    "price": 1299.9,
    "title": "Riftbound - Amphithéâtre complet : Ulti SH RAD-184/167 FR",
    "url": "https://tradingcardsxxx.fr/products/riftbound-amphitheatre-complet-ulti-sh-rad-184-167-fr"
+  },
+  "15928021057884": {
+   "available": true,
+   "price": 44.9,
+   "title": "Ultra PRO - Classeur Pokémon Elite Series 12-Pocket Pro Binder : Lucario",
+   "url": "https://tradingcardsxxx.fr/products/ultra-pro-classeur-pokemon-elite-series-12-pocket-pro-binder-lucario"
   },
   "7331019194539": {
    "available": null,
