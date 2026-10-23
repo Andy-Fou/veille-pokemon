@@ -41917,8 +41917,8 @@
    "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-unleashed-champion-deck-vex"
   },
   "15198436720963": {
-   "available": false,
-   "price": 19.9,
+   "available": true,
+   "price": 23.9,
    "title": "Riftbound: League of Legends TCG - Unleashed Champion Deck - Vi",
    "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-unleashed-champion-deck-vi"
   },
@@ -50179,7 +50179,7 @@
    "url": "https://www.pokemillon.com/products/sobres-choque-rebelde-rebel-clash"
   },
   "15432612086083": {
-   "available": false,
+   "available": true,
    "price": 390.0,
    "title": "Sobre Fossil Unlimited \"Lapras\" 1999-2000",
    "url": "https://www.pokemillon.com/products/sobre-fossil-unlimited-lapras-1999-2000"
@@ -50381,6 +50381,54 @@
    "price": 34.9,
    "title": "Riftbound: League of Legends TCG - Showdown Champion Deck - Evelynn Vs Seraphine",
    "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-showdown-champion-deck-evelynn-vs-seraphine"
+  },
+  "15460940972355": {
+   "available": true,
+   "price": 39.9,
+   "title": "Riftbound: League of Legends TCG - Radiance - Vault",
+   "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-radiance-vault"
+  },
+  "15460941070659": {
+   "available": true,
+   "price": 139.9,
+   "title": "Riftbound: League of Legends TCG - Radiance - Booster Box 24 Sobres",
+   "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-radiance-booster-box-24-sobres"
+  },
+  "15460941267267": {
+   "available": true,
+   "price": 34.9,
+   "title": "Riftbound: League of Legends TCG - Showdown Champion Deck - Zed vs Shen",
+   "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-showdown-champion-deck-zed-vs-shen"
+  },
+  "15460941627715": {
+   "available": true,
+   "price": 499.95,
+   "title": "Sobre Unlimited \"Wigglytuff\" Jungla | Jungle",
+   "url": "https://www.pokemillon.com/products/sobre-unlimited-wigglytuff-jungla-jungle"
+  },
+  "15460941726019": {
+   "available": true,
+   "price": 499.95,
+   "title": "Sobre Unlimited \"Scyther\" Jungla | Jungle",
+   "url": "https://www.pokemillon.com/products/sobre-unlimited-scyther-jungla-jungle"
+  },
+  "15460941922627": {
+   "available": true,
+   "price": 390.0,
+   "title": "Sobre Fossil Unlimited \"Aerodactyl\" 1999-2000",
+   "url": "https://www.pokemillon.com/products/sobre-fossil-unlimited-aerodactyl-1999-2000"
+  },
+  "15460941955395": {
+   "available": true,
+   "price": 390.0,
+   "title": "Sobre Fossil Unlimited \"Zapdos\" 1999-2000",
+   "url": "https://www.pokemillon.com/products/sobre-fossil-unlimited-zapdos-1999-2000"
+  },
+  "15460942053699": {
+   "available": true,
+   "price": 390.0,
+   "title": "Sobre Gym Challenge Unlimited \"Koga\" 2000",
+   "url": "https://www.pokemillon.com/products/sobre-gym-challenge-unlimited-koga-2000"
   },
   "7430823411958": {
    "available": false,
@@ -52694,7 +52742,7 @@
   },
   "9153190592835": {
    "available": true,
-   "price": 590.0,
+   "price": 1159.0,
    "title": "Sobre Fossil 1st Edition \"Zapdos\" 1999-2000",
    "url": "https://www.pokemillon.com/products/sobre-fossil-1999-2000-es"
   },
