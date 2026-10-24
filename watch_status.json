@@ -1255,7 +1255,7 @@
    "url": "https://www.pokemillon.com/products/premium-box-pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 33.95,
@@ -1264,7 +1264,7 @@
    "url": "https://www.pokemillon.com/products/greninja-special-box-celebraciones-30-aniversario-elite-celebrations-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 46.9,
@@ -1390,7 +1390,7 @@
    "url": "https://www.pokemillon.com/products/sobre-pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 45.9,
@@ -1399,7 +1399,7 @@
    "url": "https://www.pokemillon.com/products/sylveon-box-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 46.9,
@@ -1696,5 +1696,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-23T23:48:32+00:00"
+ "updated": "2026-10-24T00:41:02+00:00"
 }
