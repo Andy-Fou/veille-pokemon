@@ -1417,6 +1417,15 @@
    "url": "https://www.pokemillon.com/products/weiss-schwarz-blau-premium-pack-detective-conan-tv-anime-30th-anniversary"
   },
   {
+   "available": true,
+   "country": "ES",
+   "kind": "anniv",
+   "price": 59.9,
+   "shop": "Pokemillon",
+   "title": "Weiss Schwarz | Booster Box 12 Sobre Persona 30th Anniversary",
+   "url": "https://www.pokemillon.com/products/weiss-schwarz-booster-box-12-sobre-persona-30th-anniversary"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1696,5 +1705,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-25T17:08:48+00:00"
+ "updated": "2026-10-25T17:48:39+00:00"
 }

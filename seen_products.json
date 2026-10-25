@@ -42535,7 +42535,7 @@
    "url": "https://www.pokemillon.com/products/lorcana-winterspell"
   },
   "15206725615939": {
-   "available": false,
+   "available": true,
    "price": 119.9,
    "title": "One Piece Caja 24 Sobres Memorial Collection EB04 Egghead Crisis",
    "url": "https://www.pokemillon.com/products/one-piece-memorial-collection-eb-04"
@@ -48877,8 +48877,8 @@
    "url": "https://www.pokemillon.com/products/one-piece-illustration-box-vol-8-kid-killer"
   },
   "15379289702723": {
-   "available": false,
-   "price": 89.9,
+   "available": true,
+   "price": 79.9,
    "title": "Palworld TCG | Booster Box 12 Sobres Dawn of Palpagos BP-01",
    "url": "https://www.pokemillon.com/products/palworld-tcg-booster-box-24-sobres-dawn-of-palpagos-bp-01"
   },
@@ -49286,13 +49286,13 @@
   },
   "15390578704707": {
    "available": true,
-   "price": 32.64,
+   "price": 27.64,
    "title": "Zorua MEGA Starter Set ex Deck",
    "url": "https://www.pokemillon.com/products/zorua-mega-starter-set-ex-deck"
   },
   "15390579851587": {
    "available": true,
-   "price": 32.64,
+   "price": 27.64,
    "title": "Sprigatito MEGA Starter Set ex Deck",
    "url": "https://www.pokemillon.com/products/sprigatito-mega-starter-set-ex-deck"
   },
@@ -51083,6 +51083,48 @@
    "price": 79.9,
    "title": "My Little Pony TCG | Booster Box 20 Sobres Fantasy Wonderland",
    "url": "https://www.pokemillon.com/products/my-little-pony-tcg-booster-box-20-sobres-fantasy-wonderland"
+  },
+  "15462524977475": {
+   "available": true,
+   "price": 79.9,
+   "title": "My Little Pony TCG | Booster Box 20 Sobres Nightmare Night",
+   "url": "https://www.pokemillon.com/products/my-little-pony-tcg-booster-box-20-sobres-nightmare-night"
+  },
+  "15462525206851": {
+   "available": true,
+   "price": 59.9,
+   "title": "Weiss Schwarz Rose | Booster Box 10 Sobres Alice Soft",
+   "url": "https://www.pokemillon.com/products/weiss-schwarz-rose-booster-box-10-sobres-alice-soft"
+  },
+  "15462525403459": {
+   "available": true,
+   "price": 59.9,
+   "title": "Weiss Schwarz Rose | Booster Box 10 Sobres HARUKAZE",
+   "url": "https://www.pokemillon.com/products/weiss-schwarz-rose-booster-box-10-sobres-harukaze"
+  },
+  "15462526320963": {
+   "available": true,
+   "price": 49.9,
+   "title": "Weiss Schwarz | Booster Box 10 Sobre Stella Sora",
+   "url": "https://www.pokemillon.com/products/weiss-schwarz-booster-box-10-sobre-stella-sora"
+  },
+  "15462526779715": {
+   "available": true,
+   "price": 49.9,
+   "title": "Build Divide | Booster Box 16 Sobres Disney Twisted Wonderland",
+   "url": "https://www.pokemillon.com/products/build-divide-booster-box-16-sobres-disney-twisted-wonderland"
+  },
+  "15462530482499": {
+   "available": true,
+   "price": 59.9,
+   "title": "Weiss Schwarz | Booster Box 12 Sobre Persona 30th Anniversary",
+   "url": "https://www.pokemillon.com/products/weiss-schwarz-booster-box-12-sobre-persona-30th-anniversary"
+  },
+  "15462533628227": {
+   "available": true,
+   "price": 79.9,
+   "title": "Haikyu!! Voboca! | Booster Box 18 Sobres HV-P04 Talent and Sense",
+   "url": "https://www.pokemillon.com/products/haikyu-voboca-booster-box-18-sobres-hv-p04-talent-and-sense"
   },
   "7430823411958": {
    "available": false,
@@ -53623,8 +53665,8 @@
    "url": "https://www.pokemillon.com/products/caja-op-09"
   },
   "9388114182467": {
-   "available": false,
-   "price": 56.9,
+   "available": true,
+   "price": 96.9,
    "title": "One Piece Caja 24 Sobres OP10 Royal Blood",
    "url": "https://www.pokemillon.com/products/caja-op10"
   },
@@ -84668,7 +84710,7 @@
   },
   "15871114969436": {
    "available": true,
-   "price": 11.9,
+   "price": 13.9,
    "title": "Yu-Gi-Oh! Dragon Noir aux Yeux Rouges du Dépassement : UR BETB-FR036",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-noir-aux-yeux-rouges-du-depassement-ur-betb-fr036"
   },
