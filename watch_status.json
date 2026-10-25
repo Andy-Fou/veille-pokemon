@@ -1111,10 +1111,10 @@
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 119.9,
+   "price": 129.9,
    "shop": "Pokemillon",
    "title": "Caja 20 Sobres Pokémon 30th Anniversary",
    "url": "https://www.pokemillon.com/products/caja-20-sobres-pokemon-30th-anniversary-m6a"
@@ -1696,5 +1696,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-25T13:17:07+00:00"
+ "updated": "2026-10-25T13:51:16+00:00"
 }
