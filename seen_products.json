@@ -49783,7 +49783,7 @@
    "url": "https://www.pokemillon.com/products/animal-card-game-card-game-usagi"
   },
   "15399687094595": {
-   "available": false,
+   "available": true,
    "price": 79.9,
    "title": "Harry Potter TCG | The Philosopher's Stone",
    "url": "https://www.pokemillon.com/products/harry-potter-tcg-the-philosophers-stone"
@@ -51126,6 +51126,42 @@
    "title": "Haikyu!! Voboca! | Booster Box 18 Sobres HV-P04 Talent and Sense",
    "url": "https://www.pokemillon.com/products/haikyu-voboca-booster-box-18-sobres-hv-p04-talent-and-sense"
   },
+  "15462539886915": {
+   "available": true,
+   "price": 4.9,
+   "title": "Haikyu!! Voboca! | Sobres HV-P03 Team Training Camp",
+   "url": "https://www.pokemillon.com/products/haikyu-voboca-sobres-hv-p03-team-training-camp"
+  },
+  "15462543819075": {
+   "available": true,
+   "price": 79.9,
+   "title": "Detective Conan TCG | Bosster Box 18 Sobres Memories of Sworn Friends",
+   "url": "https://www.pokemillon.com/products/detective-conan-tcg-bosster-box-18-sobres-memories-of-sworn-friends"
+  },
+  "15462548930883": {
+   "available": true,
+   "price": 116.9,
+   "title": "Disney Lorcana | Caja 24 Sobres Hyperia City",
+   "url": "https://www.pokemillon.com/products/disney-lorcana-caja-24-sobres-hyperia-city"
+  },
+  "15462556860739": {
+   "available": true,
+   "price": 79.9,
+   "title": "Harry Potter TCG | Harry Potter and the Chamber of Secrets",
+   "url": "https://www.pokemillon.com/products/harry-potter-tcg-harry-potter-and-the-chamber-of-secrets"
+  },
+  "15462559318339": {
+   "available": true,
+   "price": 79.9,
+   "title": "Harry Potter TCG | The Philosopher's Stone Part 2",
+   "url": "https://www.pokemillon.com/products/harry-potter-tcg-the-philosophers-stone-part-2"
+  },
+  "15462565413187": {
+   "available": true,
+   "price": 6.9,
+   "title": "Sobres 25th Anniversary",
+   "url": "https://www.pokemillon.com/products/sobres-25th-anniversary"
+  },
   "7430823411958": {
    "available": false,
    "price": 36.95,
@@ -51361,7 +51397,7 @@
    "url": "https://www.pokemillon.com/products/estilos-de-combate"
   },
   "7531518460150": {
-   "available": false,
+   "available": true,
    "price": 99.9,
    "title": "Caja 16 Sobres 25th Anniversary",
    "url": "https://www.pokemillon.com/products/caja-16-sobres-celebrations"
@@ -64719,7 +64755,7 @@
    "url": "https://www.relictcg.com/products/duplicate-1208-classic-constructed-3"
   },
   "16656407855449": {
-   "available": true,
+   "available": false,
    "price": 0.0,
    "title": "27/10 Armory Classic Constructed - 27 Oct 2026",
    "url": "https://www.relictcg.com/products/duplicate-0809-armory-silver-age-5"
