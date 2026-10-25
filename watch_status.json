@@ -1618,7 +1618,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 199.9,
+   "price": 179.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Coffret Dresseur d'Élite ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
@@ -1627,7 +1627,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 74.9,
+   "price": 69.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Collection 30e Anniversaire ME05.5 : Classeur",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-30e-anniversaire-me05-5-classeur"
@@ -1642,7 +1642,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-poster-30e-anniversaire-me05-5-artikodin-electhor-et-sulfura"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 399.9,
@@ -1696,5 +1696,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-25T08:29:43+00:00"
+ "updated": "2026-10-25T09:09:06+00:00"
 }
