@@ -1003,7 +1003,7 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-elite-trainer-box-tech-sticker-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 49.9,
@@ -1021,7 +1021,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 54.9,
@@ -1696,5 +1696,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-25T16:25:45+00:00"
+ "updated": "2026-10-25T17:08:48+00:00"
 }
