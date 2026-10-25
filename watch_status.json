@@ -85,6 +85,15 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-ultra-premium-collection-ditto-premium-collection"
   },
   {
+   "available": true,
+   "country": "ES",
+   "kind": "watch",
+   "price": 219.9,
+   "shop": "Pokemillon",
+   "title": "Futuristic Box Pokémon 30th Anniversary Ultra Premium",
+   "url": "https://www.pokemillon.com/products/premium-box-pokemon-30th-anniversary"
+  },
+  {
    "available": false,
    "country": "ES",
    "kind": "watch",
@@ -1249,15 +1258,6 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 219.9,
-   "shop": "Pokemillon",
-   "title": "Futuristic Box Pokémon 30th Anniversary",
-   "url": "https://www.pokemillon.com/products/premium-box-pokemon-30th-anniversary"
-  },
-  {
-   "available": true,
-   "country": "ES",
-   "kind": "anniv",
    "price": 33.95,
    "shop": "Pokemillon",
    "title": "Greninja Special Box Celebraciones 30 Aniversario | Celebrations 30th",
@@ -1696,5 +1696,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-25T10:24:59+00:00"
+ "updated": "2026-10-25T11:06:58+00:00"
 }
