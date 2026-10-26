@@ -886,6 +886,15 @@
    "url": "https://pika-boutique.fr/products/coffret-amphinobi-pokemon-30-ans"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 59.9,
+   "shop": "Pika-Boutique",
+   "title": "Coffret Classeur - Pokémon 30 ans",
+   "url": "https://pika-boutique.fr/products/coffret-classeur-pokemon-30-ans"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1003,7 +1012,7 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-elite-trainer-box-tech-sticker-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 49.9,
@@ -1021,7 +1030,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 54.9,
@@ -1705,5 +1714,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-26T11:21:41+00:00"
+ "updated": "2026-10-26T14:01:23+00:00"
 }
