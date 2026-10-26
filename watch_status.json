@@ -607,7 +607,7 @@
    "url": "https://lebordelmagique.com/products/lot-2-etb-30th-fr-1-coffret-mid-autumn-festival-2-coffret-cadres-1-tin-trainer-3-coffret-1st-partners-copie"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 294.99,
@@ -1705,5 +1705,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-26T08:43:02+00:00"
+ "updated": "2026-10-26T09:39:32+00:00"
 }
