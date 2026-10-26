@@ -337,7 +337,7 @@
    "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
   },
   {
-   "available": null,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 46.0,
@@ -1714,5 +1714,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-26T21:54:38+00:00"
+ "updated": "2026-10-26T22:31:53+00:00"
 }
