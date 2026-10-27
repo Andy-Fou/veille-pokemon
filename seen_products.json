@@ -1246,7 +1246,7 @@
   },
   "10013728145737": {
    "available": false,
-   "price": 75.0,
+   "price": 76.0,
    "title": "Pokémon TCG - Elite Trainer Box Ascended Heroes (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-ascended-heroes-ingles"
   },
@@ -1288,7 +1288,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1393.0,
+   "price": 1394.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1486,7 +1486,7 @@
   },
   "10175409488201": {
    "available": true,
-   "price": 216.0,
+   "price": 217.0,
    "title": "Pokémon TCG - Booster box Pitch Black (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-pitch-black"
   },
@@ -1582,7 +1582,7 @@
   },
   "10195896435017": {
    "available": false,
-   "price": 340.0,
+   "price": 341.0,
    "title": "Pokémon TCG - Booster box Origen perdido (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-origen-perdido-espanol"
   },
@@ -1600,7 +1600,7 @@
   },
   "10202161381705": {
    "available": true,
-   "price": 216.0,
+   "price": 217.0,
    "title": "LEGO® Pokémon™ — Pikachu y Poké Ball",
    "url": "https://www.jjcollection.es/products/lego®-pokemon™-pikachu-y-poke-ball"
   },
@@ -1948,7 +1948,7 @@
   },
   "9751217537353": {
    "available": true,
-   "price": 25.0,
+   "price": 26.0,
    "title": "Ultra Pro - Carpeta PRO Binder 9 Bolsillos Charmander Pokémon",
    "url": "https://www.jjcollection.es/products/carpeta-pro-binder-9-bolsillos-charmander-pokemon-ultra-pro"
   },
@@ -2080,13 +2080,13 @@
   },
   "9776358490441": {
    "available": true,
-   "price": 17.0,
+   "price": 18.0,
    "title": "Disney Lorcana - Tapete Rescue Rangers Away Reign of Jafar",
    "url": "https://www.jjcollection.es/products/tapete-rescue-rangers-away-reign-of-jafar-disney-lorcana"
   },
   "9776359440713": {
    "available": true,
-   "price": 17.0,
+   "price": 18.0,
    "title": "Disney Lorcana - Reign of Jafar Caja Expositora 8 Mazos de Inicio (Inglés)",
    "url": "https://www.jjcollection.es/products/caja-expositora-8-mazos-de-inicio-reign-of-jafar-disney-lorcana"
   },
@@ -2110,7 +2110,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.74,
+   "price": 22.75,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -23488,7 +23488,7 @@
   },
   "15378708463941": {
    "available": false,
-   "price": 423.0,
+   "price": 366.0,
    "title": "MTG - Boite de 12 Boosters Collector - Teenage Mutant Ninja Turtles",
    "url": "https://masterset.store/products/mtg-boite-de-12-boosters-collector-teenage-mutant-ninja-turtles"
   },
@@ -24412,7 +24412,7 @@
   },
   "15696524411205": {
    "available": false,
-   "price": 514.0,
+   "price": 332.0,
    "title": "MTG - Boite de 12 Boosters Collector - Marvel Super Heroes",
    "url": "https://masterset.store/products/mtg-boite-de-12-boosters-collector-marvel-super-heroes"
   },
@@ -48025,13 +48025,13 @@
    "url": "https://www.pokemillon.com/products/disney-lorcana-mickey-mouse-playful-sorcerer-d23-expo-2024-collectors-set"
   },
   "15359716786499": {
-   "available": true,
+   "available": false,
    "price": 47.9,
    "title": "Magic x Final Fantasy | Camp Comrades Scene Box",
    "url": "https://www.pokemillon.com/products/magic-x-final-fantasy-camp-comrades-scene-box"
   },
   "15359719113027": {
-   "available": true,
+   "available": false,
    "price": 52.9,
    "title": "Magic x Final Fantasy | Garland at the Chaos Shrine Scene Box",
    "url": "https://www.pokemillon.com/products/magic-x-final-fantasy-garland-at-the-chaos-shrine-scene-box"
@@ -64641,7 +64641,7 @@
    "url": "https://www.relictcg.com/products/1107-17h-avant-premieres-nuit-noire-6"
   },
   "16649659679065": {
-   "available": false,
+   "available": true,
    "price": 35.0,
    "title": "28/10 19H AVANT-PREMIERES: REGNE DELTA - 28 Oct 2026",
    "url": "https://www.relictcg.com/products/1107-17h-avant-premieres-nuit-noire-7"
@@ -64857,10 +64857,16 @@
    "url": "https://www.relictcg.com/products/booster-league-of-legend-riftbound-set-5-radiance-en"
   },
   "16674250948953": {
-   "available": false,
+   "available": true,
    "price": 6.0,
    "title": "Booster - League of Legend - Riftbound : Set 5 - Radiance - FR",
    "url": "https://www.relictcg.com/products/booster-league-of-legend-riftbound-set-5-radiance-fr"
+  },
+  "16674265235801": {
+   "available": true,
+   "price": 30.0,
+   "title": "Pre-Release Kit - League of Legend - Riftbound : Set 5 - Radiance - FR",
+   "url": "https://www.relictcg.com/products/pre-release-kit-league-of-legend-riftbound-set-5-radiance-fr"
   },
   "16674308555097": {
    "available": true,
