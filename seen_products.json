@@ -1486,7 +1486,7 @@
   },
   "10175409488201": {
    "available": true,
-   "price": 217.0,
+   "price": 216.0,
    "title": "Pokémon TCG - Booster box Pitch Black (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-pitch-black"
   },
@@ -1600,7 +1600,7 @@
   },
   "10202161381705": {
    "available": true,
-   "price": 217.0,
+   "price": 216.0,
    "title": "LEGO® Pokémon™ — Pikachu y Poké Ball",
    "url": "https://www.jjcollection.es/products/lego®-pokemon™-pikachu-y-poke-ball"
   },
@@ -64838,6 +64838,30 @@
    "title": "Road to Nationals - 2027 - 10 Jan 2027",
    "url": "https://www.relictcg.com/products/duplicate-road-to-nationals-2026"
   },
+  "16673395835225": {
+   "available": false,
+   "price": 6.0,
+   "title": "Booster - League of Legend - Riftbound : Set 4 - Vendetta - FR",
+   "url": "https://www.relictcg.com/products/booster-league-of-legend-riftbound-set-4-vendetta-fr"
+  },
+  "16673499742553": {
+   "available": false,
+   "price": 120.0,
+   "title": "Display - League of Legends - Riftbound : Set 4 - Vendetta - FR",
+   "url": "https://www.relictcg.com/products/display-league-of-legends-riftbound-set-4-vendetta-fr"
+  },
+  "16674204844377": {
+   "available": true,
+   "price": 6.5,
+   "title": "Booster - League of Legend - Riftbound : Set 5 - Radiance - EN",
+   "url": "https://www.relictcg.com/products/booster-league-of-legend-riftbound-set-5-radiance-en"
+  },
+  "16674250948953": {
+   "available": false,
+   "price": 6.0,
+   "title": "Booster - League of Legend - Riftbound : Set 5 - Radiance - FR",
+   "url": "https://www.relictcg.com/products/booster-league-of-legend-riftbound-set-5-radiance-fr"
+  },
   "16674308555097": {
    "available": true,
    "price": 0.0,
@@ -72403,13 +72427,13 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-robot-cotte-de-mailles-r-mzmu-fr047"
   },
   "15444785627484": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Reine Enfernité : R MZMU-FR048",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-reine-enfernite-r-mzmu-fr048"
   },
   "15444785660252": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Vaisseau Spatial Ajustable : R MZMU-FR049",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-vaisseau-spatial-ajustable-r-mzmu-fr049"
@@ -72433,13 +72457,13 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-arequus-le-saint-eclatant-de-mars-sr-mzmu-fr051"
   },
   "15444785824092": {
-   "available": true,
+   "available": null,
    "price": 4.9,
    "title": "Yu-Gi-Oh! Porte-Loi Dogmatika : UR MZMU-FR052",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-porte-loi-dogmatika-ur-mzmu-fr052"
   },
   "15444785856860": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Panthère de Trésors : SR MZMU-FR053",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-panthere-de-tresors-sr-mzmu-fr053"
@@ -87449,6 +87473,30 @@
    "price": 280.0,
    "title": "[SV] Pokémon - Display de 36 boosters EV09 - avec carte PROMO : Aventures Ensemble",
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-display-de-36-boosters-ev09-avec-carte-promo-aventures-ensemble"
+  },
+  "15936056918364": {
+   "available": true,
+   "price": 79.9,
+   "title": "Cyberpunk TCG - Beta Event Kit : Welcome to Night City - VERSION ANGLAISE",
+   "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-beta-event-kit-welcome-to-night-city-version-anglaise"
+  },
+  "15936064815452": {
+   "available": true,
+   "price": 279.9,
+   "title": "Cyberpunk TCG - Display Beta de 36 boosters : Welcome to Night City - VERSION ANGLAISE",
+   "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-display-beta-de-36-boosters-welcome-to-night-city-version-anglaise"
+  },
+  "15936107741532": {
+   "available": true,
+   "price": 29.9,
+   "title": "Cyberpunk TCG - Starter Deck Beta Welcome to Night City : Embracing Power - VERSION ANGLAISE",
+   "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-starter-deck-beta-welcome-to-night-city-embracing-power-version-anglaise"
+  },
+  "15936118391132": {
+   "available": true,
+   "price": 29.9,
+   "title": "Cyberpunk TCG - Starter Deck Beta Welcome to Night City : The Heist - VERSION ANGLAISE",
+   "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-starter-deck-beta-welcome-to-night-city-the-heist-version-anglaise"
   },
   "7331019194539": {
    "available": null,
