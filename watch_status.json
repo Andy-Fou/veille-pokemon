@@ -886,7 +886,7 @@
    "url": "https://pika-boutique.fr/products/coffret-amphinobi-pokemon-30-ans"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1714,5 +1714,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-27T07:13:28+00:00"
+ "updated": "2026-10-27T08:05:15+00:00"
 }
