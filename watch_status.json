@@ -1471,10 +1471,10 @@
    "url": "https://strikegames.shop/products/pack-pokemon-1-boite-nymphali-ex-ou-amphinobi-ex-30e-anniversaire-1-pokebox-2026-8-aleatoire-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 79.99,
+   "price": 89.99,
    "shop": "Strike Games",
    "title": "Pack Pokémon : 1 Bundle 30e Anniversaire + 1 Pokebox 2026/8 (aléatoire) | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-6-boosters-fr"
@@ -1550,6 +1550,15 @@
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Boîte Nymphali-ex ou Amphinobi-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-boite-nymphali-ex-ou-amphinobi-ex-fr"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 69.99,
+   "shop": "Strike Games",
+   "title": "Pokémon ME 5.5 - 30e Anniversaire - Bundle 30e Anniversaire | FR",
+   "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-30e-anniversaire-fr"
   },
   {
    "available": false,
@@ -1714,5 +1723,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-27T19:07:08+00:00"
+ "updated": "2026-10-27T19:58:21+00:00"
 }
