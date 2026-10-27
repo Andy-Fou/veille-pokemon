@@ -1,6 +1,5 @@
 {
  "errors": {
-  "InvestCollect": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
   "PokeElite TCG": "HTTPSConnectionPool(host='pokeelitetcg.com', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NewConnectionError(\"HTTPSConnection(host='pokeelitetcg.com', port=443)"
  },
  "products": [
@@ -647,7 +646,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 81.0,
+   "price": 80.0,
    "shop": "Masterset",
    "title": "Ultra Pro - Zip PRO-Binder 12 cases - MTG 30th Anniv.",
    "url": "https://masterset.store/products/ultra-pro-zip-pro-binder-12-cases-mtg-30th-anniv"
@@ -719,7 +718,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 41.0,
+   "price": 40.0,
    "shop": "Masterset",
    "title": "[Limite de 1] [1 au choix] Pokémon - Coffret 4 boosters - 30e Anniversaire - Amphinobi-ex ou Nymphali-ex",
    "url": "https://masterset.store/products/limite-de-1-1-au-choix-pokemon-coffret-4-boosters-30e-anniversaire-amphinobi-ex-ou-nymphali-ex"
@@ -1715,5 +1714,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-27T02:16:05+00:00"
+ "updated": "2026-10-27T02:57:36+00:00"
 }
