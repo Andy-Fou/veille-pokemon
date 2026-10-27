@@ -225,15 +225,6 @@
    "kind": "anniv",
    "price": null,
    "shop": "InvestCollect",
-   "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
-   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "InvestCollect",
    "title": "case 10 etb pokemon 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/case-10-etb-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
   },
@@ -281,6 +272,15 @@
    "shop": "InvestCollect",
    "title": "coffret pokemon collection figurine mewtwo 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-figurine-mewtwo-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "coffret pokemon collection premium metamorph 30e anniversaire me05_5 scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
   },
   {
    "available": null,
@@ -1714,5 +1714,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-27T14:10:49+00:00"
+ "updated": "2026-10-27T15:09:30+00:00"
 }
