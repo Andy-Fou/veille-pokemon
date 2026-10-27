@@ -1306,7 +1306,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1390.0,
+   "price": 1391.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1348,7 +1348,7 @@
   },
   "10074734723401": {
    "available": false,
-   "price": 681.0,
+   "price": 682.0,
    "title": "Pokémon TCG - Case X10 ETB Ascended Heroes (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-ascended-heroes-espanol"
   },
@@ -1402,7 +1402,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1108.0,
+   "price": 1109.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -2128,7 +2128,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.69,
+   "price": 22.7,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2470,6 +2470,12 @@
    "title": "[SCELLE] Display SV8A - Terastal Festival [JAP]",
    "url": "https://kairyu.fr/products/scelle-display-sv8a-terastal-festival-jap"
   },
+  "14909847896399": {
+   "available": true,
+   "price": 329.9,
+   "title": "[SCELLE] Coffret 151 Costco [FR]",
+   "url": "https://kairyu.fr/products/scelle-coffret-151-costco-fr"
+  },
   "14935318856015": {
    "available": false,
    "price": 7.9,
@@ -2477,7 +2483,7 @@
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-ev07-couronne-stellaire-fr"
   },
   "15033501352271": {
-   "available": false,
+   "available": true,
    "price": 149.9,
    "title": "[SCELLE] Elite Trainer Box EV08.5 Evolutions Prismatiques [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-ev08-5-evolutions-prismatiques-fr"
@@ -2573,7 +2579,7 @@
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-ev10-rivalites-destinees-fr"
   },
   "15335247184207": {
-   "available": false,
+   "available": true,
    "price": 169.9,
    "title": "[SCELLE] Display EV10 - Rivalités Destinées [FR]",
    "url": "https://kairyu.fr/products/scelle-display-ev10-rivalites-destinees-fr"
@@ -3772,6 +3778,12 @@
    "title": "[SCELLE] Coffret Pikachu et Evoli GX [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-pikachu-et-evoli-gx-fr"
   },
+  "15717924012367": {
+   "available": true,
+   "price": 129.9,
+   "title": "[SCELLE] Coffret Pinbox - La Voie du Maitre [FR]",
+   "url": "https://kairyu.fr/products/scelle-coffret-pinbox-la-voie-du-maitre-fr"
+  },
   "15718411338063": {
    "available": false,
    "price": 59.9,
@@ -3821,7 +3833,7 @@
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-me03-equilibre-parfait-fr"
   },
   "15887861940559": {
-   "available": false,
+   "available": true,
    "price": 109.9,
    "title": "[SCELLE] Elite Trainer Box ME02.5 - Héro Transcendant [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-me02-5-hero-transcendant-fr"
@@ -6154,6 +6166,12 @@
    "title": "[SCELLE] DuoPack Blister Octobre 2026 - ME04/ME05 [FR]",
    "url": "https://kairyu.fr/products/scelle-duopack-blister-octobre-2026-me04-me05-fr"
   },
+  "16423329923407": {
+   "available": false,
+   "price": 2.9,
+   "title": "191/128 Mew B",
+   "url": "https://kairyu.fr/products/191-128-mew-b"
+  },
   "7603572408579": {
    "available": false,
    "price": 109.9,
@@ -6177,6 +6195,12 @@
    "price": 849.9,
    "title": "[SCELLE] Display EB08 - Poing de Fusion [FR]",
    "url": "https://kairyu.fr/products/scelle-display-eb8-poing-de-fusion-fr"
+  },
+  "7612877111555": {
+   "available": true,
+   "price": 259.9,
+   "title": "[SCELLE] Elite Trainer Box EB09 - Stars Etincelantes [FR]",
+   "url": "https://kairyu.fr/products/scelle-elite-trainer-box-eb9-star-etincelante-fr"
   },
   "7626635641091": {
    "available": true,
@@ -9035,7 +9059,7 @@
    "url": "https://kairyu.fr/products/095-172-morpeko-v"
   },
   "7879479558403": {
-   "available": true,
+   "available": null,
    "price": 4.9,
    "title": "096/172 Galeking V",
    "url": "https://kairyu.fr/products/096-172-galeking-v"
@@ -9047,13 +9071,13 @@
    "url": "https://kairyu.fr/products/097-172-galeking-vmax"
   },
   "7879482179843": {
-   "available": true,
+   "available": null,
    "price": 3.9,
    "title": "105/172 Zamazenta V",
    "url": "https://kairyu.fr/products/105-172-zamazenta-v"
   },
   "7879482409219": {
-   "available": true,
+   "available": null,
    "price": 3.9,
    "title": "106/172 Libegon V",
    "url": "https://kairyu.fr/products/106-172-libegon-v"
@@ -14291,7 +14315,7 @@
    "url": "https://kairyu.fr/products/scelle-coffret-alakazam-ex-eb03-5-fr"
   },
   "8632630116687": {
-   "available": false,
+   "available": true,
    "price": 99.9,
    "title": "[SCELLE] Coffret Collection Poster [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-collection-poster-fr"
@@ -81565,7 +81589,7 @@
    "url": "https://tradingcardsxxx.fr/products/topps-mega-boite-f1-turbo-attax-2026-sunshine-state"
   },
   "15727104786780": {
-   "available": true,
+   "available": false,
    "price": 16.5,
    "title": "[TOPPS] Mega Boite : F1 Turbo Attax 2026 Guardians of the Grid",
    "url": "https://tradingcardsxxx.fr/products/topps-mega-boite-f1-turbo-attax-2026-guardians-of-the-grid"
@@ -81583,7 +81607,7 @@
    "url": "https://tradingcardsxxx.fr/products/topps-classeur-f1-turbo-attax-2026-kit-de-demarrage"
   },
   "15727125365084": {
-   "available": true,
+   "available": false,
    "price": 134.9,
    "title": "[TOPPS] - [Master Pack] : F1 Turbo Attax 2026",
    "url": "https://tradingcardsxxx.fr/products/topps-master-pack-f1-turbo-attax-2026"
