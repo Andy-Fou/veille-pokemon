@@ -1294,7 +1294,7 @@
   },
   "10024469659977": {
    "available": false,
-   "price": 604.0,
+   "price": 603.0,
    "title": "Pokémon TCG - Display Bundle Destinos de paldea (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-bundle-destinos-de-paldea-espanol"
   },
@@ -1414,7 +1414,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1112.0,
+   "price": 1111.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -1558,7 +1558,7 @@
   },
   "10177146683721": {
    "available": true,
-   "price": 92.0,
+   "price": 91.0,
    "title": "Magic The Gathering - Marvel Super Heroes Gift Bundle (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-marvel-super-heroes-gift-bundle-ingles"
   },
@@ -2074,7 +2074,7 @@
   },
   "9764071178569": {
    "available": false,
-   "price": 183.0,
+   "price": 182.0,
    "title": "Magic The Gathering - Phyrexia All Will Be One Draft Booster Box 30 Sobres (Español)",
    "url": "https://www.jjcollection.es/products/caja-de-sobres-phyrexia-all-will-be-one-mtg"
   },
@@ -2140,7 +2140,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.76,
+   "price": 22.75,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -34223,7 +34223,7 @@
    "url": "https://metamorphcenter.com/products/rayquaza-ex-123-promo-corocoro-psa-9-japones-166923618"
   },
   "11420297888086": {
-   "available": true,
+   "available": false,
    "price": 350.0,
    "title": "Rayquaza EX #123 Promo CoroCoro XY-P PSA 9 - Japonés",
    "url": "https://metamorphcenter.com/products/rayquaza-ex-123-promo-corocoro-psa-9-japones-151419124"
@@ -34235,7 +34235,7 @@
    "url": "https://metamorphcenter.com/products/rayquaza-ex-shiny-122-promo-psa-9-japones-158834733"
   },
   "11420337799510": {
-   "available": true,
+   "available": false,
    "price": 130.0,
    "title": "Flying Pikachu VMAX #024 S8a 25th Anniversary Collection PSA 10 - Japonés",
    "url": "https://metamorphcenter.com/products/flying-pikachu-vmax-024-psa-10-japones-140853104"
@@ -35565,7 +35565,7 @@
    "url": "https://pika-boutique.fr/products/coffret-mega-kangourex-ex"
   },
   "10594248163592": {
-   "available": false,
+   "available": true,
    "price": 9.9,
    "title": "Booster Flammes Fantasmagoriques - ME02",
    "url": "https://pika-boutique.fr/products/booster-flammes-phantasmagoriques-me02"
@@ -36069,7 +36069,7 @@
    "url": "https://pika-boutique.fr/products/booster-equilibre-parfait-me04"
   },
   "12104571650312": {
-   "available": false,
+   "available": true,
    "price": 6.9,
    "title": "Booster Nuit Noire - ME05",
    "url": "https://pika-boutique.fr/products/booster-nuit-noire-me05"
@@ -50041,7 +50041,7 @@
    "url": "https://www.pokemillon.com/products/lata-pokeball-e24"
   },
   "15397649023299": {
-   "available": false,
+   "available": true,
    "price": 69.9,
    "title": "ETB Dominio Delta | Élite Delta Reign",
    "url": "https://www.pokemillon.com/products/etb-dominio-delta-elite-delta-reign"
@@ -51684,6 +51684,12 @@
    "title": "Release the Creatures: Dinosaurs! Booster Box 8 Sobres",
    "url": "https://www.pokemillon.com/products/creatures-dinosaurs-box"
   },
+  "15466781770051": {
+   "available": true,
+   "price": 17.9,
+   "title": "Release the Creatures: Dinosaurs! Sobres",
+   "url": "https://www.pokemillon.com/products/creatures-dinosaurs-sobres"
+  },
   "7430823411958": {
    "available": false,
    "price": 36.95,
@@ -51865,7 +51871,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-mini-caja-majestad-de-dragones"
   },
   "7519686394102": {
-   "available": true,
+   "available": null,
    "price": 27.9,
    "title": "Blíster 2 Sobres Oscuridad Incandescente | Darkness Ablaze",
    "url": "https://www.pokemillon.com/products/blister-2-sobres"
@@ -70123,7 +70129,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-octobre-2025-mega-latias-ex"
   },
   "15254212936028": {
-   "available": false,
+   "available": true,
    "price": 149.9,
    "title": "Pokémon - Coffret Collection Premium avec Figurine EV08.5 Évolutions Prismatiques : Mentali & Noctali",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-premium-avec-figurine-ev08-5-evolutions-prismatiques-mentali-noctali"
@@ -81871,7 +81877,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-booster-sous-blister-de-10-cartes-me05-nuit-noire"
   },
   "15669588197724": {
-   "available": false,
+   "available": true,
    "price": 39.9,
    "title": "Pokémon - Lot de 6 boosters ME05 : Nuit Noire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-nuit-noire"
@@ -82039,7 +82045,7 @@
    "url": "https://tradingcardsxxx.fr/products/topps-mega-boite-f1-turbo-attax-2026-sunshine-state"
   },
   "15727104786780": {
-   "available": false,
+   "available": true,
    "price": 16.5,
    "title": "[TOPPS] Mega Boite : F1 Turbo Attax 2026 Guardians of the Grid",
    "url": "https://tradingcardsxxx.fr/products/topps-mega-boite-f1-turbo-attax-2026-guardians-of-the-grid"
@@ -82057,7 +82063,7 @@
    "url": "https://tradingcardsxxx.fr/products/topps-classeur-f1-turbo-attax-2026-kit-de-demarrage"
   },
   "15727125365084": {
-   "available": false,
+   "available": true,
    "price": 134.9,
    "title": "[TOPPS] - [Master Pack] : F1 Turbo Attax 2026",
    "url": "https://tradingcardsxxx.fr/products/topps-master-pack-f1-turbo-attax-2026"
