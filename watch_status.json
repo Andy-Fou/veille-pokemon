@@ -1039,19 +1039,19 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario-1"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 89.9,
+   "price": 79.9,
    "shop": "Pokemillon",
    "title": "30th Celebration Álbum Collection Box Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-celebration-album-collection-box-celebraciones-30-aniversario"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 29.95,
+   "price": 42.95,
    "shop": "Pokemillon",
    "title": "30th Poster Collection Box Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-poster-collection-box-celebraciones-30-aniversario"
@@ -1066,10 +1066,10 @@
    "url": "https://www.pokemillon.com/products/9-cajas-first-partner-illustration-collections-pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 17.99,
+   "price": 22.99,
    "shop": "Pokemillon",
    "title": "Blister First Partner Vol 1 del 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-anniversary-first-partner-blister-vol-1"
@@ -1084,28 +1084,28 @@
    "url": "https://www.pokemillon.com/products/30th-anniversary-first-partner-blister-vol-2"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 16.99,
+   "price": 27.99,
    "shop": "Pokemillon",
    "title": "Blíster 2 Sobres Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-2-sobres-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 33.9,
+   "price": 38.9,
    "shop": "Pokemillon",
-   "title": "Blíster Exeguttor Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
+   "title": "Blíster Exeggutor Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 36.9,
+   "price": 39.9,
    "shop": "Pokemillon",
    "title": "Blíster Lucario Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-lucario-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
@@ -1267,7 +1267,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 33.95,
+   "price": 49.95,
    "shop": "Pokemillon",
    "title": "Greninja Special Box Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/greninja-special-box-celebraciones-30-aniversario-elite-celebrations-30th"
@@ -1276,7 +1276,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 46.9,
+   "price": 49.9,
    "shop": "Pokemillon",
    "title": "Greninja ex Tin  Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/30th-celebration-pokemon-ex-tin"
@@ -1390,7 +1390,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 7.99,
@@ -1402,7 +1402,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 45.9,
+   "price": 49.9,
    "shop": "Pokemillon",
    "title": "Sylveon Special Box Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/sylveon-box-30th-anniversary"
@@ -1411,7 +1411,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 46.9,
+   "price": 49.9,
    "shop": "Pokemillon",
    "title": "Sylveon ex Tin  Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/sylveon-ex-tin-celebraciones-30-aniversario-celebrations-30th"
@@ -1723,5 +1723,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-28T11:22:08+00:00"
+ "updated": "2026-10-28T12:19:53+00:00"
 }

@@ -815,7 +815,7 @@
    "url": "https://flashstore.es/producto/pokemon-center-special-box-tohoku/"
   },
   "77504": {
-   "available": false,
+   "available": true,
    "price": 159.9,
    "title": "Pokemon Center Special Box Hiroshima",
    "url": "https://flashstore.es/producto/pokemon-center-special-box-hiroshima/"
@@ -1083,7 +1083,7 @@
   "display-pokemon-regne-delta-me06-scelle-francais": {
    "available": null,
    "price": null,
-   "title": "[06-11-2026] Display - Pokemon - Règne Delta - ME06 - Scellé - Français",
+   "title": "display pokemon regne delta me06 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/display-pokemon-regne-delta-me06-scelle-francais.html"
   },
   "duopack-pokemon-30e-anniversaire-me05_5-scelle-francais": {
@@ -1258,7 +1258,7 @@
   },
   "10010992279881": {
    "available": false,
-   "price": 210.0,
+   "price": 211.0,
    "title": "Pokémon TCG - Booster box Rivales Predestinados (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-rivales-predestinados-espanol"
   },
@@ -1276,7 +1276,7 @@
   },
   "10024465432905": {
    "available": false,
-   "price": 59.0,
+   "price": 60.0,
    "title": "Pokémon TCG - Booster Bundle Destinos de paldea (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-bundle-destinos-de-paldea-espanol"
   },
@@ -1306,7 +1306,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1390.0,
+   "price": 1391.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1348,7 +1348,7 @@
   },
   "10074734723401": {
    "available": false,
-   "price": 681.0,
+   "price": 682.0,
    "title": "Pokémon TCG - Case X10 ETB Ascended Heroes (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-ascended-heroes-espanol"
   },
@@ -1390,7 +1390,7 @@
   },
   "10112622821705": {
    "available": false,
-   "price": 227.0,
+   "price": 228.0,
    "title": "Dragon Ball - FB09 Dual Evolution [Fusion World] (Inglés)",
    "url": "https://www.jjcollection.es/products/dragon-ball-fb09-dual-evolution-fusion-world-ingles"
   },
@@ -1402,7 +1402,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1108.0,
+   "price": 1109.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -1960,7 +1960,7 @@
   },
   "10497143865673": {
    "available": false,
-   "price": 17.0,
+   "price": 18.0,
    "title": "Pokémon TCG — Blister 2 pack Evee | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-blister-2-pack-evee-espanol"
   },
@@ -2128,7 +2128,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.69,
+   "price": 22.71,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -25391,7 +25391,7 @@
   "15849802039621": {
    "available": false,
    "price": 108.0,
-   "title": "[PRECOMMANDE] Gundam CG - Boîte de 24 Boosters - GD06 [EN]",
+   "title": "Gundam CG - Boîte de 24 Boosters - GD06 [EN]",
    "url": "https://masterset.store/products/gundam-cg-bo-te-de-24-boosters-gd06"
   },
   "15854876983621": {
@@ -32783,7 +32783,7 @@
    "url": "https://metamorphcenter.com/products/vaultx-exo-tec-zip-binder-9-pockets-sunrise-yellow"
   },
   "10800320840022": {
-   "available": true,
+   "available": false,
    "price": 41.95,
    "title": "VaultX EXO-TEC® Zip Binder XXL 16 Pockets Signature Black — Álbum 1088 Cartas",
    "url": "https://metamorphcenter.com/products/vaultx-exo-tec-zip-binder-16-pockets-xxl-signature-black"
@@ -34164,7 +34164,7 @@
   },
   "11377848320342": {
    "available": true,
-   "price": 124.95,
+   "price": 119.95,
    "title": "Caja 30th Anniversary Celebration M6a - Coreano",
    "url": "https://metamorphcenter.com/products/caja-30th-celebration-pokemon-coreano"
   },
@@ -36113,7 +36113,7 @@
   "12293807767816": {
    "available": true,
    "price": 119.9,
-   "title": "[PRECOMMANDE] Display Riftbound Vendetta",
+   "title": "Display Riftbound Vendetta",
    "url": "https://pika-boutique.fr/products/precommande-display-riftbound-vendetta"
   },
   "12309052522760": {
@@ -40087,7 +40087,7 @@
    "url": "https://www.pokemillon.com/products/topps-2024-25-uefa-club-competitions-value"
   },
   "14758165217603": {
-   "available": false,
+   "available": true,
    "price": 26.9,
    "title": "Lata Azure Legends",
    "url": "https://www.pokemillon.com/products/lata-azure-legends"
@@ -41359,8 +41359,8 @@
    "url": "https://www.pokemillon.com/products/cgc-6-sylveon-ex-gen-rc21-generaciones"
   },
   "15026523996483": {
-   "available": false,
-   "price": 54.9,
+   "available": true,
+   "price": 84.9,
    "title": "Caja 30 Sobres Mega Brave m1L",
    "url": "https://www.pokemillon.com/products/caja-mega-brave"
   },
@@ -44978,7 +44978,7 @@
   },
   "15265721975107": {
    "available": true,
-   "price": 45.9,
+   "price": 49.9,
    "title": "Sylveon Special Box Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/sylveon-box-30th-anniversary"
   },
@@ -45655,7 +45655,7 @@
    "url": "https://www.pokemillon.com/products/sobre-de-mask-of-change-sv6"
   },
   "15297521975619": {
-   "available": false,
+   "available": true,
    "price": 2.9,
    "title": "Sobre Ninja Spinner m4",
    "url": "https://www.pokemillon.com/products/sobre-ninja-spinner-m4"
@@ -45673,8 +45673,8 @@
    "url": "https://www.pokemillon.com/products/perfect-order-sobre"
   },
   "15297525842243": {
-   "available": false,
-   "price": 1.37,
+   "available": true,
+   "price": 2.79,
    "title": "Sobre Cyber Judge sv5M",
    "url": "https://www.pokemillon.com/products/sobre-cyber-judge-sv5m"
   },
@@ -45709,7 +45709,7 @@
    "url": "https://www.pokemillon.com/products/sobre-vstar-universe-s12a"
   },
   "15297530233155": {
-   "available": false,
+   "available": true,
    "price": 2.9,
    "title": "Sobre Ancient Roar sv4K",
    "url": "https://www.pokemillon.com/products/sobre-ancient-roar-sv4k"
@@ -46807,8 +46807,8 @@
    "url": "https://www.pokemillon.com/products/caja-gem-pack-vol-5-horizonts"
   },
   "15334857605443": {
-   "available": false,
-   "price": 17.99,
+   "available": true,
+   "price": 22.99,
    "title": "Blister First Partner Vol 1 del 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-anniversary-first-partner-blister-vol-1"
   },
@@ -47377,7 +47377,7 @@
    "url": "https://www.pokemillon.com/products/sobre-3-cartas-fuerzas-temporales-temporal-forces-booster"
   },
   "15344073703747": {
-   "available": false,
+   "available": true,
    "price": 1.97,
    "title": "Sobre Abyss Eye M5",
    "url": "https://www.pokemillon.com/products/sobre-abyss-eye-m5"
@@ -47455,7 +47455,7 @@
    "url": "https://www.pokemillon.com/products/snow-hazard-clay-burst-pokemon-center-gym-set"
   },
   "15344716054851": {
-   "available": false,
+   "available": true,
    "price": 7.99,
    "title": "Sobre Pokémon 30th Anniversary",
    "url": "https://www.pokemillon.com/products/sobre-pokemon-30th-anniversary"
@@ -47755,7 +47755,7 @@
    "url": "https://www.pokemillon.com/products/sobres-super-electric-breaker"
   },
   "15349975286083": {
-   "available": false,
+   "available": true,
    "price": 3.9,
    "title": "Sobres Glory of Team Rocket sv10",
    "url": "https://www.pokemillon.com/products/sobres-glory-of-team-rocket-sv10"
@@ -48398,19 +48398,19 @@
   },
   "15362772074819": {
    "available": true,
-   "price": 33.95,
+   "price": 49.95,
    "title": "Greninja Special Box Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/greninja-special-box-celebraciones-30-aniversario-elite-celebrations-30th"
   },
   "15362774827331": {
-   "available": false,
-   "price": 29.95,
+   "available": true,
+   "price": 42.95,
    "title": "30th Poster Collection Box Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-poster-collection-box-celebraciones-30-aniversario"
   },
   "15362776170819": {
-   "available": false,
-   "price": 89.9,
+   "available": true,
+   "price": 79.9,
    "title": "30th Celebration Álbum Collection Box Celebraciones 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-celebration-album-collection-box-celebraciones-30-aniversario"
   },
@@ -48451,20 +48451,20 @@
    "url": "https://www.pokemillon.com/products/caja-knock-out-collection-celebraciones-30-aniversario-celebrations-30th"
   },
   "15362836463939": {
-   "available": false,
-   "price": 33.9,
-   "title": "Blíster Exeguttor Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
+   "available": true,
+   "price": 38.9,
+   "title": "Blíster Exeggutor Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
   },
   "15362837283139": {
-   "available": false,
-   "price": 36.9,
+   "available": true,
+   "price": 39.9,
    "title": "Blíster Lucario Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-lucario-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
   },
   "15362839183683": {
-   "available": false,
-   "price": 16.99,
+   "available": true,
+   "price": 27.99,
    "title": "Blíster 2 Sobres Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-2-sobres-30th"
   },
@@ -48524,13 +48524,13 @@
   },
   "15363982852419": {
    "available": true,
-   "price": 46.9,
+   "price": 49.9,
    "title": "Greninja ex Tin  Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/30th-celebration-pokemon-ex-tin"
   },
   "15363983868227": {
    "available": true,
-   "price": 46.9,
+   "price": 49.9,
    "title": "Sylveon ex Tin  Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/sylveon-ex-tin-celebraciones-30-aniversario-celebrations-30th"
   },
@@ -52825,7 +52825,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-ciclyzar-ex-box-ingles-2023"
   },
   "8611084337475": {
-   "available": false,
+   "available": true,
    "price": 47.9,
    "title": "Caja Morpeko V-Union Cenit Supremo | Crown Zenith",
    "url": "https://www.pokemillon.com/products/morpeko-cenit-supremo"
@@ -53683,8 +53683,8 @@
    "url": "https://www.pokemillon.com/products/caja-10-mini-latas-shrouded"
   },
   "9129401745731": {
-   "available": false,
-   "price": 69.9,
+   "available": true,
+   "price": 99.9,
    "title": "Greninja ex Fábula Sombría | Shrouded Fable",
    "url": "https://www.pokemillon.com/products/caja-premium-ex-sv6-5-es"
   },
@@ -53935,7 +53935,7 @@
    "url": "https://www.pokemillon.com/products/star-wars-unlimited-caja-booster-en"
   },
   "9195515085123": {
-   "available": false,
+   "available": true,
    "price": 59.9,
    "title": "Kingdra ex Special Illustration Fábula Sombría | Shrouded Fable",
    "url": "https://www.pokemillon.com/products/caja-kingdra-ex-special-en"
@@ -65419,6 +65419,12 @@
    "price": 0.0,
    "title": "25/11 CLASSIC CONSTRUCTED - 25 Nov 2026",
    "url": "https://www.relictcg.com/products/duplicate-1208-classic-constructed-5"
+  },
+  "16742509150553": {
+   "available": true,
+   "price": 0.0,
+   "title": "07/11 League Challenge de Pokémon GO  - 7 Nov 2026",
+   "url": "https://www.relictcg.com/products/duplicate-0905-league-challenge-de-pokemon-go-3"
   },
   "7441091887327": {
    "available": false,
