@@ -1318,7 +1318,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1391.0,
+   "price": 1392.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1378,13 +1378,13 @@
   },
   "10090848584009": {
    "available": false,
-   "price": 218.0,
+   "price": 219.0,
    "title": "Pokémon TCG - Case x6 Mega Latias box (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-mega-latias-box-ingles"
   },
   "10090869227849": {
    "available": false,
-   "price": 590.0,
+   "price": 591.0,
    "title": "Pokémon TCG - Case X10 ETB Fuegos fantasmales (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-etb-fuegos-fantasmales-espanol"
   },
@@ -1414,7 +1414,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1109.0,
+   "price": 1110.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -1786,7 +1786,7 @@
   },
   "10344523006281": {
    "available": false,
-   "price": 193.0,
+   "price": 194.0,
    "title": "One Piece Card Game - Booster Box OP-17 The World's Strongest Warriors (Inglés)",
    "url": "https://www.jjcollection.es/products/one-piece-card-game-booster-box-op-17-the-worlds-strongest-warriors-ingles"
   },
@@ -2002,7 +2002,7 @@
   },
   "9759973376329": {
    "available": false,
-   "price": 47.0,
+   "price": 48.0,
    "title": "Pokémon TCG - Cynthia's Garchomp ex Premium Collection (Español)",
    "url": "https://www.jjcollection.es/products/cynthia-s-garchomp-ex-premium-collection-espanol"
   },
@@ -2188,7 +2188,7 @@
   },
   "9814632399177": {
    "available": true,
-   "price": 227.0,
+   "price": 228.0,
    "title": "Pokémon TCG - Special Box Pokémon Center Tohoku (Japonés)",
    "url": "https://www.jjcollection.es/products/special-box-pokemon-center-tohoku-pokemon-tcg-japones"
   },
@@ -2284,7 +2284,7 @@
   },
   "9873818288457": {
    "available": false,
-   "price": 226.0,
+   "price": 227.0,
    "title": "Pokémon TCG - Mega Evolution Booster Box 36 Sobres (Español)",
    "url": "https://www.jjcollection.es/products/mega-evoluciones-booster-box-36-sobres-espanol"
   },
@@ -2332,7 +2332,7 @@
   },
   "9912786813257": {
    "available": false,
-   "price": 226.0,
+   "price": 227.0,
    "title": "Pokémon TCG - Booster Box Phantasmal Flames Mega Evoluciones (Español)",
    "url": "https://www.jjcollection.es/products/mega-evoluciones-phantasmal-flames-booster-box-36-sobres-espanol"
   },
@@ -2386,7 +2386,7 @@
   },
   "9923522134345": {
    "available": false,
-   "price": 193.0,
+   "price": 194.0,
    "title": "Magic The Gathering - Play Booster Box Final Fantasy (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-play-booster-box-final-fantasy-ingles"
   },
@@ -3778,6 +3778,12 @@
    "title": "SV-P051 Ronflex",
    "url": "https://kairyu.fr/products/sv-p051-ronflex"
   },
+  "15592928739663": {
+   "available": true,
+   "price": 49.9,
+   "title": "[ARTSET] Boosters - SL05 - Ultra Prisme [FR]",
+   "url": "https://kairyu.fr/products/artset-boosters-sl05-ultra-prisme-fr"
+  },
   "15592938013007": {
    "available": false,
    "price": 19.9,
@@ -3851,7 +3857,7 @@
    "url": "https://kairyu.fr/products/artset-boosters-xy11-offensive-vapeur-fr"
   },
   "15830178464079": {
-   "available": false,
+   "available": true,
    "price": 49.9,
    "title": "[ARTSET] Boosters - SL06 - Lumière Interdite [FR]",
    "url": "https://kairyu.fr/products/artset-boosters-sl06-lumiere-interdite-fr"
@@ -6472,6 +6478,12 @@
    "title": "101 Nidorina",
    "url": "https://kairyu.fr/products/101-nidorina"
   },
+  "16430332117327": {
+   "available": true,
+   "price": 679.9,
+   "title": "SM168 Pikachu & Zekrom GX",
+   "url": "https://kairyu.fr/products/sm168-pikachu-zekrom-gx"
+  },
   "7603572408579": {
    "available": false,
    "price": 109.9,
@@ -7481,7 +7493,7 @@
    "url": "https://kairyu.fr/products/191-196-kimera"
   },
   "7848582938883": {
-   "available": true,
+   "available": false,
    "price": 34.9,
    "title": "TG06/TG30 Ectoplasma",
    "url": "https://kairyu.fr/products/tg06-tg30-ectoplasma"
@@ -7865,7 +7877,7 @@
    "url": "https://kairyu.fr/products/088-163-shifours-mille-poings-v"
   },
   "7876114383107": {
-   "available": true,
+   "available": null,
    "price": 3.9,
    "title": "097/163 Tyranocif-V",
    "url": "https://kairyu.fr/products/097-163-shifours-mille-poings-vmax"
@@ -11231,8 +11243,8 @@
    "url": "https://kairyu.fr/products/154-145-predasterie-gx"
   },
   "7899716354307": {
-   "available": false,
-   "price": 24.9,
+   "available": true,
+   "price": 14.9,
    "title": "155/145 Tokopiyon-GX",
    "url": "https://kairyu.fr/products/155-145-tokopiyon-gx"
   },
@@ -11303,8 +11315,8 @@
    "url": "https://kairyu.fr/products/139-149-lokhlass-gx"
   },
   "7899727233283": {
-   "available": false,
-   "price": 31.9,
+   "available": true,
+   "price": 39.9,
    "title": "140/149 Mentali-GX",
    "url": "https://kairyu.fr/products/140-149-mentali-gx"
   },
@@ -11400,7 +11412,7 @@
   },
   "7899731067139": {
    "available": true,
-   "price": 16.9,
+   "price": 14.9,
    "title": "156/149 Tauros-GX",
    "url": "https://kairyu.fr/products/156-149-tauros-gx"
   },
@@ -11754,7 +11766,7 @@
   },
   "7901437919491": {
    "available": true,
-   "price": 59.9,
+   "price": 54.9,
    "title": "157/156 Phyllali-GX",
    "url": "https://kairyu.fr/products/157-156-phyllali-gx"
   },
@@ -12183,6 +12195,12 @@
    "price": 89.9,
    "title": "176/168 Ama-Ama-GX",
    "url": "https://kairyu.fr/products/176-168-ama-ama-gx"
+  },
+  "7914735894787": {
+   "available": true,
+   "price": 11.9,
+   "title": "014/181 Dracaufeu",
+   "url": "https://kairyu.fr/products/014-181-dracaufeu"
   },
   "7914853466371": {
    "available": true,
@@ -42901,7 +42919,7 @@
    "url": "https://www.pokemillon.com/products/unova-heavy-hitters-premium-collection"
   },
   "15190852239683": {
-   "available": true,
+   "available": false,
    "price": 32.9,
    "title": "Pokémon Day 2026 Collection (30 Aniversario)",
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
@@ -49387,13 +49405,13 @@
    "url": "https://www.pokemillon.com/products/one-piece-premium-card-collection-best-selection-vol-6"
   },
   "15379281871171": {
-   "available": false,
+   "available": true,
    "price": 9.9,
    "title": "One Piece | Mazo ST-31 Red Monkey.D.Luffy",
    "url": "https://www.pokemillon.com/products/one-piece-mazo-st-31-red-monkey-d-luffy"
   },
   "15379283542339": {
-   "available": false,
+   "available": true,
    "price": 0.0,
    "title": "One Piece | Mazo ST-32 Green Roronoa Zoro",
    "url": "https://www.pokemillon.com/products/one-piece-mazo-st-32-green-roronoa-zoro"
@@ -62679,7 +62697,7 @@
    "url": "https://www.relictcg.com/products/display-de-boosters-jumpstart-magic-fondation-en"
   },
   "16311520821593": {
-   "available": true,
+   "available": false,
    "price": 5.5,
    "title": "Booster Jumpstart - Magic : Fondation - EN",
    "url": "https://www.relictcg.com/products/booster-jumpstart-magic-fondation-en"
