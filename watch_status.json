@@ -243,15 +243,6 @@
    "kind": "anniv",
    "price": null,
    "shop": "InvestCollect",
-   "title": "[06-11-2026] Deck - Pokemon - Combat 30e Anniversaire - Noctali ex - Scellé - Français",
-   "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais.html"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "InvestCollect",
    "title": "case 10 etb pokemon 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/case-10-etb-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
   },
@@ -317,6 +308,15 @@
    "shop": "InvestCollect",
    "title": "deck pokemon combat 30e anniversaire mentali ex scelle francais.html",
    "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-mentali-ex-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "deck pokemon combat 30e anniversaire noctali ex scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais.html"
   },
   {
    "available": null,
@@ -1768,5 +1768,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-29T07:42:54+00:00"
+ "updated": "2026-10-29T08:50:14+00:00"
 }
