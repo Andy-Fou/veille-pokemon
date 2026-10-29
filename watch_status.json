@@ -25,7 +25,7 @@
    "available": true,
    "country": "ES",
    "kind": "watch",
-   "price": 284.0,
+   "price": 285.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 284.0,
+   "price": 285.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -846,7 +846,7 @@
    "kind": "anniv",
    "price": null,
    "shop": "Philibert",
-   "title": "Pokémon - Deck Combat 30e Anniversaire – Mentali‑ex",
+   "title": "Pokémon - Deck Combat 30 ans – Mentali‑ex",
    "url": "https://www.philibertnet.com/fr/pokemon/184149-pokemon-deck-combat-30e-anniversaire-mentaliex-2100001427870.html"
   },
   {
@@ -855,7 +855,7 @@
    "kind": "anniv",
    "price": null,
    "shop": "Philibert",
-   "title": "Pokémon - Deck Combat 30e Anniversaire – Noctali‑ex",
+   "title": "Pokémon - Deck Combat 30 ans – Noctali‑ex",
    "url": "https://www.philibertnet.com/fr/pokemon/184148-pokemon-deck-combat-30e-anniversaire-noctaliex-2100001427856.html"
   },
   {
@@ -1768,5 +1768,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-29T14:52:32+00:00"
+ "updated": "2026-10-29T15:49:53+00:00"
 }
