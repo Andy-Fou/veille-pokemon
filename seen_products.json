@@ -1318,7 +1318,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1399.0,
+   "price": 1400.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1408,7 +1408,7 @@
   },
   "10112659718473": {
    "available": false,
-   "price": 571.0,
+   "price": 572.0,
    "title": "Pokémon TCG - Case X10 ETB Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-fuegos-fantasmales-espanol-copia"
   },
@@ -1630,7 +1630,7 @@
   },
   "10202161381705": {
    "available": true,
-   "price": 217.0,
+   "price": 218.0,
    "title": "LEGO® Pokémon™ — Pikachu y Poké Ball",
    "url": "https://www.jjcollection.es/products/lego®-pokemon™-pikachu-y-poke-ball"
   },
@@ -13553,7 +13553,7 @@
    "url": "https://kairyu.fr/products/tg28-195-jean-fleuret-et-jean-targe"
   },
   "7988713586947": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "016/195 Sucreine Radieux",
    "url": "https://kairyu.fr/products/016-195-sucreine-radieux"
@@ -13721,7 +13721,7 @@
    "url": "https://kairyu.fr/products/210-195-majaspic-vstar"
   },
   "7988745142531": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "120/195 Jirachi Radieux",
    "url": "https://kairyu.fr/products/120-195-jirachi-radieux"
@@ -13853,7 +13853,7 @@
    "url": "https://kairyu.fr/products/173-195-goupix-dalola-v"
   },
   "7988766376195": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "174/195 Amonistar-V",
    "url": "https://kairyu.fr/products/174-195-amonistar-v"
@@ -70248,6 +70248,12 @@
    "title": "One Piece - Lot de 2 Tin Pack Set Vol.1 TS-01 : Monkey D. Luffy & Gol. D. Roger",
    "url": "https://tradingcardsxxx.fr/products/one-piece-lot-de-2-tin-pack-set-vol-1-monkey-d-luffy-gol-d-roger"
   },
+  "15004605055324": {
+   "available": true,
+   "price": 219.9,
+   "title": "Pokémon - Coffret Collection Super Premium EV08.5 : Évolutions Prismatiques",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-super-premium-ev08-5-evolutions-prismatiques"
+  },
   "15031472423260": {
    "available": false,
    "price": 19.9,
@@ -70283,6 +70289,12 @@
    "price": 34.9,
    "title": "Pokémon - Coffret Novembre 2025 : Méga-Kangourex ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-novembre-2025-mega-kangourex-ex"
+  },
+  "15295103140188": {
+   "available": true,
+   "price": 219.9,
+   "title": "Pokémon - Coffret Collection Ultra Premium ME02 : Méga-Dracaufeu X ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-ultra-premium-me02-mega-dracaufeu-x-ex"
   },
   "15318562406748": {
    "available": null,
@@ -73039,25 +73051,25 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-gallugallud-lenigme-sans-fin-r-mzmu-fr041"
   },
   "15444785299804": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Cristal Glaçâme : R MZMU-FR042",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-cristal-glacame-r-mzmu-fr042"
   },
   "15444785332572": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Guerrier Dragonique : R MZMU-FR043",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-guerrier-dragonique-r-mzmu-fr043"
   },
   "15444785430876": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Nurikabe : R MZMU-FR044",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-nurikabe-r-mzmu-fr044"
   },
   "15444785496412": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Burgundy l'Elfe Magique : R MZMU-FR045",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-burgundy-lelfe-magique-r-mzmu-fr045"
@@ -73069,7 +73081,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-einroid-r-mzmu-fr046"
   },
   "15444785561948": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Robot Cotte de Mailles : R MZMU-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-robot-cotte-de-mailles-r-mzmu-fr047"
@@ -77933,6 +77945,24 @@
    "price": 22.9,
    "title": "Yu-Gi-Oh! Coffret Decks Modernes Légendaires 2026 : Assaut de l'Air, Sabre X et Mitsurugi",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-coffret-decks-modernes-legendaires-2026-assaut-de-lair-sabre-x-et-mitsurugi-copie"
+  },
+  "15547918844252": {
+   "available": true,
+   "price": 49.9,
+   "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Méganium ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-meganium-ex"
+  },
+  "15547935949148": {
+   "available": true,
+   "price": 49.9,
+   "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Roitiflam ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-roitiflam-ex"
+  },
+  "15547938570588": {
+   "available": true,
+   "price": 49.9,
+   "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Aligatueur ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-aligatueur-ex"
   },
   "15548045132124": {
    "available": false,
