@@ -1,5 +1,6 @@
 {
  "errors": {
+  "Masterset": "401 Client Error: Unauthorized for url: https://masterset.store/products.json?limit=250&page=1",
   "PokeElite TCG": "HTTPSConnectionPool(host='pokeelitetcg.com', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NewConnectionError(\"HTTPSConnection(host='pokeelitetcg.com', port=443)"
  },
  "products": [
@@ -1768,5 +1769,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-30T19:13:52+00:00"
+ "updated": "2026-10-30T20:00:52+00:00"
 }
