@@ -1318,7 +1318,7 @@
    "url": "https://www.pokemillon.com/products/greninja-special-box-celebraciones-30-aniversario-elite-celebrations-30th"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 49.9,
@@ -1768,5 +1768,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-30T21:20:19+00:00"
+ "updated": "2026-10-30T21:59:27+00:00"
 }
