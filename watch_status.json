@@ -664,6 +664,15 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 28.0,
+   "shop": "Masterset",
+   "title": "Pokémon – Blind box Palmsize Wonders First Partner 30th Anniversary",
+   "url": "https://masterset.store/products/pokemon-blind-box-palmsize-wonders-first-partner-30th-anniversary"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 80.0,
    "shop": "Masterset",
    "title": "Ultra Pro - Zip PRO-Binder 12 cases - MTG 30th Anniv.",
@@ -1093,7 +1102,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-album-collection-box-celebraciones-30-aniversario"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 42.95,
@@ -1768,5 +1777,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-30T22:39:54+00:00"
+ "updated": "2026-10-30T23:16:04+00:00"
 }
