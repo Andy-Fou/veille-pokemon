@@ -40634,7 +40634,7 @@
   },
   "14804098580803": {
    "available": true,
-   "price": 1.37,
+   "price": 1.9,
    "title": "Yu-Gi-Oh! | Booster Box 24 Sobres Duelist Nexus",
    "url": "https://www.pokemillon.com/products/yu-gi-oh-booster-box-24-sobres-duelist-nexus-en"
   },
@@ -41793,7 +41793,7 @@
   "15038596153667": {
    "available": false,
    "price": 15.9,
-   "title": "Vanguard | Álbum 40 Gradeadas Negro",
+   "title": "Álbum 40 Gradeadas Negro Vanguard",
    "url": "https://www.pokemillon.com/products/vanguard-gradeadas-24"
   },
   "15040056262979": {
@@ -54597,19 +54597,19 @@
   "9474165899587": {
    "available": true,
    "price": 12.9,
-   "title": "Vanguard | Álbum ZipBinder 160 Bolsillos Negro",
+   "title": "Álbum Cremallera 160 Bolsillos Negro Vanguard",
    "url": "https://www.pokemillon.com/products/vanguard-zipfolio-160"
   },
   "9474168258883": {
-   "available": false,
+   "available": true,
    "price": 19.9,
-   "title": "Vanguard | Álbum ZipBinder 360 Bolsillos Negro",
+   "title": "Álbum Cremallera 360 Bolsillos Negro Vanguard",
    "url": "https://www.pokemillon.com/products/vanguard-album-360"
   },
   "9474168848707": {
    "available": true,
    "price": 22.9,
-   "title": "Vanguard | Álbum ZipBinder 480 Bolsillos Negro",
+   "title": "Álbum Cremallera 480 Bolsillos Negro Vanguard",
    "url": "https://www.pokemillon.com/products/vanguard-480-zipbinder"
   },
   "9474209448259": {
@@ -70269,6 +70269,12 @@
    "price": 69.99,
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Bundle 30e Anniversaire | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-bundle-30e-anniversaire-fr"
+  },
+  "16185157222744": {
+   "available": true,
+   "price": 1.99,
+   "title": "MAGIRÊVE EX (PFL 036)",
+   "url": "https://strikegames.shop/products/magireve-ex-pfl-036-sg261011244"
   }
  },
  "tradingcardsxxx": {
@@ -88225,7 +88231,7 @@
    "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-beta-event-kit-welcome-to-night-city-version-anglaise"
   },
   "15936064815452": {
-   "available": true,
+   "available": false,
    "price": 279.9,
    "title": "Cyberpunk TCG - Display Beta de 36 boosters : Welcome to Night City - VERSION ANGLAISE",
    "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-display-beta-de-36-boosters-welcome-to-night-city-version-anglaise"
