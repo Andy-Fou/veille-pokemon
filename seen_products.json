@@ -2531,8 +2531,8 @@
    "url": "https://kairyu.fr/products/scelle-coffret-surprise-evolutions-prismatiques-fr"
   },
   "15033514393935": {
-   "available": false,
-   "price": 79.9,
+   "available": true,
+   "price": 69.9,
    "title": "[SCELLE] Bundle Pokemon EV08.5 - Evolutions Prismatiques [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-pokemon-ev08-5-evolutions-prismatiques-fr"
   },
@@ -2585,7 +2585,7 @@
    "url": "https://kairyu.fr/products/scelle-coffret-eaux-florissantes-151-fr"
   },
   "15335240106319": {
-   "available": false,
+   "available": true,
    "price": 149.9,
    "title": "[SCELLE] Elite Trainer Box EV10 - Rivalités Destinées [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-ev10-rivalites-destinees-fr"
@@ -2597,7 +2597,7 @@
    "url": "https://kairyu.fr/products/scelle-display-ev10-rivalites-destinees-fr"
   },
   "15335256129871": {
-   "available": false,
+   "available": true,
    "price": 24.9,
    "title": "[SCELLE] Tripack EV10 - Rivalités Destinées [FR]",
    "url": "https://kairyu.fr/products/scelle-tripack-ev10-rivalites-destinees-fr"
@@ -2667,6 +2667,12 @@
    "price": 139.9,
    "title": "[SCELLE] Tripack EB07 - Evolutions Celeste [FR]",
    "url": "https://kairyu.fr/products/scelle-tripack-eb07-evolutions-celeste-fr"
+  },
+  "15496570732879": {
+   "available": true,
+   "price": 19.9,
+   "title": "[ARTSET] Boosters Blister - EB09 - Stars Etincelantes [FR]",
+   "url": "https://kairyu.fr/products/artset-boosters-blister-eb09-stars-etincelantes-fr"
   },
   "15506707513679": {
    "available": false,
@@ -3843,6 +3849,12 @@
    "price": 49.9,
    "title": "[SCELLE] Coffre aux Trésors 2025 [FR]",
    "url": "https://kairyu.fr/products/scelle-coffre-aux-tresors-2025-fr"
+  },
+  "15806731125071": {
+   "available": true,
+   "price": 49.9,
+   "title": "[SCELLE] Coffret Jirachi V [FR]",
+   "url": "https://kairyu.fr/products/scelle-coffret-jirachi-v-fr"
   },
   "15806758519119": {
    "available": false,
@@ -6149,7 +6161,7 @@
    "url": "https://kairyu.fr/products/full-set-full-set-ev05-forces-temporelles-fr"
   },
   "16347966079311": {
-   "available": false,
+   "available": true,
    "price": 49.9,
    "title": "[SCELLE] Bundle EV08 - Etincelle Déferlante [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-ev08-etincelle-deferlante-fr"
@@ -6484,6 +6496,18 @@
    "title": "SM168 Pikachu & Zekrom GX",
    "url": "https://kairyu.fr/products/sm168-pikachu-zekrom-gx"
   },
+  "16436121633103": {
+   "available": true,
+   "price": 49.9,
+   "title": "[SCELLE] Bundle EV05 - Forces Temporelles [FR]",
+   "url": "https://kairyu.fr/products/scelle-bundle-ev05-forces-temporelles-fr"
+  },
+  "16436124189007": {
+   "available": true,
+   "price": 79.9,
+   "title": "[SCELLE] Bundle EV10 - Rivalités Destinées [FR]",
+   "url": "https://kairyu.fr/products/scelle-bundle-ev10-rivalites-destinees-fr"
+  },
   "7603572408579": {
    "available": false,
    "price": 109.9,
@@ -6498,13 +6522,13 @@
   },
   "7611884699907": {
    "available": true,
-   "price": 499.9,
+   "price": 449.9,
    "title": "[SCELLE] Display EB06 - Règne de Glace [FR]",
    "url": "https://kairyu.fr/products/scelle-display-eb6-regne-de-glace-fr"
   },
   "7611885715715": {
-   "available": false,
-   "price": 849.9,
+   "available": true,
+   "price": 799.9,
    "title": "[SCELLE] Display EB08 - Poing de Fusion [FR]",
    "url": "https://kairyu.fr/products/scelle-display-eb8-poing-de-fusion-fr"
   },
@@ -6527,8 +6551,8 @@
    "url": "https://kairyu.fr/products/scelle-coffret-pinbox-ronflex-fr"
   },
   "7640745705731": {
-   "available": false,
-   "price": 59.9,
+   "available": true,
+   "price": 49.9,
    "title": "[SCELLE] Booster sous Blister EB7 - Evolution Céleste [FR]",
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-eb7-evolution-celeste-fr"
   },
@@ -7181,8 +7205,8 @@
    "url": "https://kairyu.fr/products/scelle-coffret-premium-evoli-radieux-fr"
   },
   "7828844216579": {
-   "available": false,
-   "price": 439.9,
+   "available": true,
+   "price": 449.9,
    "title": "[SCELLE] Display EB11 - Origine Perdue [FR]",
    "url": "https://kairyu.fr/products/scelle-display-eb11-origine-perdue-fr"
   },
@@ -7194,7 +7218,7 @@
   },
   "7828853686531": {
    "available": false,
-   "price": 19.9,
+   "price": 11.9,
    "title": "[SCELLE] Booster sous Blister EB11 - Origine Perdue [FR]",
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-eb11-origine-perdue-fr"
   },
@@ -7877,7 +7901,7 @@
    "url": "https://kairyu.fr/products/088-163-shifours-mille-poings-v"
   },
   "7876114383107": {
-   "available": null,
+   "available": true,
    "price": 3.9,
    "title": "097/163 Tyranocif-V",
    "url": "https://kairyu.fr/products/097-163-shifours-mille-poings-vmax"
@@ -11104,6 +11128,12 @@
    "title": "080/073 Conserve Douteuse",
    "url": "https://kairyu.fr/products/080-073-conserve-douteuse"
   },
+  "7893151744259": {
+   "available": true,
+   "price": 99.9,
+   "title": "[SCELLE] Display S12 - Paradigm Trigger [JAP]",
+   "url": "https://kairyu.fr/products/scelle-display-s12-paradigm-trigger-jap"
+  },
   "7899711865091": {
    "available": false,
    "price": 9.9,
@@ -13524,7 +13554,7 @@
   },
   "7929704022275": {
    "available": false,
-   "price": 14.9,
+   "price": 11.9,
    "title": "[SCELLE] Booster sous Blister EB12 - Tempête Argentée [FR]",
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-eb12-tempete-argentee-fr"
   },
@@ -13533,6 +13563,12 @@
    "price": 179.9,
    "title": "[SCELLE] Build and Battle Stadium EB12 - Tempête Argentée [FR]",
    "url": "https://kairyu.fr/products/scelle-build-and-battle-stadium-eb12-tempete-argentee-fr"
+  },
+  "7983212953859": {
+   "available": true,
+   "price": 59.9,
+   "title": "[SCELLE] Duopack Janvier 2023 [FR]",
+   "url": "https://kairyu.fr/products/scelle-duopack-janvier-2023-fr"
   },
   "7988713062659": {
    "available": true,
@@ -14627,44 +14663,50 @@
    "url": "https://kairyu.fr/products/scelle-lot-de-5-mini-tins-destinees-radieuses-fr"
   },
   "8632622514511": {
-   "available": false,
+   "available": true,
    "price": 109.9,
    "title": "[SCELLE] Coffret Electhor ex [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-elekthor-eb03-5-fr"
   },
   "8632627855695": {
-   "available": false,
+   "available": true,
    "price": 109.9,
    "title": "[SCELLE] Coffret Alakazam ex [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-alakazam-ex-eb03-5-fr"
   },
   "8632630116687": {
    "available": true,
-   "price": 99.9,
+   "price": 79.9,
    "title": "[SCELLE] Coffret Collection Poster [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-collection-poster-fr"
   },
+  "8632632148303": {
+   "available": true,
+   "price": 109.9,
+   "title": "[SCELLE] Coffret Collection Classeur [FR]",
+   "url": "https://kairyu.fr/products/scelle-coffret-collection-classeur-fr"
+  },
   "8632633753935": {
    "available": true,
-   "price": 179.9,
+   "price": 159.9,
    "title": "[SCELLE] Bundle Pokemon EV03.5 - 151 [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-pokemon-151-fr"
   },
   "8632635851087": {
    "available": true,
-   "price": 429.9,
+   "price": 399.9,
    "title": "[SCELLE] Elite Trainer Box EV03.5 - Pokemon 151 [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-ev03-5-pokemon-151-fr"
   },
   "8632639553871": {
    "available": true,
-   "price": 819.9,
+   "price": 699.9,
    "title": "[SCELLE] Ultra Premium Mew 151 [FR]",
    "url": "https://kairyu.fr/products/scelle-ultra-premium-mew-fr"
   },
   "8632647156047": {
    "available": true,
-   "price": 279.9,
+   "price": 249.9,
    "title": "[SCELLE] Lot de 5 Mini Tins Pokémon 151 [FR]",
    "url": "https://kairyu.fr/products/scelle-lot-de-5-mini-tins-pokemon-151-fr"
   },
@@ -15702,15 +15744,21 @@
   },
   "8823639540047": {
    "available": true,
-   "price": 79.9,
+   "price": 69.9,
    "title": "[SCELLE] Bundle EV04.5 - Destinées de Paldea [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-ev04-5-destinees-de-paldea-fr"
   },
   "8823641080143": {
-   "available": false,
+   "available": true,
    "price": 44.9,
    "title": "[SCELLE] Pokebox EV04.5 - Destinées de Paldea [FR]",
    "url": "https://kairyu.fr/products/scelle-pokebox-ev04-5-destinees-de-paldea-fr"
+  },
+  "8823646421327": {
+   "available": true,
+   "price": 49.9,
+   "title": "[SCELLE] DuoPack Blister 2023 - EB07 / EV02 [FR]",
+   "url": "https://kairyu.fr/products/scelle-duopack-blister-2023-eb07-ev02-fr"
   },
   "8846217511247": {
    "available": false,
@@ -17046,7 +17094,7 @@
   },
   "9327308833103": {
    "available": true,
-   "price": 74.9,
+   "price": 64.9,
    "title": "[SCELLE] Coffret Premium EV06.5 - Fable Nébuleuse [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-premium-ev06-5-fr"
   },
@@ -17073,6 +17121,12 @@
    "price": 54.9,
    "title": "[SCELLE] Bundle EV06.5 - Fable Nébuleuse",
    "url": "https://kairyu.fr/products/scelle-bundle-ev06-5-fable-nebuleuse"
+  },
+  "9449616539983": {
+   "available": true,
+   "price": 12.9,
+   "title": "[SCELLE] DuoPack Blister 2024 - EB09 / EB11 [FR]",
+   "url": "https://kairyu.fr/products/scelle-duopack-blister-2024-eb09-eb11-fr"
   },
   "9456049619279": {
    "available": false,
@@ -63819,7 +63873,7 @@
    "url": "https://www.relictcg.com/products/draco-048-128-e-series-akatsu-grading-9-5-jpn"
   },
   "16426871783769": {
-   "available": true,
+   "available": false,
    "price": 80.0,
    "title": "Givrali SAR 206/187 - sv8a - PCA 9.5 - JPN",
    "url": "https://www.relictcg.com/products/givrali-sar-206-187-sv8a-pca-9-5-jpn"
@@ -73111,7 +73165,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-ombre-du-fleau-r-mzmu-fr039"
   },
   "15444785201500": {
-   "available": true,
+   "available": null,
    "price": 0.2,
    "title": "Yu-Gi-Oh! Stinger l'Émetteur Électrique : R MZMU-FR040",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-stinger-lemetteur-electrique-r-mzmu-fr040"
@@ -79855,7 +79909,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-tri-pack-me04-chaos-ascendant-reptincel"
   },
   "15589319475548": {
-   "available": false,
+   "available": true,
    "price": 79.9,
    "title": "Pokémon - Coffret Dresseur d'Élite ME04 Chaos Ascendant : Méga Amphinobi",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me04-chaos-ascendant-mega-amphinobi"
@@ -79871,6 +79925,12 @@
    "price": 44.9,
    "title": "Pokémon - Lot de 6 boosters ME04 : Chaos Ascendant",
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me04-chaos-ascendant"
+  },
+  "15589327733084": {
+   "available": true,
+   "price": 359.9,
+   "title": "Pokémon - [Master Pack] Méga Évolution ME04 : Chaos Ascendant",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-master-pack-mega-evolution-me04-chaos-ascendant"
   },
   "15597145686364": {
    "available": true,
@@ -81097,7 +81157,7 @@
    "url": "https://tradingcardsxxx.fr/products/kayou-tokidoki-ccg-blister-de-8-cartes-wonder-voyage-roaming-series-1"
   },
   "15635021136220": {
-   "available": false,
+   "available": true,
    "price": 34.9,
    "title": "[KAYOU] My Little Pony CCG - Display de 20 boosters : Rainbow Edition Series 02",
    "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-ccg-display-de-20-boosters-rainbow-edition-series-02"
@@ -81247,14 +81307,14 @@
    "url": "https://tradingcardsxxx.fr/products/kayou-k-pop-demon-hunters-ccg-booster-de-8-cartes-energy-edition-01"
   },
   "15646003724636": {
-   "available": false,
-   "price": 129.9,
+   "available": true,
+   "price": 139.9,
    "title": "Yu-Gi-Oh! Display de 24 boosters : Les Origines du Chaos",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-display-de-24-boosters-les-origines-du-chaos"
   },
   "15646013292892": {
    "available": true,
-   "price": 5.5,
+   "price": 5.9,
    "title": "Yu-Gi-Oh! Booster de 9 cartes : Les Origines du Chaos",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-booster-de-9-cartes-les-origines-du-chaos"
   },
@@ -82129,8 +82189,8 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-carton-de-20-boosters-sous-blister-les-origines-du-chaos"
   },
   "15682017165660": {
-   "available": false,
-   "price": 4.9,
+   "available": true,
+   "price": 5.9,
    "title": "Yu-Gi-Oh! Booster de 9 cartes sous blister : Les Origines du Chaos",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-booster-de-9-cartes-sous-blister-les-origines-du-chaos"
   },
