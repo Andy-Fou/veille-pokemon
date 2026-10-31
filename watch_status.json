@@ -8,6 +8,15 @@
    "country": "FR",
    "kind": "watch",
    "price": null,
+   "shop": "Aux Trois Koalas",
+   "title": "Pokémon - Collection Ultra-Premium Soirée 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169874-pokemon-collection-ultra-premium-soiree-30e-anniversaire-46137"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "watch",
+   "price": null,
    "shop": "InvestCollect",
    "title": "coffret pokemon collection ultra premium mentali ex 30e anniversaire me_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-mentali-ex-30e-anniversaire-me_5-scelle-francais.html"
@@ -200,6 +209,15 @@
    "shop": "Aux Trois Koalas",
    "title": "Pokémon - Collection Premium Métamorph 30e Anniversaire",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169870-pokemon-collection-premium-metamorph-30e-anniversaire-46135"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Aux Trois Koalas",
+   "title": "Pokémon - Collection avec Figurine 30e Anniversaire Mew",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169871-pokemon-collection-avec-figurine-30e-anniversaire-mew-46136"
   },
   {
    "available": null,
@@ -1786,5 +1804,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-31T13:15:19+00:00"
+ "updated": "2026-10-31T14:00:17+00:00"
 }
