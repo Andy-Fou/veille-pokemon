@@ -198,6 +198,15 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
+   "title": "Pokémon - Collection Premium Métamorph 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169870-pokemon-collection-premium-metamorph-30e-anniversaire-46135"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Aux Trois Koalas",
    "title": "Pokémon - Mini-Tin 30e Anniversaire (Aléatoire)",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok260122-pokemon-mini-tin-30e-anniversaire-aleatoire-45948"
   },
@@ -1138,7 +1147,7 @@
    "url": "https://www.pokemillon.com/products/30th-anniversary-first-partner-blister-vol-2"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 27.99,
@@ -1480,7 +1489,7 @@
    "url": "https://www.pokemillon.com/products/weiss-schwarz-blau-premium-pack-detective-conan-tv-anime-30th-anniversary"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 59.9,
@@ -1777,5 +1786,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-10-31T12:14:01+00:00"
+ "updated": "2026-10-31T13:15:19+00:00"
 }
