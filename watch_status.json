@@ -1120,7 +1120,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario-1"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 79.9,
@@ -1253,6 +1253,15 @@
    "shop": "Pokemillon",
    "title": "Caja Premium Umbreon & Espeon Pokémon 30th Anniversary",
    "url": "https://www.pokemillon.com/products/caja-premium-umbreon-espeon-pokemon-30th-anniversary"
+  },
+  {
+   "available": false,
+   "country": "ES",
+   "kind": "anniv",
+   "price": 59.9,
+   "shop": "Pokemillon",
+   "title": "Cardfight!! Vanguard | Booster Box 10 Sobre Persona 30th Anniversary",
+   "url": "https://www.pokemillon.com/products/weiss-schwarz-booster-box-12-sobre-persona-30th-anniversary"
   },
   {
    "available": false,
@@ -1505,15 +1514,6 @@
    "shop": "Pokemillon",
    "title": "Weiss Schwarz Blau | Premium Pack Detective Conan TV Anime 30th Anniversary",
    "url": "https://www.pokemillon.com/products/weiss-schwarz-blau-premium-pack-detective-conan-tv-anime-30th-anniversary"
-  },
-  {
-   "available": false,
-   "country": "ES",
-   "kind": "anniv",
-   "price": 59.9,
-   "shop": "Pokemillon",
-   "title": "Weiss Schwarz | Booster Box 12 Sobre Persona 30th Anniversary",
-   "url": "https://www.pokemillon.com/products/weiss-schwarz-booster-box-12-sobre-persona-30th-anniversary"
   },
   {
    "available": false,
@@ -1804,5 +1804,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-01T09:25:29+00:00"
+ "updated": "2026-11-01T10:18:43+00:00"
 }
