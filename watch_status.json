@@ -1120,7 +1120,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario-1"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 79.9,
@@ -1195,28 +1195,19 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
+   "price": 146.9,
+   "shop": "Pokemillon",
+   "title": "Booster Box 20 Sobres Pokémon 30th Celebration m6a",
+   "url": "https://www.pokemillon.com/products/pokemon-30th-anniversary"
+  },
+  {
+   "available": true,
+   "country": "ES",
+   "kind": "anniv",
    "price": 49.95,
    "shop": "Pokemillon",
    "title": "Bundle Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
-  },
-  {
-   "available": true,
-   "country": "ES",
-   "kind": "anniv",
-   "price": 129.9,
-   "shop": "Pokemillon",
-   "title": "Caja 20 Sobres Pokémon 30th Anniversary",
-   "url": "https://www.pokemillon.com/products/caja-20-sobres-pokemon-30th-anniversary-m6a"
-  },
-  {
-   "available": true,
-   "country": "ES",
-   "kind": "anniv",
-   "price": 146.9,
-   "shop": "Pokemillon",
-   "title": "Caja 20 Sobres Pokémon 30th Anniversary m6a",
-   "url": "https://www.pokemillon.com/products/pokemon-30th-anniversary"
   },
   {
    "available": true,
@@ -1804,5 +1795,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-01T11:37:05+00:00"
+ "updated": "2026-11-01T12:15:06+00:00"
 }
