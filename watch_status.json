@@ -1318,10 +1318,10 @@
    "url": "https://www.pokemillon.com/products/first-partner-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 41.9,
+   "price": 49.9,
    "shop": "Pokemillon",
    "title": "First Partner Series 1 | Primer Compañero 30 Aniversario",
    "url": "https://www.pokemillon.com/products/first-partner"
@@ -1795,5 +1795,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-01T15:33:03+00:00"
+ "updated": "2026-11-01T16:15:26+00:00"
 }
