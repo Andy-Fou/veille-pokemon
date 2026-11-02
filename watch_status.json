@@ -52,6 +52,15 @@
    "available": false,
    "country": "FR",
    "kind": "watch",
+   "price": 249.9,
+   "shop": "Kairyu",
+   "title": "[SCELLE] Ultra Premium 30 Ans - Mentali [FR]",
+   "url": "https://kairyu.fr/products/scelle-ultra-premium-30-ans-mentali-fr"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "watch",
    "price": 479.99,
    "shop": "Le Bordel Magique",
    "title": "Ultra-Premium Pokémon 30th Mentali édition jour / Noctali édition Nuit FR",
@@ -1795,5 +1804,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-02T07:31:53+00:00"
+ "updated": "2026-11-02T17:27:18+00:00"
 }
