@@ -124,7 +124,7 @@
    "available": true,
    "country": "ES",
    "kind": "watch",
-   "price": 219.9,
+   "price": 499.9,
    "shop": "Pokemillon",
    "title": "Futuristic Box Pokémon 30th Anniversary Ultra Premium",
    "url": "https://www.pokemillon.com/products/premium-box-pokemon-30th-anniversary"
@@ -1186,7 +1186,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 13.99,
+   "price": 11.99,
    "shop": "Pokemillon",
    "title": "Blister First Partner Vol 2 del 30 Aniversario",
    "url": "https://www.pokemillon.com/products/30th-anniversary-first-partner-blister-vol-2"
@@ -1417,7 +1417,7 @@
    "url": "https://www.pokemillon.com/products/panini-x-jurassic-park-jurassic-park-cartas-coleccionables-30th-anniversary-celebration-collection-ingles-2024"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 49.9,
@@ -1498,7 +1498,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 7.99,
@@ -1840,5 +1840,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-03T20:57:05+00:00"
+ "updated": "2026-11-04T01:11:58+00:00"
 }
