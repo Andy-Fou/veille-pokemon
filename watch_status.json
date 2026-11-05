@@ -31,7 +31,7 @@
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-noctali-ex-30e-anniversaire-me_5-scelle-francais.html"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 287.0,
@@ -139,7 +139,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -448,7 +448,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 81.0,
+   "price": 80.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1867,5 +1867,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-05T17:41:23+00:00"
+ "updated": "2026-11-05T22:55:20+00:00"
 }
