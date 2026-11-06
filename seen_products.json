@@ -1101,7 +1101,7 @@
   "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais": {
    "available": null,
    "price": null,
-   "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
+   "title": "coffret pokemon collection premium metamorph 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html"
   },
   "coffret-pokemon-collection-ultra-premium-mentali-ex-30e-anniversaire-me_5-scelle-francais": {
@@ -1391,7 +1391,7 @@
   "10013728145737": {
    "available": false,
    "price": 91.0,
-   "title": "Pokémon TCG - Elite Trainer Box Ascended Heroes (Ingles & Español)",
+   "title": "Pokémon TCG - Elite Trainer Box Ascended Heroes (Español) (sellado dañado)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-ascended-heroes-ingles"
   },
   "10017775812937": {
@@ -1528,7 +1528,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1111.0,
+   "price": 1110.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -2254,7 +2254,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.74,
+   "price": 22.73,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -14813,7 +14813,7 @@
    "url": "https://kairyu.fr/products/scelle-coffret-elekthor-eb03-5-fr"
   },
   "8632627855695": {
-   "available": true,
+   "available": false,
    "price": 99.9,
    "title": "[SCELLE] Coffret Alakazam ex [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-alakazam-ex-eb03-5-fr"
@@ -18961,13 +18961,13 @@
    "url": "https://lebordelmagique.com/products/etb-me02-flammes-fantasmagoriques-1-tripack-me02"
   },
   "15903820546393": {
-   "available": true,
+   "available": false,
    "price": 9.99,
    "title": "Display ME02 Flammes Fantasmagoriques",
    "url": "https://lebordelmagique.com/products/lot-6-boosters-me02-flammes-fantasmagoriques"
   },
   "15903825363289": {
-   "available": true,
+   "available": false,
    "price": 209.99,
    "title": "Ultra-Premium Méga Dracaufeu X ME02 Flammes Fantasmagoriques",
    "url": "https://lebordelmagique.com/products/upc-dracaufeu-me02-flammes-fantasmagoriques"
@@ -19699,7 +19699,7 @@
    "url": "https://lebordelmagique.com/products/topps-carte-victor-wembanyama-vw-6"
   },
   "16338801525081": {
-   "available": true,
+   "available": false,
    "price": 23.99,
    "title": "Pokémon Deck des championnats du monde 2025",
    "url": "https://lebordelmagique.com/products/pokemon-deck-des-championnats-du-monde-2025"
@@ -35876,6 +35876,12 @@
    "title": "Display - SV10 Glory Of Team Rocket - JAP",
    "url": "https://pika-boutique.fr/products/display-sv10-glory-of-team-rocket-jap"
   },
+  "10261714239752": {
+   "available": true,
+   "price": 160.0,
+   "title": "ETB Rivalités Destinées - EV10",
+   "url": "https://pika-boutique.fr/products/etb-rivalites-destinees-ev10-defaut-de-scellage"
+  },
   "10331766128904": {
    "available": false,
    "price": 54.9,
@@ -37783,6 +37789,12 @@
    "price": 300.0,
    "title": "158 - PSA8 MEWTWO EX - Carte gradée -",
    "url": "https://pika-boutique.fr/products/158-psa8-mewtwo-ex-bkt-carte-gradee-163856997"
+  },
+  "12427292246280": {
+   "available": true,
+   "price": 140.0,
+   "title": "ETB Flammes Fantasmagoriques - ME02",
+   "url": "https://pika-boutique.fr/products/etb-flammes-fantasmagoriques-me02"
   },
   "8377953616136": {
    "available": true,
@@ -46549,7 +46561,7 @@
    "url": "https://www.pokemillon.com/products/2-pack-pin-blister-jirachi-celebi"
   },
   "15268173087043": {
-   "available": true,
+   "available": false,
    "price": 45.9,
    "title": "Mega Zygarde ex Premium Collection",
    "url": "https://www.pokemillon.com/products/mega-zygarde-ex-premium"
@@ -79579,13 +79591,13 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-meganium-ex"
   },
   "15547935949148": {
-   "available": false,
+   "available": true,
    "price": 49.9,
    "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Roitiflam ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-roitiflam-ex"
   },
   "15547938570588": {
-   "available": false,
+   "available": true,
    "price": 49.9,
    "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Aligatueur ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-aligatueur-ex"
@@ -80527,8 +80539,8 @@
    "url": "https://tradingcardsxxx.fr/products/ultra-pro-25-toploader-and-penny-sleeves-pokemon-pikachu"
   },
   "15557884019036": {
-   "available": false,
-   "price": 44.9,
+   "available": true,
+   "price": 49.9,
    "title": "Pokémon - Coffret Collection Premium Mai 2026 : Méga-Zygarde ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-premium-mai-2026-mega-zygarde-ex"
   },
