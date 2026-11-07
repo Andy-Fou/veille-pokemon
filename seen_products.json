@@ -875,7 +875,7 @@
    "url": "https://flashstore.es/producto/pokemon-center-special-box-tohoku/"
   },
   "77504": {
-   "available": true,
+   "available": false,
    "price": 159.9,
    "title": "Pokemon Center Special Box Hiroshima",
    "url": "https://flashstore.es/producto/pokemon-center-special-box-hiroshima/"
@@ -1026,6 +1026,12 @@
    "title": "Case 12 Tripacks - Pokemon - Chaos Ascendant - ME04 - Scellé - Français",
    "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais.html"
   },
+  "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais": {
+   "available": null,
+   "price": null,
+   "title": "Case 12 Tripacks - Pokemon - Flammes Fantasmagoriques - ME02 - Scellé - Français",
+   "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais.html"
+  },
   "case-25-bundles-pokemon-bundle-30e-anniversaire-me05_5-scelle-francais": {
    "available": null,
    "price": null,
@@ -1035,7 +1041,7 @@
   "coffret-pokemon-bundle-30e-anniversaire-me05_5-scelle-francais": {
    "available": null,
    "price": null,
-   "title": "[27-11-2026] Coffret - Pokemon - Bundle - 30e Anniversaire - ME05.5 - Scellé - Français",
+   "title": "coffret pokemon bundle 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/coffret-pokemon-bundle-30e-anniversaire-me05_5-scelle-francais.html"
   },
   "coffret-pokemon-bundle-chaos-ascendant-me04-scelle-francais": {
@@ -6652,6 +6658,12 @@
    "title": "[SCELLE] Bundle EV10 - Rivalités Destinées [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-ev10-rivalites-destinees-fr"
   },
+  "16457337504079": {
+   "available": true,
+   "price": 4000.0,
+   "title": "[SCELLE] Display SL10 - Alliance Infaillible [FR]",
+   "url": "https://kairyu.fr/products/scelle-display-sl10-alliance-infaillible-fr"
+  },
   "7603572408579": {
    "available": false,
    "price": 109.9,
@@ -7355,7 +7367,7 @@
    "url": "https://kairyu.fr/products/scelle-display-eb11-origine-perdue-fr"
   },
   "7828847689987": {
-   "available": true,
+   "available": false,
    "price": 349.9,
    "title": "[SCELLE] Elite Trainer Box EB11 - Origine Perdue [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-eb11-origine-perdue-fr"
@@ -8501,7 +8513,7 @@
    "url": "https://kairyu.fr/products/046-198-sylveroy-cavalier-du-froid-vmax"
   },
   "7877389582595": {
-   "available": null,
+   "available": true,
    "price": 3.9,
    "title": "053/198 Zeraora-V",
    "url": "https://kairyu.fr/products/zeraora-v-53-198"
@@ -8519,13 +8531,13 @@
    "url": "https://kairyu.fr/products/058-198-artikodin-de-galar-v"
   },
   "7877391614211": {
-   "available": null,
+   "available": true,
    "price": 3.9,
    "title": "124/198 Boréas-V",
    "url": "https://kairyu.fr/products/124-198-boreas-v"
   },
   "7877393056003": {
-   "available": null,
+   "available": true,
    "price": 4.9,
    "title": "119/198 Leuphorie-V",
    "url": "https://kairyu.fr/products/119-198-leuphorie-v"
@@ -25565,7 +25577,7 @@
   "15849755672901": {
    "available": false,
    "price": 132.0,
-   "title": "[PRECOMMANDE] Cyberpunk TCG [EN] - Boîte de 24 Boosters - Welcome To Night City",
+   "title": "Cyberpunk TCG [EN] - Boîte de 24 Boosters - Welcome To Night City",
    "url": "https://masterset.store/products/cyberpunk-tcg-bo-te-de-24-boosters-welcome-to-night-city"
   },
   "15849756950853": {
@@ -32993,7 +33005,7 @@
    "url": "https://metamorphcenter.com/products/booster-bundle-caos-creciente-espanol"
   },
   "10570105717078": {
-   "available": true,
+   "available": false,
    "price": 5.9,
    "title": "Blíster pack sobre Caos Creciente - Español",
    "url": "https://metamorphcenter.com/products/blister-pack-sobre-caos-creciente-espanol"
@@ -34260,7 +34272,7 @@
   },
   "11285458420054": {
    "available": true,
-   "price": 186.95,
+   "price": 124.95,
    "title": "Caja Fusion World ST01 Story Booster 01 - Japonés",
    "url": "https://metamorphcenter.com/products/caja-fusion-world-st01-story-booster-01-dragon-ball-japones"
   },
@@ -35931,7 +35943,7 @@
    "url": "https://pika-boutique.fr/products/duopack-octobre-2025"
   },
   "10552954290440": {
-   "available": true,
+   "available": false,
    "price": 32.9,
    "title": "Coffret Méga-Latias-ex",
    "url": "https://pika-boutique.fr/products/coffret-mega-latias-ex"
@@ -36033,19 +36045,19 @@
    "url": "https://pika-boutique.fr/products/carte-unite-ev08-ultra-rare"
   },
   "10731342332168": {
-   "available": true,
+   "available": null,
    "price": 1.5,
    "title": "Carte unité EB06 - Reverse",
    "url": "https://pika-boutique.fr/products/carte-unite-eb06-reverse"
   },
   "10731342594312": {
-   "available": true,
+   "available": null,
    "price": 2.0,
    "title": "Carte unité EB06 - Holographique",
    "url": "https://pika-boutique.fr/products/carte-unite-eb06-holographique"
   },
   "10731342725384": {
-   "available": true,
+   "available": null,
    "price": 3.0,
    "title": "Carte unité EB06 - Ultra Rare",
    "url": "https://pika-boutique.fr/products/carte-unite-eb06-ultra-rare"
@@ -36646,7 +36658,7 @@
   },
   "12309058453768": {
    "available": true,
-   "price": 169.9,
+   "price": 159.9,
    "title": "30th Celebration Premium Deck Set Mentali & Noctali - JAP",
    "url": "https://pika-boutique.fr/products/precommande-30th-celebration-premium-deck-set-mentali-noctali-jap"
   },
@@ -37743,19 +37755,19 @@
    "url": "https://pika-boutique.fr/products/170-psa9-shifours-mille-poings-vmax-bst-carte-gradee-163857005"
   },
   "12420591288584": {
-   "available": true,
+   "available": false,
    "price": 850.0,
    "title": "221 - PSA9 RAICHU ET RAICHU D'ALOLA GX - Carte gradée -",
    "url": "https://pika-boutique.fr/products/221-psa9-raichu-et-raichu-d-alola-gx-unm-carte-gradee-163856979"
   },
   "12420591354120": {
-   "available": true,
+   "available": false,
    "price": 150.0,
    "title": "022 - PSA9 DRACAUFEU ET ROUSSIL GX - Carte gradée -",
    "url": "https://pika-boutique.fr/products/022-psa9-dracaufeu-et-roussil-gx-cec-carte-gradee-163856980"
   },
   "12420591419656": {
-   "available": true,
+   "available": false,
    "price": 900.0,
    "title": "SM167 - PSA9 CELEBI ET FLORIZARRE GX - Carte gradée -",
    "url": "https://pika-boutique.fr/products/sm167-psa9-celebi-et-florizarre-gx-smp-carte-gradee-163856981"
@@ -37767,7 +37779,7 @@
    "url": "https://pika-boutique.fr/products/207-psa9-lugia-gx-lot-carte-gradee-163856995"
   },
   "12420591550728": {
-   "available": true,
+   "available": false,
    "price": 250.0,
    "title": "SM240 - PSA8 MENTALI ET DEOXYS GX - Carte gradée -",
    "url": "https://pika-boutique.fr/products/sm240-psa8-mentali-et-deoxys-gx-smp-carte-gradee-163856996"
@@ -37779,7 +37791,7 @@
    "url": "https://pika-boutique.fr/products/118-psa6-mega-alakazam-ex-fco-carte-gradee-163856982"
   },
   "12420591681800": {
-   "available": true,
+   "available": false,
    "price": 350.0,
    "title": "XY121 - PSA9 DRACAUFEU EX - Carte gradée -",
    "url": "https://pika-boutique.fr/products/xy121-psa9-dracaufeu-ex-xyp-carte-gradee-163856994"
@@ -38001,25 +38013,25 @@
    "url": "https://pika-boutique.fr/products/pokemon-ev05-carte-unite-reverse-1"
   },
   "8509984407816": {
-   "available": true,
+   "available": null,
    "price": 3.0,
    "title": "Carte unité EB7.5 - Celebrations",
    "url": "https://pika-boutique.fr/products/pokemon-celebration-carte-unite-eb07-5"
   },
   "8532526235912": {
-   "available": true,
+   "available": null,
    "price": 1.5,
    "title": "Carte unité EB07 - Reverse",
    "url": "https://pika-boutique.fr/products/pokemon-eb07-carte-unite-reverse-1"
   },
   "8532526465288": {
-   "available": true,
+   "available": null,
    "price": 2.0,
    "title": "POKEMON EB07 - Carte unité HOLOGRAPHIQUE",
    "url": "https://pika-boutique.fr/products/pokemon-eb07-carte-unite-holographique"
   },
   "8532527677704": {
-   "available": true,
+   "available": null,
    "price": 3.0,
    "title": "POKEMON EB07 - Carte unité ULTRA RARE",
    "url": "https://pika-boutique.fr/products/pokemon-eb07-carte-unite-ultra-rare-2"
@@ -41929,7 +41941,7 @@
    "url": "https://www.pokemillon.com/products/caja-paradox-wisdom-premium-collection"
   },
   "14804406862147": {
-   "available": false,
+   "available": true,
    "price": 59.99,
    "title": "Mystery Waifu Gradeada +16 AÑOS",
    "url": "https://www.pokemillon.com/products/waifu-x"
@@ -47737,7 +47749,7 @@
    "url": "https://www.pokemillon.com/products/etb-pitch-black"
   },
   "15326402183491": {
-   "available": true,
+   "available": false,
    "price": 189.9,
    "title": "Caja 36 Sobres Oscuridad Absoluta | Pitch Black",
    "url": "https://www.pokemillon.com/products/caja-36-sobres-oscuridad-absoluta-pitch-black"
@@ -52189,7 +52201,7 @@
    "url": "https://www.pokemillon.com/products/caja-16-sobres-juicy-honey-plus-29-18-anos"
   },
   "15403638227267": {
-   "available": true,
+   "available": false,
    "price": 59.9,
    "title": "One Piece | Caja 24 Sobres OP18 The Dominance of God",
    "url": "https://www.pokemillon.com/products/one-piece-op18"
@@ -66447,7 +66459,7 @@
    "url": "https://www.relictcg.com/products/booster-collector-kamigawa-neon-dynasty-jpn"
   },
   "16637840851289": {
-   "available": true,
+   "available": false,
    "price": 37.0,
    "title": "Booster Collector - Magic - Lorwyn Eclipse - EN",
    "url": "https://www.relictcg.com/products/booster-collector-magic-lorwyn-eclipse-en"
@@ -78841,7 +78853,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-adorable-labrynth-du-chateau-dargent-alt-ur-ra05-fr099"
   },
   "15528088338780": {
-   "available": true,
+   "available": null,
    "price": 9.9,
    "title": "Yu-Gi-Oh! Adorable Labrynth du Château d'Argent : ALT STAR RA05-FR099",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-adorable-labrynth-du-chateau-dargent-alt-star-ra05-fr099"
@@ -79591,13 +79603,13 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-meganium-ex"
   },
   "15547935949148": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Roitiflam ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-roitiflam-ex"
   },
   "15547938570588": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "Pokémon - Coffret ME02.5 Héros Transcendants : Méga Aligatueur ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-me02-5-heros-transcendants-mega-aligatueur-ex"
@@ -89939,6 +89951,12 @@
    "price": 2999.9,
    "title": "Yu-Gi-Oh! Horoscope Sorcerer, the Stargazer Magician - 085/100E : GMR MAMO-EN014",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-horoscope-sorcerer-the-stargazer-magician-085-100e-gmr-mamo-en014"
+  },
+  "15954517197148": {
+   "available": true,
+   "price": 3999.9,
+   "title": "Yu-Gi-Oh! Gagaga Girl - Cell Phone Subtraction - 056/100E : GMR MAMO-EN012",
+   "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-gagaga-girl-cell-phone-subtraction-056-100e-gmr-mamo-en012"
   },
   "15956350009692": {
    "available": true,
