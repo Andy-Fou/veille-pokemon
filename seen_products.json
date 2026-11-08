@@ -1438,7 +1438,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1392.0,
+   "price": 1393.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1720,7 +1720,7 @@
   },
   "10188440273225": {
    "available": false,
-   "price": 375.0,
+   "price": 376.0,
    "title": "Pokémon TCG - Team Rocket's Moltres ex Ultra Premium Collection (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-team-rockets-moltres-ex-ultra-premium-collection-ingles"
   },
@@ -34535,7 +34535,7 @@
    "url": "https://metamorphcenter.com/products/caja-eb05-heroines-edition-vol-2-japones"
   },
   "11420291301718": {
-   "available": true,
+   "available": false,
    "price": 235.0,
    "title": "Mewtwo VSTAR #221 Special Art Rare S12a VSTAR Universe PSA 10 - Japonés",
    "url": "https://metamorphcenter.com/products/mewtwo-vstar-221-special-art-rare-psa-10-japones-151368442"
@@ -46525,7 +46525,7 @@
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
   },
   "15265699594563": {
-   "available": true,
+   "available": false,
    "price": 199.9,
    "title": "Ultra Premium Espeon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
@@ -49747,7 +49747,7 @@
    "url": "https://www.pokemillon.com/products/godzilla-card-game-sleeve-card-set-ink-brushed-monster-rampage"
   },
   "15357630349635": {
-   "available": true,
+   "available": false,
    "price": 31.9,
    "title": "Lata Mega Charizard ex Y",
    "url": "https://www.pokemillon.com/products/lata-mega-charizard-ex-y"
@@ -49951,7 +49951,7 @@
    "url": "https://www.pokemillon.com/products/blister-premium-1-sobre-luxray-oscuridad-absoluta-pitch-black"
   },
   "15362770239811": {
-   "available": true,
+   "available": false,
    "price": 199.9,
    "title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-celebraciones-30-aniversario-celebrations-30th"
@@ -62457,7 +62457,7 @@
    "url": "https://www.relictcg.com/products/skirmish-riftbound-2"
   },
   "16103304495449": {
-   "available": true,
+   "available": false,
    "price": 100.0,
    "title": "Dialga 4/100 - D&P Aube Majestueuse - PCA 9 - FR",
    "url": "https://www.relictcg.com/products/dialga-4-100-d-p-aube-majestueuse-pca-9-fr"
@@ -78847,7 +78847,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-fantome-du-defunt-et-fraicheur-lunaire-alt-star-ra05-fr096"
   },
   "15528088076636": {
-   "available": true,
+   "available": null,
    "price": 1.0,
    "title": "Yu-Gi-Oh! Surnaliche le Seigneur d'Or : ALT UR RA05-FR097",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-surnaliche-le-seigneur-dor-alt-ur-ra05-fr097"
@@ -89981,6 +89981,12 @@
    "price": 3999.9,
    "title": "Yu-Gi-Oh! Gagaga Girl - Cell Phone Subtraction - 056/100E : GMR MAMO-EN012",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-gagaga-girl-cell-phone-subtraction-056-100e-gmr-mamo-en012"
+  },
+  "15954525258076": {
+   "available": true,
+   "price": 2999.9,
+   "title": "Yu-Gi-Oh! Starjunk Synchron - 051/100E : GMR MAMO-EN008",
+   "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-starjunk-synchron-051-100e-gmr-mamo-en008"
   },
   "15956350009692": {
    "available": true,

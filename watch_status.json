@@ -1,5 +1,6 @@
 {
  "errors": {
+  "Aux Trois Koalas": "502 Server Error: Bad Gateway for url: https://www.auxtroiskoalas.fr/shop/category/pokemon-coffrets-428",
   "PokeElite TCG": "HTTPSConnectionPool(host='pokeelitetcg.com', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NewConnectionError(\"HTTPSConnection(host='pokeelitetcg.com', port=443)"
  },
  "products": [
@@ -130,7 +131,7 @@
    "url": "https://www.pokemillon.com/products/premium-box-pokemon-30th-anniversary"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -139,7 +140,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -1894,5 +1895,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-08T18:00:03+00:00"
+ "updated": "2026-11-08T21:58:49+00:00"
 }
