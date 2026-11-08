@@ -1534,7 +1534,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1110.0,
+   "price": 1111.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -2260,7 +2260,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.73,
+   "price": 22.74,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2781,6 +2781,12 @@
    "price": 849.9,
    "title": "[SCELLE] Demi Display EB07 - Evolution Céleste [FR]",
    "url": "https://kairyu.fr/products/scelle-demi-display-eb07-evolution-celeste-fr"
+  },
+  "15496539308367": {
+   "available": true,
+   "price": 349.9,
+   "title": "[SCELLE] Demi Display EB01 - Epée Bouclier [FR]",
+   "url": "https://kairyu.fr/products/scelle-demi-display-eb01-epee-bouclier-fr"
   },
   "15496567488847": {
    "available": false,
@@ -8549,7 +8555,7 @@
    "url": "https://kairyu.fr/products/113-198-metalosse-vmax-1"
   },
   "7877394596099": {
-   "available": null,
+   "available": true,
    "price": 3.9,
    "title": "112/198 Métalosse-V",
    "url": "https://kairyu.fr/products/112-198-metalosse-v"
@@ -14741,8 +14747,8 @@
    "url": "https://kairyu.fr/products/grade-psa-9-166-172-arceus-v-alternative"
   },
   "8535486103887": {
-   "available": false,
-   "price": 249.9,
+   "available": true,
+   "price": 259.9,
    "title": "[SCELLE] Display EV03 -  Flammes Obsidiennes [FR]",
    "url": "https://kairyu.fr/products/precoscelle-display-ev03-flammes-obsidiennes-fr"
   },
@@ -14819,7 +14825,7 @@
    "url": "https://kairyu.fr/products/scelle-lot-de-5-mini-tins-destinees-radieuses-fr"
   },
   "8632622514511": {
-   "available": true,
+   "available": null,
    "price": 99.9,
    "title": "[SCELLE] Coffret Electhor ex [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-elekthor-eb03-5-fr"
@@ -14831,7 +14837,7 @@
    "url": "https://kairyu.fr/products/scelle-coffret-alakazam-ex-eb03-5-fr"
   },
   "8632630116687": {
-   "available": true,
+   "available": null,
    "price": 74.9,
    "title": "[SCELLE] Coffret Collection Poster [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-collection-poster-fr"
@@ -35997,7 +36003,7 @@
    "url": "https://pika-boutique.fr/products/coffret-mega-kangourex-ex"
   },
   "10594248163592": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "Booster Flammes Fantasmagoriques - ME02",
    "url": "https://pika-boutique.fr/products/booster-flammes-phantasmagoriques-me02"
@@ -46519,13 +46525,13 @@
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
   },
   "15265699594563": {
-   "available": false,
+   "available": true,
    "price": 199.9,
    "title": "Ultra Premium Espeon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
   },
   "15265703297347": {
-   "available": true,
+   "available": false,
    "price": 146.9,
    "title": "Booster Box 20 Sobres Pokémon 30th Celebration m6a",
    "url": "https://www.pokemillon.com/products/pokemon-30th-anniversary"
@@ -49945,7 +49951,7 @@
    "url": "https://www.pokemillon.com/products/blister-premium-1-sobre-luxray-oscuridad-absoluta-pitch-black"
   },
   "15362770239811": {
-   "available": false,
+   "available": true,
    "price": 199.9,
    "title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-celebraciones-30-aniversario-celebrations-30th"
@@ -51337,7 +51343,7 @@
    "url": "https://www.pokemillon.com/products/one-piece-day-2025-premium-card-collection"
   },
   "15394600485187": {
-   "available": true,
+   "available": false,
    "price": 44.9,
    "title": "Nivel Arena | Goddess of Victory: Nikke SB02 Eternal Return",
    "url": "https://www.pokemillon.com/products/nivel-arena-goddess-of-victory-nikke-sb02-eternal-return"
@@ -51547,7 +51553,7 @@
    "url": "https://www.pokemillon.com/products/panini-winner-poster-world-cup-2026"
   },
   "15397669830979": {
-   "available": true,
+   "available": false,
    "price": 25.9,
    "title": "Disney Lorcana | Collection Starter Set Edición Rapunzel",
    "url": "https://www.pokemillon.com/products/disney-lorcana-collection-starter-set-edicion-rapunzel"
@@ -87673,7 +87679,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-token-gong-strong-sr-betb-tkn5-en056"
   },
   "15882582557020": {
-   "available": true,
+   "available": false,
    "price": 59.9,
    "title": "Pokémon - Pokébox 30e Anniversaire ME05.5 : Nymphali ex",
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
