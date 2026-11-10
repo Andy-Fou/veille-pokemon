@@ -1534,7 +1534,7 @@
   },
   "10112687833417": {
    "available": true,
-   "price": 1118.0,
+   "price": 1119.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -1804,7 +1804,7 @@
   },
   "10243905814857": {
    "available": false,
-   "price": 166.0,
+   "price": 167.0,
    "title": "One Piece Card Game - Booster Box OP-16 The Time of Battle (Inglés)",
    "url": "https://www.jjcollection.es/products/one-piece-card-game-booster-box-op-16-the-time-of-battle-ingles"
   },
@@ -2260,7 +2260,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.89,
+   "price": 22.9,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -6449,7 +6449,7 @@
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-me06-regne-delta-fr"
   },
   "16389961449807": {
-   "available": true,
+   "available": false,
    "price": 24.9,
    "title": "[SCELLE] Tripack ME06 - Règne Delta [FR]",
    "url": "https://kairyu.fr/products/scelle-tripack-me06-regne-delta-fr"
@@ -6665,7 +6665,7 @@
    "url": "https://kairyu.fr/products/scelle-bundle-ev10-rivalites-destinees-fr"
   },
   "16457337504079": {
-   "available": true,
+   "available": false,
    "price": 4000.0,
    "title": "[SCELLE] Display SL10 - Alliance Infaillible [FR]",
    "url": "https://kairyu.fr/products/scelle-display-sl10-alliance-infaillible-fr"
@@ -44431,7 +44431,7 @@
    "url": "https://www.pokemillon.com/products/riftbound-league-of-legends-tcg-unleashed-vault"
   },
   "15204433101123": {
-   "available": true,
+   "available": false,
    "price": 33.9,
    "title": "Lata Mega Charizard ex X",
    "url": "https://www.pokemillon.com/products/lata-mega-charizard-ex-x"
@@ -67197,7 +67197,7 @@
    "url": "https://www.relictcg.com/products/duplicate-0809-armory-silver-age-3"
   },
   "16710849691993": {
-   "available": true,
+   "available": false,
    "price": 0.0,
    "title": "11/11 Silver Age - 11 Nov 2026",
    "url": "https://www.relictcg.com/products/duplicate-0508-silver-age-3"
@@ -67405,6 +67405,12 @@
    "price": 0.0,
    "title": "09/12 POKEFIGHT TOURNOI LEAGUE CHALLENGE - 9 Dec 2026",
    "url": "https://www.relictcg.com/products/duplicate-2904-pokefight-tournoi-league-challenge-2"
+  },
+  "16782558462297": {
+   "available": false,
+   "price": 30.0,
+   "title": "Collection Création de Deck Pokémon - Miaouss Ex - FR",
+   "url": "https://www.relictcg.com/products/collection-creation-de-deck-pokemon-miaouss-ex-fr"
   },
   "7441091887327": {
    "available": false,
