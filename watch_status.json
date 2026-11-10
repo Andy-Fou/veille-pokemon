@@ -58,7 +58,7 @@
    "url": "https://kairyu.fr/products/scelle-ultra-premium-30-ans-mentali-fr"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "watch",
    "price": 479.99,
@@ -139,7 +139,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 199.9,
@@ -412,7 +412,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 74.0,
+   "price": 75.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
@@ -421,7 +421,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 38.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - First Partners Illustration Collection - Series 1 - 30th Anniversary (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol"
@@ -430,7 +430,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 38.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - First Partners Illustration Collection - Series 2 - 30th Anniversary (Ingles & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-2-30th-anniversary-ingles-espanol"
@@ -511,7 +511,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 33.0,
+   "price": 34.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Poster Collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-poster-collection-espanol"
@@ -1201,7 +1201,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario-1"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 79.9,
@@ -1552,10 +1552,10 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 7.99,
+   "price": 5.99,
    "shop": "Pokemillon",
    "title": "Sobre Pokémon 30th Anniversary",
    "url": "https://www.pokemillon.com/products/sobre-pokemon-30th-anniversary"
@@ -1876,7 +1876,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1903,5 +1903,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-10T18:16:30+00:00"
+ "updated": "2026-11-10T23:34:00+00:00"
 }
