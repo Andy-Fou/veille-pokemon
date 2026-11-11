@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 285.0,
+   "price": 283.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 285.0,
+   "price": 283.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -58,7 +58,7 @@
    "url": "https://kairyu.fr/products/scelle-ultra-premium-30-ans-mentali-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "watch",
    "price": 479.99,
@@ -1305,7 +1305,7 @@
    "kind": "anniv",
    "price": 79.9,
    "shop": "Pokemillon",
-   "title": "Caja Figura Mew Celebraciones 30 Aniversario | Celebrations 30th",
+   "title": "Caja Figura Mew Celebraciones 30 Aniversario | Celebrations 30th Figure",
    "url": "https://www.pokemillon.com/products/caja-figura-mew-30th"
   },
   {
@@ -1314,7 +1314,7 @@
    "kind": "anniv",
    "price": 79.9,
    "shop": "Pokemillon",
-   "title": "Caja Figura Mewtwo Celebraciones 30 Aniversario | Celebrations 30th",
+   "title": "Caja Figura Mewtwo Celebraciones 30 Aniversario | Celebrations 30th Figure",
    "url": "https://www.pokemillon.com/products/caja-figura-mewtwo-celebraciones-30-aniversario-celebrations-30th"
   },
   {
@@ -1912,5 +1912,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-11T10:46:33+00:00"
+ "updated": "2026-11-11T18:31:34+00:00"
 }
