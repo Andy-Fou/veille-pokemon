@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 283.0,
+   "price": 282.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 283.0,
+   "price": 282.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -287,6 +287,15 @@
    "country": "FR",
    "kind": "anniv",
    "price": null,
+   "shop": "Aux Trois Koalas",
+   "title": "Pokémon - Tripack Tech Sticker Box - 30ème Anniversaire - (Illustration Aléatoire)",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok258862-pokemon-tripack-tech-sticker-box-30eme-anniversaire-illustration-aleatoire-46263"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
    "shop": "InvestCollect",
    "title": "[27-11-2026] Display 10 Mini Tins - Pokemon - 30e Anniversaire - ME05.5 - Scellé - Français",
    "url": "https://investcollect.com/eshop/p/display-10-mini-tins-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
@@ -466,7 +475,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 54.0,
+   "price": 53.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Figure Collection Mew | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-figure-collection-mew-espanol"
@@ -475,7 +484,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 54.0,
+   "price": 53.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Figure Collection Mewtwo | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo-espanol"
@@ -1930,5 +1939,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-12T16:55:20+00:00"
+ "updated": "2026-11-12T22:41:07+00:00"
 }
