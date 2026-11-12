@@ -448,7 +448,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 80.0,
+   "price": 79.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1303,7 +1303,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 49.95,
+   "price": 64.95,
    "shop": "Pokemillon",
    "title": "Bundle Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
@@ -1876,6 +1876,15 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-display-de-10-mini-tin-me05-5-30e-anniversaire"
   },
   {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 69.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Lot de 2 Collection Autocollant 30e Anniversaire ME05.5 : Noadkoko et Lucario",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-collection-autocollant-30e-anniversaire-me05-5-noadkoko-et-lucario"
+  },
+  {
    "available": false,
    "country": "FR",
    "kind": "anniv",
@@ -1921,5 +1930,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-12T08:14:06+00:00"
+ "updated": "2026-11-12T16:55:20+00:00"
 }
