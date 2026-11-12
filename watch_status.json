@@ -745,7 +745,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 109.0,
+   "price": 108.0,
    "shop": "Masterset",
    "title": "[EXPEDITION 29/10] [Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
    "url": "https://masterset.store/products/pokemon-etb-coffret-dresseur-d-lite-30e-anniversaire"
@@ -835,7 +835,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 83.0,
+   "price": 82.0,
    "shop": "Masterset",
    "title": "[PRECOMMANDE] Weiss Schwarz [EN] - Boîte de 10 Boosters - Persona 30th Anniversary",
    "url": "https://masterset.store/products/weiss-schwarz-en-bo-te-de-10-boosters-persona-30th-anniversary"
@@ -1280,6 +1280,15 @@
    "shop": "Pokemillon",
    "title": "Blíster Lucario Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-lucario-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
+  },
+  {
+   "available": true,
+   "country": "ES",
+   "kind": "anniv",
+   "price": 99.9,
+   "shop": "Pokemillon",
+   "title": "Booster Box 20 Sobres Pokémon 30th Celebration Ch",
+   "url": "https://www.pokemillon.com/products/caja-20-sobres-pokemon-30th-anniversary-m6a"
   },
   {
    "available": true,
@@ -1912,5 +1921,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-12T01:01:00+00:00"
+ "updated": "2026-11-12T08:14:06+00:00"
 }
