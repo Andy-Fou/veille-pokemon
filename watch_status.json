@@ -189,6 +189,15 @@
    "kind": "anniv",
    "price": null,
    "shop": "Arakemon",
+   "title": "Coffret Pokémon 30e Anniversaire – Collection avec figurine Mew 🇫🇷 Prix 64,99 €",
+   "url": "https://www.arakemon.com/product-page/coffret-pokemon-30-ans-figurine-mew-fr"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Arakemon",
    "title": "Coffret Pokémon Day 2026 – Édition Spéciale 30 Ans 🇫🇷 Rupture de stock",
    "url": "https://www.arakemon.com/product-page/coffret-pokémon-day-2026-édition-spéciale-30-ans"
   },
@@ -290,24 +299,6 @@
    "shop": "Aux Trois Koalas",
    "title": "Pokémon - Tripack Tech Sticker Box - 30ème Anniversaire - (Illustration Aléatoire)",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok258862-pokemon-tripack-tech-sticker-box-30eme-anniversaire-illustration-aleatoire-46263"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "InvestCollect",
-   "title": "Tripack - Pokemon - 30e Anniversaire - ME05.5 - Illustration Lucario - Scellé - Français",
-   "url": "https://investcollect.com/eshop/p/tripack-pokemon-30e-anniversaire-me05_5-illustration-lucario-scelle-francais.html"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "InvestCollect",
-   "title": "Tripack - Pokemon - 30e Anniversaire - ME05.5 - Illustration Noadkoko d'Alola - Scellé - Français",
-   "url": "https://investcollect.com/eshop/p/tripack-pokemon-30e-anniversaire-me05_5-illustration-noadkoko-d-alola-scelle-francais.html"
   },
   {
    "available": null,
@@ -434,6 +425,24 @@
    "shop": "InvestCollect",
    "title": "mini tin pokemon 30e anniversaire me05_5 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-30e-anniversaire-me05_5-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "tripack pokemon 30e anniversaire me05_5 illustration lucario scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/tripack-pokemon-30e-anniversaire-me05_5-illustration-lucario-scelle-francais.html"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "InvestCollect",
+   "title": "tripack pokemon 30e anniversaire me05_5 illustration noadkoko d alola scelle francais.html",
+   "url": "https://investcollect.com/eshop/p/tripack-pokemon-30e-anniversaire-me05_5-illustration-noadkoko-d-alola-scelle-francais.html"
   },
   {
    "available": false,
@@ -1429,7 +1438,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 109.9,
+   "price": 139.9,
    "shop": "Pokemillon",
    "title": "ETB Celebraciones 30 Aniversario | Élite Celebrations 30th",
    "url": "https://www.pokemillon.com/products/etb-30th"
@@ -1606,7 +1615,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 5.99,
@@ -1966,5 +1975,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-13T18:29:44+00:00"
+ "updated": "2026-11-13T23:53:27+00:00"
 }
