@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 282.0,
+   "price": 283.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 282.0,
+   "price": 283.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -133,7 +133,7 @@
    "available": true,
    "country": "ES",
    "kind": "watch",
-   "price": 199.9,
+   "price": 269.9,
    "shop": "Pokemillon",
    "title": "Ultra Premium Espeon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
@@ -142,7 +142,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 199.9,
+   "price": 289.9,
    "shop": "Pokemillon",
    "title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-celebraciones-30-aniversario-celebrations-30th"
@@ -475,7 +475,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 53.0,
+   "price": 54.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Figure Collection Mew | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-figure-collection-mew-espanol"
@@ -484,7 +484,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 53.0,
+   "price": 54.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Figure Collection Mewtwo | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-figure-collection-mewtwo-espanol"
@@ -763,7 +763,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 62.0,
+   "price": 61.0,
    "shop": "Masterset",
    "title": "[EXPEDITION 29/10] [Limite 1] Pokémon - Bundle de 6 Boosters - 30e Anniversaire",
    "url": "https://masterset.store/products/pok-mon-bundle-de-6-boosters-30e-anniversaire"
@@ -835,7 +835,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 80.0,
+   "price": 79.0,
    "shop": "Masterset",
    "title": "[PRECOMMANDE] Vanguard [EN]- Boîte de 10 Boosters Premium- VGE-DZ-TBP02 - Persona 30th Anniversary",
    "url": "https://masterset.store/products/vanguard-en-bo-te-de-10-boosters-premium-vge-dz-tbp02-persona-30th-anniversary"
@@ -1939,5 +1939,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-12T22:41:07+00:00"
+ "updated": "2026-11-13T02:58:03+00:00"
 }
