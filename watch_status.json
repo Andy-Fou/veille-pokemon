@@ -1127,7 +1127,7 @@
    "url": "https://pika-boutique.fr/products/duopack-pokemon-30-ans"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 144.9,
@@ -1973,5 +1973,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-15T16:55:16+00:00"
+ "updated": "2026-11-15T21:37:26+00:00"
 }
