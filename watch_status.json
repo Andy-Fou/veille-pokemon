@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 282.0,
+   "price": 281.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -41,7 +41,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 282.0,
+   "price": 281.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -1184,6 +1184,24 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
+   "price": 86.86,
+   "shop": "PokeElite TCG",
+   "title": "Pokémon 30 Aniversario · Booster Bundle (6 sobres)",
+   "url": "https://pokeelitetcg.com/products/reserva-booster-bundle-pokemon-30-aniversario-sobres-de-mejora"
+  },
+  {
+   "available": false,
+   "country": "ES",
+   "kind": "anniv",
+   "price": 79.61,
+   "shop": "PokeElite TCG",
+   "title": "Pokémon 30 Aniversario · Colección con póster",
+   "url": "https://pokeelitetcg.com/products/reserva-coleccion-con-poster-de-celebracion-30-aniversario-de-jcc-pokemon"
+  },
+  {
+   "available": false,
+   "country": "ES",
+   "kind": "anniv",
    "price": 79.9,
    "shop": "PokeElite TCG",
    "title": "[RESERVA] Pokémon | 30th Celebration Ditto Premium Collection",
@@ -1973,5 +1991,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-16T01:24:35+00:00"
+ "updated": "2026-11-16T08:36:42+00:00"
 }
