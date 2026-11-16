@@ -119,7 +119,7 @@
    "url": "https://pokeelitetcg.com/products/reserva-pokemon-30th-celebration-pack-ultra-premium-collection-ditto-premium-collection"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "watch",
    "price": 499.9,
@@ -146,10 +146,10 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-celebraciones-30-aniversario-celebrations-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "watch",
-   "price": 499.9,
+   "price": 549.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Collection Ultra Premium 30ᵉ Anniversaire ME05.5 Soirée : Noctali",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-ultra-premium-30ᵉ-anniversaire-me05-5-soiree-noctali"
@@ -455,7 +455,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 74.0,
+   "price": 73.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
@@ -500,7 +500,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 65.0,
+   "price": 64.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Binder collection | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-binder-collection-espanol"
@@ -1262,7 +1262,7 @@
    "url": "https://www.pokemillon.com/products/30th-celebration-umbreon-battle-deck-celebraciones-30-aniversario"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 54.9,
@@ -1364,7 +1364,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 64.95,
+   "price": 69.95,
    "shop": "Pokemillon",
    "title": "Bundle Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
@@ -1886,7 +1886,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 99.9,
+   "price": 89.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Coffret Collection Premium 30e Anniversaire ME05.5 : Métamorph",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-premium-30e-anniversaire-me05-5-metamorph"
@@ -1904,7 +1904,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 69.9,
+   "price": 59.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Collection 30e Anniversaire ME05.5 : Classeur",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-30e-anniversaire-me05-5-classeur"
@@ -1913,7 +1913,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 79.9,
+   "price": 74.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Collection Figurine 30e Anniversaire ME05.5 : Mew",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-figurine-30e-anniversaire-me05-5-mew"
@@ -1946,7 +1946,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-collection-autocollant-30e-anniversaire-me05-5-noadkoko-et-lucario"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 84.9,
@@ -1964,7 +1964,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pack-2-boosters-30e-anniversaire-me05-5-evoli"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1973,7 +1973,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-amphinobi-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 59.9,
@@ -1982,7 +1982,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 120.0,
@@ -1991,5 +1991,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-16T08:36:42+00:00"
+ "updated": "2026-11-16T18:56:06+00:00"
 }
