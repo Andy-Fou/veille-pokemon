@@ -1,7 +1,5 @@
 {
- "errors": {
-  "Aux Trois Koalas": "HTTPSConnectionPool(host='www.auxtroiskoalas.fr', port=443): Max retries exceeded with url: /shop/category/pokemon-coffrets-428 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.auxtroiskoalas"
- },
+ "errors": {},
  "products": [
   {
    "available": null,
@@ -763,7 +761,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 28.0,
+   "price": 27.0,
    "shop": "Masterset",
    "title": "Pokémon – Blind box Palmsize Wonders First Partner 30th Anniversary",
    "url": "https://masterset.store/products/pokemon-blind-box-palmsize-wonders-first-partner-30th-anniversary"
@@ -819,7 +817,7 @@
    "kind": "anniv",
    "price": 30.0,
    "shop": "Masterset",
-   "title": "[LIMITE 1] [Précommande] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Lucario",
+   "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Lucario",
    "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-lucario"
   },
   {
@@ -828,14 +826,14 @@
    "kind": "anniv",
    "price": 30.0,
    "shop": "Masterset",
-   "title": "[LIMITE 1] [Précommande] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Noadkoko d’Alola",
+   "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Noadkoko d’Alola",
    "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-noadkoko-d-alola"
   },
   {
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 36.0,
    "shop": "Masterset",
    "title": "[LIMITE1] Pokémon - Coffret Collection Poster - 30e Anniversaire",
    "url": "https://masterset.store/products/pok-mon-coffret-collection-poster-30e-anniversaire"
@@ -844,7 +842,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 108.0,
+   "price": 107.0,
    "shop": "Masterset",
    "title": "[Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
    "url": "https://masterset.store/products/pokemon-etb-coffret-dresseur-d-lite-30e-anniversaire"
@@ -880,7 +878,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 82.0,
+   "price": 81.0,
    "shop": "Masterset",
    "title": "[PRECOMMANDE] Weiss Schwarz [EN] - Boîte de 10 Boosters - Persona 30th Anniversary",
    "url": "https://masterset.store/products/weiss-schwarz-en-bo-te-de-10-boosters-persona-30th-anniversary"
@@ -1951,6 +1949,15 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
+   "price": 99.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Lot de 2 Decks Combat 30e Anniversaire ME05.5 : Mentali et Noctali ex",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-decks-combat-30e-anniversaire-me05-5-mentali-et-noctali-ex"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
    "price": 84.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Lot de 6 boosters ME05.5 : 30e Anniversaire",
@@ -1984,7 +1991,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-pokebox-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 120.0,
@@ -1993,5 +2000,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-17T02:25:53+00:00"
+ "updated": "2026-11-17T11:09:43+00:00"
 }
