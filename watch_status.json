@@ -455,7 +455,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 73.0,
+   "price": 74.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
@@ -527,7 +527,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 38.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Greninja Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-box-espanol"
@@ -563,7 +563,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 38.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Sylveon Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-sylveon-ex-box-espanol"
@@ -599,7 +599,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 38.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Espeon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex-espanol"
@@ -608,7 +608,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 37.0,
+   "price": 38.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Umbreon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex-espanol"
@@ -1127,7 +1127,16 @@
    "url": "https://pika-boutique.fr/products/duopack-pokemon-30-ans"
   },
   {
-   "available": false,
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 109.9,
+   "shop": "Pika-Boutique",
+   "title": "Lot Coffret Classeur 30 ans + Coffret Dracaufeu ex",
+   "url": "https://pika-boutique.fr/products/lot-coffret-classeur-30-ans-coffret-dracaufeu-ex"
+  },
+  {
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 144.9,
@@ -1478,7 +1487,7 @@
    "url": "https://www.pokemillon.com/products/first-partner-30th"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 49.9,
@@ -1955,7 +1964,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-decks-combat-30e-anniversaire-me05-5-mentali-et-noctali-ex"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 84.9,
@@ -2000,5 +2009,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-17T11:09:43+00:00"
+ "updated": "2026-11-17T19:56:49+00:00"
 }

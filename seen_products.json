@@ -815,7 +815,7 @@
    "url": "https://flashstore.es/producto/pokemon-151-display-mini-lata/"
   },
   "55660": {
-   "available": true,
+   "available": false,
    "price": 12.9,
    "title": "KFC x Pokemon 151",
    "url": "https://flashstore.es/producto/kfc-x-pokemon-151-chn/"
@@ -893,7 +893,7 @@
    "url": "https://flashstore.es/producto/pokemon-151-sobre-korea/"
   },
   "77497": {
-   "available": true,
+   "available": false,
    "price": 119.9,
    "title": "Pokemon Center Special Box Tohoku",
    "url": "https://flashstore.es/producto/pokemon-center-special-box-tohoku/"
@@ -1209,7 +1209,7 @@
   "display-pokemon-regne-delta-me06-scelle-francais": {
    "available": null,
    "price": null,
-   "title": "Display - Pokemon - Règne Delta - ME06 - Scellé - Français",
+   "title": "display pokemon regne delta me06 scelle francais.html",
    "url": "https://investcollect.com/eshop/p/display-pokemon-regne-delta-me06-scelle-francais.html"
   },
   "duopack-pokemon-30e-anniversaire-me05_5-scelle-francais": {
@@ -1414,7 +1414,7 @@
  "jjcollection": {
   "10005780070729": {
    "available": true,
-   "price": 202.0,
+   "price": 203.0,
    "title": "Pokémon TCG - Booster Box Surging Sparks (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-surging-sparks-ingles"
   },
@@ -1432,7 +1432,7 @@
   },
   "10005829157193": {
    "available": true,
-   "price": 7.0,
+   "price": 8.0,
    "title": "Pokémon TCG - Sobre Journey Together (Inglés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-sobre-journey-together-ingles"
   },
@@ -1462,7 +1462,7 @@
   },
   "10024469659977": {
    "available": false,
-   "price": 594.0,
+   "price": 596.0,
    "title": "Pokémon TCG - Display Bundle Destinos de paldea (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-bundle-destinos-de-paldea-espanol"
   },
@@ -1486,7 +1486,7 @@
   },
   "10034143756617": {
    "available": false,
-   "price": 1373.0,
+   "price": 1376.0,
    "title": "Pokémon TCG - Display booster bundle Destined Rivals (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-booster-bundle-rivales-predestinados"
   },
@@ -1498,7 +1498,7 @@
   },
   "10034318573897": {
    "available": false,
-   "price": 167.0,
+   "price": 168.0,
    "title": "Pokémon TCG - Booster Box Perfect Order (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-perfect-order-ingles-espanol"
   },
@@ -1528,7 +1528,7 @@
   },
   "10074734723401": {
    "available": false,
-   "price": 673.0,
+   "price": 674.0,
    "title": "Pokémon TCG - Case X10 ETB Ascended Heroes (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-ascended-heroes-espanol"
   },
@@ -1540,7 +1540,7 @@
   },
   "10081469432137": {
    "available": false,
-   "price": 194.0,
+   "price": 195.0,
    "title": "Pokémon TCG - Case x6 Mega Charizard ex Tin (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-mega-charizard-ex-tin-espanol"
   },
@@ -1552,7 +1552,7 @@
   },
   "10090869227849": {
    "available": false,
-   "price": 583.0,
+   "price": 584.0,
    "title": "Pokémon TCG - Case X10 ETB Fuegos fantasmales (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-etb-fuegos-fantasmales-espanol"
   },
@@ -1576,13 +1576,13 @@
   },
   "10112659718473": {
    "available": false,
-   "price": 561.0,
+   "price": 562.0,
    "title": "Pokémon TCG - Case X10 ETB Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x10-etb-fuegos-fantasmales-espanol-copia"
   },
   "10112687833417": {
    "available": false,
-   "price": 1095.0,
+   "price": 1097.0,
    "title": "Pokémon TCG - Case X6 Booster box Perfect Order (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-case-x6-booster-box-perfect-order-espanol-ingles"
   },
@@ -1672,7 +1672,7 @@
   },
   "10170897039689": {
    "available": false,
-   "price": 157.0,
+   "price": 158.0,
    "title": "One Piece Card Game - Booster Box OP-14 The Azure Sea's Seven (Inglés)",
    "url": "https://www.jjcollection.es/products/one-piece-card-game-booster-box-op-14-the-azure-seas-seven-ingles"
   },
@@ -1738,7 +1738,7 @@
   },
   "10177151500617": {
    "available": true,
-   "price": 188.0,
+   "price": 189.0,
    "title": "Magic The Gathering - Marvel Super Heroes Play Booster Box 30 Sobres",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-marvel-super-heroes-play-booster-box-30-sobres-ingles"
   },
@@ -1768,7 +1768,7 @@
   },
   "10188440273225": {
    "available": false,
-   "price": 370.0,
+   "price": 371.0,
    "title": "Pokémon TCG - Team Rocket's Moltres ex Ultra Premium Collection (ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-team-rockets-moltres-ex-ultra-premium-collection-ingles"
   },
@@ -1798,7 +1798,7 @@
   },
   "10202161381705": {
    "available": true,
-   "price": 213.0,
+   "price": 214.0,
    "title": "LEGO® Pokémon™ — Pikachu y Poké Ball",
    "url": "https://www.jjcollection.es/products/lego®-pokemon™-pikachu-y-poke-ball"
   },
@@ -1828,7 +1828,7 @@
   },
   "10234781204809": {
    "available": false,
-   "price": 359.0,
+   "price": 360.0,
    "title": "Pokémon TCG - Terastal Grand Gathering | Premium Box (Chino Simplificado)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-terastal-grand-gathering-premium-box-chino-simplificado"
   },
@@ -1930,7 +1930,7 @@
   },
   "10338194489673": {
    "available": false,
-   "price": 73.0,
+   "price": 74.0,
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
   },
@@ -1990,25 +1990,25 @@
   },
   "10373840208201": {
    "available": false,
-   "price": 37.0,
+   "price": 38.0,
    "title": "Pokémon TCG — 30th Celebration Greninja Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-box-espanol"
   },
   "10373858787657": {
    "available": false,
-   "price": 37.0,
+   "price": 38.0,
    "title": "Pokémon TCG — 30th Celebration Sylveon Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-sylveon-ex-box-espanol"
   },
   "10374047990089": {
    "available": false,
-   "price": 37.0,
+   "price": 38.0,
    "title": "Pokémon TCG — 30th Celebration battle deck Espeon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex-espanol"
   },
   "10374050742601": {
    "available": false,
-   "price": 37.0,
+   "price": 38.0,
    "title": "Pokémon TCG — 30th Celebration battle deck Umbreon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex-espanol"
   },
@@ -2086,7 +2086,7 @@
   },
   "10383793324361": {
    "available": false,
-   "price": 185.0,
+   "price": 186.0,
    "title": "Pokémon TCG - 30th Celebration Collection Display Gift Box - Espeon ex & Umbreon ex (Chino) (exterior dañado)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-collection-display-gift-box-espeon-ex-umbreon-ex-chino"
   },
@@ -2116,19 +2116,19 @@
   },
   "10398869291337": {
    "available": false,
-   "price": 129.0,
+   "price": 130.0,
    "title": "Riftbound League of Legends - Gift of the Rift Bundle (Inglés)",
    "url": "https://www.jjcollection.es/products/riftbound-league-of-legends-gift-rift-box-ingles"
   },
   "10404565254473": {
    "available": false,
-   "price": 157.0,
+   "price": 158.0,
    "title": "Riftbound League of Legends - 1st Anniversary Gift Box (Chino)",
    "url": "https://www.jjcollection.es/products/riftbound-league-of-legends-1st-anniversary-gift-box-chino"
   },
   "10435900473673": {
    "available": true,
-   "price": 75.0,
+   "price": 76.0,
    "title": "Magic The Gathering - Commander Decks Final Fantasy (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-commander-decks-final-fantasy-ingles"
   },
@@ -2152,7 +2152,7 @@
   },
   "10525319233865": {
    "available": true,
-   "price": 213.0,
+   "price": 214.0,
    "title": "Pokémon TCG - Dominio Delta - Booster Box (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-delta"
   },
@@ -2188,7 +2188,7 @@
   },
   "9759955583305": {
    "available": false,
-   "price": 84.0,
+   "price": 85.0,
    "title": "Pokémon TCG - Charizard ex Super Premium Collection Figura (Inglés)",
    "url": "https://www.jjcollection.es/products/charizard-ex-super-premium-collection-figura-ingles"
   },
@@ -2242,7 +2242,7 @@
   },
   "9761645297993": {
    "available": true,
-   "price": 157.0,
+   "price": 158.0,
    "title": "Pokémon TCG - Elite Trainer Box Destined Rivals (Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-destined-rivals-ingles"
   },
@@ -2338,7 +2338,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.41,
+   "price": 22.47,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2380,7 +2380,7 @@
   },
   "9814308225353": {
    "available": false,
-   "price": 129.0,
+   "price": 130.0,
    "title": "Dragon Ball - Prismatic Clash BT28 Booster Box (Inglés)",
    "url": "https://www.jjcollection.es/products/dragon-ball-super-tcg-prismatic-clash-bt28-caja-de-sobres-ingles"
   },
@@ -2446,7 +2446,7 @@
   },
   "9837620724041": {
    "available": false,
-   "price": 101.0,
+   "price": 102.0,
    "title": "Pokémon TCG - Black Bolt Booster Box (Japonés)",
    "url": "https://www.jjcollection.es/products/caja-black-bolt-japones"
   },
@@ -2506,7 +2506,7 @@
   },
   "9900877349193": {
    "available": false,
-   "price": 146.0,
+   "price": 147.0,
    "title": "Riftbound League of Legends - SpiritForged Booster Box (Inglés)",
    "url": "https://www.jjcollection.es/products/piritforged-booster-box-24"
   },
@@ -2524,7 +2524,7 @@
   },
   "9900947603785": {
    "available": true,
-   "price": 7.0,
+   "price": 8.0,
    "title": "Riftbound League of Legends - SpiritForged Booster Pack (Inglés)",
    "url": "https://www.jjcollection.es/products/spiritforged-booster-pack-ingles"
   },
@@ -2614,7 +2614,7 @@
   },
   "9935753904457": {
    "available": false,
-   "price": 25.0,
+   "price": 26.0,
    "title": "Pokémon TCG - Blister Pack 3 Sobres Phantasmal Flames (Español)",
    "url": "https://www.jjcollection.es/products/mega-evoluciones-phantasmal-flames-blister-pack-3-espanol"
   },
@@ -2626,7 +2626,7 @@
   },
   "9948436201801": {
    "available": false,
-   "price": 123.0,
+   "price": 124.0,
    "title": "Pokémon TCG - Inferno x Booster Box (Japonés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-inferno-x-booster-box-japones"
   },
@@ -12965,7 +12965,7 @@
    "url": "https://kairyu.fr/products/160-181-magicarpe-et-wailord-gx"
   },
   "7914854252803": {
-   "available": true,
+   "available": false,
    "price": 17.9,
    "title": "163/181 Pharamp-GX",
    "url": "https://kairyu.fr/products/163-181-pharamp-gx"
@@ -15353,7 +15353,7 @@
    "url": "https://kairyu.fr/products/precoscelle-display-ev03-flammes-obsidiennes-fr"
   },
   "8539247280463": {
-   "available": true,
+   "available": false,
    "price": 159.9,
    "title": "[SCELLE] Coffret Morpeko V Union [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-morpeko-v-union-fr"
@@ -34445,7 +34445,7 @@
    "url": "https://metamorphcenter.com/products/caja-eminence-in-shadow-union-arena-japones"
   },
   "10982480576854": {
-   "available": true,
+   "available": false,
    "price": 115.95,
    "title": "Caja OP17 The World's Strongest Warriors - Japonés",
    "url": "https://metamorphcenter.com/products/caja-op17-the-worlds-strongest-warriors-one-piece-japones"
@@ -35161,7 +35161,7 @@
   "11420278980950": {
    "available": true,
    "price": 109.95,
-   "title": "[ RESERVA ] Caja EB05 Heroines Edition vol.2 - Japonés",
+   "title": "Caja EB05 Heroines Edition vol.2 - Japonés",
    "url": "https://metamorphcenter.com/products/caja-eb05-heroines-edition-vol-2-japones"
   },
   "11420291301718": {
@@ -35291,7 +35291,7 @@
    "url": "https://metamorphcenter.com/products/sobre-eb05-heroines-edition-vol-2-japones"
   },
   "11474094031190": {
-   "available": true,
+   "available": false,
    "price": 9.5,
    "title": "Sobre 30th Anniversary Celebration M6a - Japonés",
    "url": "https://metamorphcenter.com/products/sobre-30th-celebration-pokemon-japones"
@@ -35316,7 +35316,7 @@
   },
   "11474095931734": {
    "available": true,
-   "price": 750.0,
+   "price": 7.5,
    "title": "Sobre OP13 Carrying On His Will - Japonés",
    "url": "https://metamorphcenter.com/products/sobre-op13-carrying-on-his-will-japones"
   },
@@ -36615,7 +36615,7 @@
    "url": "https://pika-boutique.fr/products/display-sv10-glory-of-team-rocket-jap"
   },
   "10261714239752": {
-   "available": true,
+   "available": false,
    "price": 160.0,
    "title": "ETB Rivalités Destinées - EV10",
    "url": "https://pika-boutique.fr/products/etb-rivalites-destinees-ev10-defaut-de-scellage"
@@ -36627,7 +36627,7 @@
    "url": "https://pika-boutique.fr/products/precommande-briquette-lilie"
   },
   "10386746736904": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "Coffret collection spéciale Dracaufeu EX",
    "url": "https://pika-boutique.fr/products/coffret-collection-speciale-dracaufeu-ex"
@@ -37551,7 +37551,7 @@
    "url": "https://pika-boutique.fr/products/lot-de-3-pokebox-rocket"
   },
   "12420467097864": {
-   "available": false,
+   "available": true,
    "price": 144.9,
    "title": "Lot Coffret Métamorph 30th + Coffret Ampibidou",
    "url": "https://pika-boutique.fr/products/lot-coffret-metamorph-30th-coffret-ampibidou"
@@ -38557,6 +38557,12 @@
    "price": 59.9,
    "title": "Display Chaos Origins (CORI) Yu-Gi-Oh! - JAP",
    "url": "https://pika-boutique.fr/products/chaos-origins-jap"
+  },
+  "12473879560456": {
+   "available": true,
+   "price": 109.9,
+   "title": "Lot Coffret Classeur 30 ans + Coffret Dracaufeu ex",
+   "url": "https://pika-boutique.fr/products/lot-coffret-classeur-30-ans-coffret-dracaufeu-ex"
   },
   "8377953616136": {
    "available": true,
@@ -42733,7 +42739,7 @@
    "url": "https://www.pokemillon.com/products/union-arena-caja-16-de-ua33bt-jp"
   },
   "14686137712963": {
-   "available": true,
+   "available": null,
    "price": 49.9,
    "title": "Disney | Caja de Sobres Lorcana The First Chapter (1TFC) Japonés 2025",
    "url": "https://www.pokemillon.com/products/disney-caja-sobres-lorcana-the-first-chapter-1tfc-jp"
@@ -45787,7 +45793,7 @@
    "url": "https://www.pokemillon.com/products/nivel-arena-goddess-of-victory-nikke-bt-05"
   },
   "15212004737347": {
-   "available": true,
+   "available": false,
    "price": 18.9,
    "title": "Blister 3 Sobres Corona Astral | Stellar Crown",
    "url": "https://www.pokemillon.com/products/blister-3-sobres-corona-astral"
@@ -46477,7 +46483,7 @@
    "url": "https://www.pokemillon.com/products/151-journey-battle-special-card-sleeve"
   },
   "15235512828227": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "First Partner Series 1 | Primer Compañero 30 Aniversario",
    "url": "https://www.pokemillon.com/products/first-partner"
@@ -55056,6 +55062,12 @@
    "title": "One Piece | Rumbo a Egghead Caja 50 sobres",
    "url": "https://www.pokemillon.com/products/one-piece-rumbo-a-egghead-caja-50-sobres"
   },
+  "15491212640579": {
+   "available": true,
+   "price": 49.99,
+   "title": "Caja 18 Sobres Gem Pack Vol. 7 Booster Box",
+   "url": "https://www.pokemillon.com/products/gem-pack-vol-7"
+  },
   "7430823411958": {
    "available": false,
    "price": 36.95,
@@ -62805,7 +62817,7 @@
    "url": "https://www.relictcg.com/products/gamegenic-prime-album-18-pocket-jaune"
   },
   "15828697317721": {
-   "available": true,
+   "available": false,
    "price": 15.0,
    "title": "Gamegenic : Prime Album 8 Pocket Jaune",
    "url": "https://www.relictcg.com/products/gamegenic-prime-album-8-pocket-jaune"
@@ -66566,6 +66578,12 @@
    "title": "Deck Commander Collector - Avengers Assemble - Marvel Super Heroes™ - EN",
    "url": "https://www.relictcg.com/products/deck-commander-collector-avengers-assemble-marvel-super-heroes™-en"
   },
+  "16394282598745": {
+   "available": true,
+   "price": 65.0,
+   "title": "Bundle - Magic - Réalitée Fracturée - FR",
+   "url": "https://www.relictcg.com/products/bundle-magic-reality-fracture-fr"
+  },
   "16394566926681": {
    "available": true,
    "price": 37.0,
@@ -69219,13 +69237,13 @@
    "url": "https://www.relictcg.com/products/display-de-boosters-de-jeu-magic-lorwyn-eclipsed-en"
   },
   "16782687797593": {
-   "available": false,
+   "available": true,
    "price": 40.0,
    "title": "Armory Deck - Dr.Mortimer - Flesh and Blood - FR",
    "url": "https://www.relictcg.com/products/armory-deck-mortimer-flesh-and-blood-fr"
   },
   "16782689763673": {
-   "available": false,
+   "available": true,
    "price": 75.0,
    "title": "Smash Palace - Flesh and Blood - Chorus of Steel - EN",
    "url": "https://www.relictcg.com/products/smash-palace-flesh-and-blood-chorus-of-steel-en"
@@ -69249,7 +69267,7 @@
    "url": "https://www.relictcg.com/products/classeur-a-anneaux-noir"
   },
   "7441097818335": {
-   "available": false,
+   "available": true,
    "price": 9.0,
    "title": "Ultra Pro - Tube pour Playmat",
    "url": "https://www.relictcg.com/products/tube-pour-playmat"
@@ -69435,7 +69453,7 @@
    "url": "https://www.relictcg.com/products/dragon-shield-standard-sleeves-matte-copper-100"
   },
   "7441195040991": {
-   "available": false,
+   "available": true,
    "price": 9.0,
    "title": "Dragon Shield Standard Sleeves - Matte Silver (100)",
    "url": "https://www.relictcg.com/products/dragon-shield-standard-sleeves-matte-silver-100"
@@ -69651,7 +69669,7 @@
    "url": "https://www.relictcg.com/products/gamegenic-prime-album-18-pocket-bleu"
   },
   "7441308156127": {
-   "available": false,
+   "available": true,
    "price": 22.0,
    "title": "Gamegenic : Prime Album 18 Pocket Noir",
    "url": "https://www.relictcg.com/products/gamegenic-prime-album-18-pocket-noir"
@@ -88687,7 +88705,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-duo-pack-de-2-boosters-octobre-2026-ectoplasma-mimiqui-et-marshadow"
   },
   "15855167570268": {
-   "available": true,
+   "available": false,
    "price": 84.9,
    "title": "Pokémon - Lot de 6 boosters ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-5-30e-anniversaire"
@@ -92983,8 +93001,8 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-blanc-aux-yeux-bleus-la-bete-fantome-blanche-of-star-mams-fr001"
   },
   "15967478874460": {
-   "available": false,
-   "price": 11.9,
+   "available": true,
+   "price": 13.9,
    "title": "Yu-Gi-Oh! Dragon Blanc aux Yeux Profonds, les Abysses Bleus : UR MAMS-FR002",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-blanc-aux-yeux-profonds-les-abysses-bleus-ur-mams-fr002"
   },
@@ -93037,8 +93055,8 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-cyber-ultime-le-dragon-de-lassaut-final-of-star-mams-fr004"
   },
   "15967479234908": {
-   "available": false,
-   "price": 7.9,
+   "available": true,
+   "price": 6.9,
    "title": "Yu-Gi-Oh! Cyber Dragon, le Dragon Méca Lumineux : UR MAMS-FR005",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-cyber-dragon-le-dragon-meca-lumineux-ur-mams-fr005"
   },
@@ -93055,8 +93073,8 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-cyber-dragon-le-dragon-meca-lumineux-of-star-mams-fr005"
   },
   "15967479333212": {
-   "available": false,
-   "price": 3.5,
+   "available": true,
+   "price": 2.9,
    "title": "Yu-Gi-Oh! Nova Fusion du Futur : UR MAMS-FR006",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-nova-fusion-du-futur-ur-mams-fr006"
   },
@@ -93074,7 +93092,7 @@
   },
   "15967479431516": {
    "available": true,
-   "price": 4.9,
+   "price": 3.9,
    "title": "Yu-Gi-Oh! Quetzalcoatl le Dragon Cramoisi : UR MAMS-FR007",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-quetzalcoatl-le-dragon-cramoisi-ur-mams-fr007"
   },
@@ -93092,7 +93110,7 @@
   },
   "15967479529820": {
    "available": true,
-   "price": 2.9,
+   "price": 1.9,
    "title": "Yu-Gi-Oh! Dragon Nova Rouge - Âme Enflammée : UR MAMS-FR008",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-nova-rouge-ame-enflammee-ur-mams-fr008"
   },
@@ -93110,7 +93128,7 @@
   },
   "15967479628124": {
    "available": true,
-   "price": 1.5,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Chaînes du Dragon Rouge Archdémon : UR MAMS-FR009",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-chaines-du-dragon-rouge-archdemon-ur-mams-fr009"
   },
@@ -93128,7 +93146,7 @@
   },
   "15967479791964": {
    "available": true,
-   "price": 1.9,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Néo Dragon Photon aux Yeux Galactiques - Hurlement Photon : UR MAMS-FR010",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-neo-dragon-photon-aux-yeux-galactiques-hurlement-photon-ur-mams-fr010"
   },
@@ -93146,7 +93164,7 @@
   },
   "15967479890268": {
    "available": true,
-   "price": 1.9,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Dragon du Changement Photon aux Yeux Galactiques : UR MAMS-FR011",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-du-changement-photon-aux-yeux-galactiques-ur-mams-fr011"
   },
@@ -93164,7 +93182,7 @@
   },
   "15967479988572": {
    "available": true,
-   "price": 1.9,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Défense Galactique Orbital 7 : UR MAMS-FR012",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-defense-galactique-orbital-7-ur-mams-fr012"
   },
@@ -93182,7 +93200,7 @@
   },
   "15967480086876": {
    "available": true,
-   "price": 2.9,
+   "price": 2.5,
    "title": "Yu-Gi-Oh! Dragon Fusion Venin Affamé, Quatre Dragons Divins : UR MAMS-FR013",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-fusion-venin-affame-quatre-dragons-divins-ur-mams-fr013"
   },
@@ -93200,7 +93218,7 @@
   },
   "15967480250716": {
    "available": true,
-   "price": 1.9,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Dragon Synchro de l'Aile Claire, Quatre Dragons Divins : UR MAMS-FR014",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-synchro-de-laile-claire-quatre-dragons-divins-ur-mams-fr014"
   },
@@ -93218,7 +93236,7 @@
   },
   "15967480545628": {
    "available": true,
-   "price": 3.9,
+   "price": 1.9,
    "title": "Yu-Gi-Oh! Dragon Xyz de la Rébellion des Ténèbres, Quatre Dragons Divins : UR MAMS-FR015",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-xyz-de-la-rebellion-des-tenebres-quatre-dragons-divins-ur-mams-fr015"
   },
@@ -93236,7 +93254,7 @@
   },
   "15967480742236": {
    "available": true,
-   "price": 1.9,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Dragon Libérateur Chargeborrelle : UR MAMS-FR016",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-liberateur-chargeborrelle-ur-mams-fr016"
   },
@@ -93254,7 +93272,7 @@
   },
   "15967480938844": {
    "available": true,
-   "price": 2.9,
+   "price": 1.9,
    "title": "Yu-Gi-Oh! Barrage Rokkette : UR MAMS-FR017",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-barrage-rokkette-ur-mams-fr017"
   },
@@ -93272,7 +93290,7 @@
   },
   "15967481037148": {
    "available": true,
-   "price": 2.5,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Lancement Triple Borrelle : UR MAMS-FR018",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lancement-triple-borrelle-ur-mams-fr018"
   },
@@ -93650,7 +93668,7 @@
   },
   "15967483298140": {
    "available": true,
-   "price": 15.9,
+   "price": 8.9,
    "title": "Yu-Gi-Oh! Lapin des Ténèbres Rigolo : UR MAMS-FR039",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lapin-des-tenebres-rigolo-ur-mams-fr039"
   },
@@ -93668,7 +93686,7 @@
   },
   "15967483429212": {
    "available": true,
-   "price": 5.9,
+   "price": 2.9,
    "title": "Yu-Gi-Oh! Doppelganger le Comique : UR MAMS-FR040",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-doppelganger-le-comique-ur-mams-fr040"
   },
@@ -93686,7 +93704,7 @@
   },
   "15967483527516": {
    "available": true,
-   "price": 2.9,
+   "price": 1.0,
    "title": "Yu-Gi-Oh! Box Maléfique : UR MAMS-FR041",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-box-malefique-ur-mams-fr041"
   },
@@ -93722,7 +93740,7 @@
   },
   "15967483756892": {
    "available": true,
-   "price": 6.9,
+   "price": 4.9,
    "title": "Yu-Gi-Oh! Dragon Toon Ultime aux Yeux Bleus : UR MAMS-FR043",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-dragon-toon-ultime-aux-yeux-bleus-ur-mams-fr043"
   },
@@ -93740,7 +93758,7 @@
   },
   "15967483855196": {
    "available": true,
-   "price": 14.9,
+   "price": 8.9,
    "title": "Yu-Gi-Oh! Monde Parfait des Toons : UR MAMS-FR044",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-monde-parfait-des-toons-ur-mams-fr044"
   },
@@ -93758,7 +93776,7 @@
   },
   "15967483953500": {
    "available": true,
-   "price": 1.0,
+   "price": 0.5,
    "title": "Yu-Gi-Oh! Télépathie : UR MAMS-FR045",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-telepathie-ur-mams-fr045"
   },
@@ -94316,7 +94334,7 @@
   },
   "15967488147804": {
    "available": true,
-   "price": 2.5,
+   "price": 3.5,
    "title": "Yu-Gi-Oh! Trancheur Gordien : UR MAMS-FR108",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-trancheur-gordien-ur-mams-fr108"
   },
