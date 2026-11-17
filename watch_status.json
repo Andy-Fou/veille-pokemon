@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "Aux Trois Koalas": "HTTPSConnectionPool(host='www.auxtroiskoalas.fr', port=443): Max retries exceeded with url: /shop/category/pokemon-coffrets-428 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.auxtroiskoalas"
+ },
  "products": [
   {
    "available": null,
@@ -128,7 +130,7 @@
    "url": "https://www.pokemillon.com/products/premium-box-pokemon-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "watch",
    "price": 269.9,
@@ -143,10 +145,10 @@
    "price": 289.9,
    "shop": "Pokemillon",
    "title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th",
-   "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-celebraciones-30-aniversario-celebrations-30th"
+   "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-30th"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "watch",
    "price": 549.9,
@@ -527,7 +529,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Greninja Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-box-espanol"
@@ -563,7 +565,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Sylveon Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-sylveon-ex-box-espanol"
@@ -599,7 +601,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Espeon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex-espanol"
@@ -608,7 +610,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Umbreon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex-espanol"
@@ -1352,7 +1354,7 @@
    "url": "https://www.pokemillon.com/products/caja-20-sobres-pokemon-30th-anniversary-m6a"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 146.9,
@@ -1631,7 +1633,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 5.99,
@@ -1991,5 +1993,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-16T18:56:06+00:00"
+ "updated": "2026-11-17T02:25:53+00:00"
 }
