@@ -137,7 +137,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-30th-espeon"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "watch",
    "price": 289.9,
@@ -455,7 +455,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 74.0,
+   "price": 73.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Elite Trainer Box 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
@@ -527,7 +527,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Greninja Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-box-espanol"
@@ -563,7 +563,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Sylveon Ex Box | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-sylveon-ex-box-espanol"
@@ -599,7 +599,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Espeon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-espeon-ex-espanol"
@@ -608,7 +608,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 38.0,
+   "price": 37.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration battle deck Umbreon Ex | (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-battle-deck-umbreon-ex-espanol"
@@ -2009,5 +2009,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-17T19:56:49+00:00"
+ "updated": "2026-11-18T02:18:46+00:00"
 }
