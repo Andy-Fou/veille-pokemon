@@ -32,7 +32,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 281.0,
+   "price": 280.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -41,7 +41,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 281.0,
+   "price": 280.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -1166,7 +1166,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 1.2,
+   "price": 1.0,
    "shop": "Pika-Boutique",
    "title": "Carte unité ME05.5 - Holographique",
    "url": "https://pika-boutique.fr/products/carte-unite-me05-5-reverse"
@@ -1184,7 +1184,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 3.0,
+   "price": 2.0,
    "shop": "Pika-Boutique",
    "title": "Carte unité ME05.5 - Ultra Rare",
    "url": "https://pika-boutique.fr/products/carte-unite-me05-5-ultra-rare"
@@ -1481,7 +1481,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 146.9,
+   "price": 116.9,
    "shop": "Pokemillon",
    "title": "Booster Box 20 Sobres Pokémon 30th Celebration m6a",
    "url": "https://www.pokemillon.com/products/pokemon-30th-anniversary"
@@ -2126,5 +2126,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-19T08:56:19+00:00"
+ "updated": "2026-11-19T18:08:21+00:00"
 }
