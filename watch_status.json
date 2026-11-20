@@ -1,5 +1,7 @@
 {
- "errors": {},
+ "errors": {
+  "PokeElite TCG": "HTTPSConnectionPool(host='pokeelitetcg.com', port=443): Max retries exceeded with url: /products.json?limit=250&page=1 (Caused by NewConnectionError(\"HTTPSConnection(host='pokeelitetcg.com', port=443)"
+ },
  "products": [
   {
    "available": null,
@@ -32,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 280.0,
+   "price": 281.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -41,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 280.0,
+   "price": 281.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -2126,5 +2128,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-20T00:43:49+00:00"
+ "updated": "2026-11-20T08:18:02+00:00"
 }
