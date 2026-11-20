@@ -637,6 +637,15 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
+   "price": 29.9,
+   "shop": "Kairyu",
+   "title": "[SCELLE] Deck Noctali - Mentali - 30 Ans [FR]",
+   "url": "https://kairyu.fr/products/scelle-deck-me05-5-30-ans-fr"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
    "price": 149.9,
    "shop": "Kairyu",
    "title": "[SCELLE] Lot de 5 Mini Tins 30 Ans [FR]",
@@ -668,6 +677,15 @@
    "shop": "Le Bordel Magique",
    "title": "Coffret Nymphali Ex Pokémon 30 ans / 30th",
    "url": "https://lebordelmagique.com/products/coffret-nymphali-ex-pokemon-30-ans"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 29.99,
+   "shop": "Le Bordel Magique",
+   "title": "Coffret Pokémon 30th Blind Box CHN",
+   "url": "https://lebordelmagique.com/products/coffret-pokemon-30th-blind-box-chn"
   },
   {
    "available": false,
@@ -722,6 +740,15 @@
    "shop": "Le Bordel Magique",
    "title": "Coffret poster Pokémon 30 ans / 30th",
    "url": "https://lebordelmagique.com/products/coffret-poster-pokemon-30-ans"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 94.99,
+   "shop": "Le Bordel Magique",
+   "title": "Display Pokémon 30th  M6a CHN",
+   "url": "https://lebordelmagique.com/products/display-pokemon-30th-m6a-chn"
   },
   {
    "available": false,
@@ -2128,5 +2155,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-20T08:18:02+00:00"
+ "updated": "2026-11-20T17:03:51+00:00"
 }
