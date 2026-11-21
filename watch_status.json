@@ -148,7 +148,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "watch",
    "price": 549.9,
@@ -1681,7 +1681,7 @@
    "available": true,
    "country": "ES",
    "kind": "anniv",
-   "price": 33.9,
+   "price": 24.9,
    "shop": "Pokemillon",
    "title": "Mini Lata Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/mini-lata-dia-celebraciones-30-aniversario-celebrations-30th"
@@ -1885,7 +1885,7 @@
    "url": "https://strikegames.shop/products/pack-pokemon-1-bundle-30e-anniversaire-1-pokeball-3-boosters-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 39.99,
@@ -1930,7 +1930,7 @@
    "url": "https://strikegames.shop/products/pack-pokemon-coffret-nymphali-ex-30e-anniversaire-collection-figurine-mega-lucario-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 39.99,
@@ -1942,7 +1942,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 39.99,
+   "price": 44.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Boîte Nymphali-ex ou Amphinobi-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-boite-nymphali-ex-ou-amphinobi-ex-fr"
@@ -1960,7 +1960,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 39.99,
+   "price": 49.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Coffret Amphinobi-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-amphinobi-ex-fr"
@@ -1978,7 +1978,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 39.99,
+   "price": 49.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Coffret Nymphali-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-nymphali-ex-fr"
@@ -1987,7 +1987,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 34.99,
+   "price": 39.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Collection poster | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-collection-poster-fr"
@@ -2014,7 +2014,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 19.99,
+   "price": 24.99,
    "shop": "Strike Games",
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Pack promotionnel de 2 boosters Évoli | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-pack-promotionnel-de-2-boosters-evoli-fr"
@@ -2050,7 +2050,7 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 179.9,
+   "price": 159.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Coffret Dresseur d'Élite ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
@@ -2155,5 +2155,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-21T04:04:49+00:00"
+ "updated": "2026-11-21T12:50:42+00:00"
 }

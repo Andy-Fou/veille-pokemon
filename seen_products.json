@@ -1407,7 +1407,7 @@
   "tripack-pokemon-regne-delta-me06-triple-illustration-mega-sarmurai-scelle-francais": {
    "available": null,
    "price": null,
-   "title": "Tripack - Pokemon - Règne Delta - ME06 - Triple Illustration Méga-Sarmuraï - Scellé - Français",
+   "title": "tripack pokemon regne delta me06 triple illustration mega sarmurai scelle francais.html",
    "url": "https://investcollect.com/eshop/p/tripack-pokemon-regne-delta-me06-triple-illustration-mega-sarmurai-scelle-francais.html"
   },
   "tripack-pokemon-regne-delta-me06-triple-illustration-mega-sepiatroce-scelle-francais": {
@@ -1456,7 +1456,7 @@
   },
   "10010992279881": {
    "available": false,
-   "price": 208.0,
+   "price": 207.0,
    "title": "Pokémon TCG - Booster box Rivales Predestinados (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-box-rivales-predestinados-espanol"
   },
@@ -1480,7 +1480,7 @@
   },
   "10024469659977": {
    "available": false,
-   "price": 594.0,
+   "price": 593.0,
    "title": "Pokémon TCG - Display Bundle Destinos de paldea (Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-display-bundle-destinos-de-paldea-espanol"
   },
@@ -2122,7 +2122,7 @@
   },
   "10398841569609": {
    "available": false,
-   "price": 180.0,
+   "price": 179.0,
    "title": "Pokémon TCG - 30th Celebration booster box (Japonés)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-booster-box-japones"
   },
@@ -2789,7 +2789,7 @@
    "url": "https://kairyu.fr/products/scelle-coffret-surprise-evolutions-prismatiques-fr"
   },
   "15033514393935": {
-   "available": true,
+   "available": null,
    "price": 69.9,
    "title": "[SCELLE] Bundle Pokemon EV08.5 - Evolutions Prismatiques [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-pokemon-ev08-5-evolutions-prismatiques-fr"
@@ -2861,7 +2861,7 @@
    "url": "https://kairyu.fr/products/scelle-tripack-ev10-rivalites-destinees-fr"
   },
   "15335261012303": {
-   "available": false,
+   "available": true,
    "price": 9.9,
    "title": "[SCELLE] Booster sous Blister EV10 - Rivalités Destinées [FR]",
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-ev10-rivalites-destinees-fr"
@@ -3455,7 +3455,7 @@
    "url": "https://kairyu.fr/products/233-182-nidoking-ex-de-la-team-rocket-copie"
   },
   "15563005919567": {
-   "available": true,
+   "available": false,
    "price": 34.9,
    "title": "235/182 Dogrino ex de Pepper",
    "url": "https://kairyu.fr/products/234-182-nostenfer-ex-de-la-team-rocket-copie"
@@ -4169,7 +4169,7 @@
    "url": "https://kairyu.fr/products/scelle-booster-sous-blister-me03-equilibre-parfait-fr"
   },
   "15887861940559": {
-   "available": false,
+   "available": true,
    "price": 109.9,
    "title": "[SCELLE] Elite Trainer Box ME02.5 - Héro Transcendant [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-me02-5-hero-transcendant-fr"
@@ -5039,7 +5039,7 @@
    "url": "https://kairyu.fr/products/247-191-pikachu-ex"
   },
   "16048931340623": {
-   "available": true,
+   "available": false,
    "price": 14.9,
    "title": "248/191 Noadkoko d'Alola ex",
    "url": "https://kairyu.fr/products/248-191-noadkoko-dalola-ex"
@@ -5051,7 +5051,7 @@
    "url": "https://kairyu.fr/products/250-191-montagne-gravite"
   },
   "16048931701071": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "252/191 Énergie Propulsion",
    "url": "https://kairyu.fr/products/252-191-energie-propulsion"
@@ -5855,7 +5855,7 @@
    "url": "https://kairyu.fr/products/scelle-demi-display-eb09-stars-etincelantes-fr"
   },
   "16240462266703": {
-   "available": false,
+   "available": true,
    "price": 119.9,
    "title": "[SCELLE] Demi Display ME04 - Chaos Ascendant [FR]",
    "url": "https://kairyu.fr/products/scelle-demi-display-me04-chaos-ascendant-fr"
@@ -6797,8 +6797,8 @@
    "url": "https://kairyu.fr/products/156-128-drattak-ex"
   },
   "16423324156239": {
-   "available": false,
-   "price": 54.9,
+   "available": true,
+   "price": 44.9,
    "title": "158/128 Mew ex",
    "url": "https://kairyu.fr/products/158-128-mew-ex"
   },
@@ -7299,6 +7299,12 @@
    "price": 29.9,
    "title": "[SCELLE] Deck Noctali - Mentali - 30 Ans [FR]",
    "url": "https://kairyu.fr/products/scelle-deck-me05-5-30-ans-fr"
+  },
+  "16494980366671": {
+   "available": true,
+   "price": 549.9,
+   "title": "[MASTER SET] Master Set - ME04 - Chaos Ascendant [FR]",
+   "url": "https://kairyu.fr/products/master-set-master-set-me04-chaos-ascendant-fr"
   },
   "7603572408579": {
    "available": false,
@@ -11561,7 +11567,7 @@
    "url": "https://kairyu.fr/products/sv067-sv122-charbi"
   },
   "7881751658755": {
-   "available": true,
+   "available": false,
    "price": 11.9,
    "title": "TG15/TG30 Scolocendre-VMAX",
    "url": "https://kairyu.fr/products/tg15-tg30-scolocendre-vmax"
@@ -14513,7 +14519,7 @@
    "url": "https://kairyu.fr/products/tg16-195-zeraora-v"
   },
   "7988716568835": {
-   "available": true,
+   "available": false,
    "price": 49.9,
    "title": "TG15/TG30 Braségali-VMAX",
    "url": "https://kairyu.fr/products/tg15-195-brasegali-vmax"
@@ -18725,7 +18731,7 @@
    "url": "https://kairyu.fr/products/221-191"
   },
   "9671222886735": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "222/191 Libégon ex",
    "url": "https://kairyu.fr/products/222-191-libegon-ex"
@@ -40239,13 +40245,13 @@
    "url": "https://pika-boutique.fr/products/237-psa10-mashynn-alt-carte-gradee"
   },
   "9381336645896": {
-   "available": true,
+   "available": false,
    "price": 30.0,
    "title": "282 - PSA9  ARTIKODIN DE GALAR - Carte gradée -",
    "url": "https://pika-boutique.fr/products/014-psa9-p-carte-gradee-copie-3"
   },
   "9381336842504": {
-   "available": true,
+   "available": false,
    "price": 30.0,
    "title": "283 - PSA9  ELECTHOR DE GALAR - Carte gradée -",
    "url": "https://pika-boutique.fr/products/014-psa9-p-carte-gradee-copie-copie-copie-5"
@@ -40275,7 +40281,7 @@
    "url": "https://pika-boutique.fr/products/014-psa9-p-carte-gradee-copie-copie-copie-copie-copie-copie-copie-9"
   },
   "9381337301256": {
-   "available": true,
+   "available": false,
    "price": 20.0,
    "title": "284 - PSA8  SULFURA DE GALAR - Carte gradée -",
    "url": "https://pika-boutique.fr/products/014-psa9-p-carte-gradee-copie-copie-copie-copie-copie-copie-copie-copie-12"
@@ -43345,9 +43351,9 @@
    "url": "https://www.pokemillon.com/products/cgc-10-ceruledge-sv8-109-super-electric-breaker-2024-japones"
   },
   "14775229874499": {
-   "available": false,
-   "price": 59.9,
-   "title": "Legendary Pack - PSA, CGC",
+   "available": true,
+   "price": 49.9,
+   "title": "Legendary Pack",
    "url": "https://www.pokemillon.com/products/mystery-graded-card-master-ball-una-carta-gradeada-de-un-pokemon-legendario-o-singular-psa-cgc"
   },
   "14776751096131": {
@@ -51361,7 +51367,7 @@
    "url": "https://www.pokemillon.com/products/digimon-caja-24-sobres-ex-12-digital-world-shambala"
   },
   "15357544169795": {
-   "available": true,
+   "available": false,
    "price": 149.9,
    "title": "Dragon Ball | Caja 24 Sobres Ultra-Bout Series B-31 Impact Beyond Dimensions",
    "url": "https://www.pokemillon.com/products/dragon-ball-caja-24-sobres-ultra-bout-series-b-31"
@@ -51626,7 +51632,7 @@
   },
   "15362804482371": {
    "available": true,
-   "price": 33.9,
+   "price": 24.9,
    "title": "Mini Lata Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/mini-lata-dia-celebraciones-30-aniversario-celebrations-30th"
   },
@@ -54073,7 +54079,7 @@
    "url": "https://www.pokemillon.com/products/gundam-tcg-official-card-case-set-02"
   },
   "15413476360515": {
-   "available": true,
+   "available": false,
    "price": 62.9,
    "title": "Topps |  Match Attax UCC 2026/27 - Full Box 36 Sobres",
    "url": "https://www.pokemillon.com/products/topps-match-attax-ucc-2026-27-full-box-36-sobres"
@@ -54824,7 +54830,7 @@
   },
   "15475234832707": {
    "available": true,
-   "price": 32.9,
+   "price": 28.9,
    "title": "YuGiOh! Caja Magnificent Maestros Dragon Blanco de Ojos Azules",
    "url": "https://www.pokemillon.com/products/yugioh-caja-magnificent-maestros"
   },
@@ -74195,7 +74201,7 @@
    "url": "https://strikegames.shop/products/pokemon-duopack-ecarlate-et-violet-mascarade-crepusculaire-ev1-ev6-fr"
   },
   "15790495596888": {
-   "available": false,
+   "available": true,
    "price": 12.99,
    "title": "Pokémon - Mini-boîtes Illumis (1x mini-boîte aléatoire) | FR",
    "url": "https://strikegames.shop/products/pokemon-mini-boites-illumis-1x-mini-boite-aleatoire-fr"
@@ -74262,31 +74268,31 @@
   },
   "15989100839256": {
    "available": false,
-   "price": 39.99,
+   "price": 44.99,
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Boîte Nymphali-ex ou Amphinobi-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-boite-nymphali-ex-ou-amphinobi-ex-fr"
   },
   "15989101396312": {
    "available": false,
-   "price": 39.99,
+   "price": 49.99,
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Coffret Amphinobi-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-amphinobi-ex-fr"
   },
   "15989102838104": {
    "available": false,
-   "price": 39.99,
+   "price": 49.99,
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Coffret Nymphali-ex | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-coffret-nymphali-ex-fr"
   },
   "15989103821144": {
    "available": false,
-   "price": 19.99,
+   "price": 24.99,
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Pack promotionnel de 2 boosters Évoli | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-pack-promotionnel-de-2-boosters-evoli-fr"
   },
   "15989106147672": {
    "available": false,
-   "price": 34.99,
+   "price": 39.99,
    "title": "Pokémon ME 5.5 - 30e Anniversaire - Collection poster | FR",
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-collection-poster-fr"
   },
@@ -74339,7 +74345,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-display-mini-tin-scelle-fr"
   },
   "16094693228888": {
-   "available": true,
+   "available": false,
    "price": 39.99,
    "title": "Pack Pokémon : Duopack Évoli 30e Anniversaire + 1 Mini-boîtes Illumis | FR",
    "url": "https://strikegames.shop/products/pack-pokemon-duopack-evoli-30e-anniversaire-mini-boites-illumis-fr"
@@ -74381,7 +74387,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-display-mini-tin-fr"
   },
   "16135765229912": {
-   "available": true,
+   "available": false,
    "price": 39.99,
    "title": "Pack Pokémon : 1 Mini Tin 30e Anniversaire + 1 Pack promotionnel de 2 boosters Zarude | FR",
    "url": "https://strikegames.shop/products/pack-pokemon-1-mini-tin-30e-anniversaire-1-pack-promotionnel-de-2-boosters-zarude-fr"
@@ -89336,7 +89342,7 @@
   },
   "15812623991132": {
    "available": true,
-   "price": 179.9,
+   "price": 159.9,
    "title": "Pokémon - Coffret Dresseur d'Élite ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   },
@@ -92396,13 +92402,13 @@
   },
   "15949313769820": {
    "available": true,
-   "price": 759.9,
+   "price": 699.9,
    "title": "Cyberpunk TCG - Carton de 6 displays : Welcome to Night City",
    "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-carton-de-6-displays-welcome-to-night-city-2"
   },
   "15949314687324": {
    "available": true,
-   "price": 129.9,
+   "price": 119.9,
    "title": "Cyberpunk TCG - Display de 24 boosters : Welcome to Night City",
    "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-display-de-24-boosters-welcome-to-night-city"
   },
@@ -92426,7 +92432,7 @@
   },
   "15949366853980": {
    "available": true,
-   "price": 179.9,
+   "price": 174.9,
    "title": "Cyberpunk TCG - [Master Pack] Set 1 : Welcome to Night City",
    "url": "https://tradingcardsxxx.fr/products/cyberpunk-tcg-master-pack-set-1-welcome-to-night-city-1"
   },
@@ -92443,14 +92449,14 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-premium-30e-anniversaire-me05-5-metamorph"
   },
   "15950035583324": {
-   "available": false,
+   "available": true,
    "price": 549.9,
    "title": "Pokémon - Collection Ultra Premium 30ᵉ Anniversaire ME05.5 Soirée : Noctali",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-ultra-premium-30ᵉ-anniversaire-me05-5-soiree-noctali"
   },
   "15950119403868": {
    "available": true,
-   "price": 239.9,
+   "price": 229.9,
    "title": "Pokémon - Display de 36 boosters ME06 : Règne Delta",
    "url": "https://tradingcardsxxx.fr/products/pokemon-display-de-36-boosters-me06-regne-delta"
   },
@@ -92462,7 +92468,7 @@
   },
   "15950218330460": {
    "available": true,
-   "price": 44.9,
+   "price": 39.9,
    "title": "Pokémon - Lot de 6 boosters ME06 : Règne Delta",
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me06-regne-delta"
   },
@@ -92480,7 +92486,7 @@
   },
   "15950351696220": {
    "available": true,
-   "price": 389.9,
+   "price": 364.9,
    "title": "Pokémon - [Master Pack] Méga Évolution ME06 : Règne Delta",
    "url": "https://tradingcardsxxx.fr/products/pokemon-master-pack-mega-evolution-me06-regne-delta"
   },
