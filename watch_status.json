@@ -544,7 +544,7 @@
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-greninja-ex-tin-espanol"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 18.0,
@@ -2155,5 +2155,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-22T00:18:06+00:00"
+ "updated": "2026-11-22T07:09:06+00:00"
 }
