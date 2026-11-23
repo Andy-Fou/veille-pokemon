@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 280.0,
+   "price": 279.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 280.0,
+   "price": 279.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -493,7 +493,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 79.0,
+   "price": 78.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -772,6 +772,15 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
+   "price": 19.99,
+   "shop": "Le Bordel Magique",
+   "title": "Funism poké ball Palmsize Wonders 4 first partner 30th",
+   "url": "https://lebordelmagique.com/products/funism-poke-ball-palmsize-wonders-4-first-partner-30th"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
    "price": 249.99,
    "shop": "Le Bordel Magique",
    "title": "Lot 1 : ETB 30th FR + 1 Coffret mid-Autumn Festival + 2 Coffret cadres + 1 Tin Trainer + 3 coffret 1st partners",
@@ -812,6 +821,15 @@
    "shop": "Le Bordel Magique",
    "title": "Lot 5 : ETB 30th / display EV9 / ETB ME03",
    "url": "https://lebordelmagique.com/products/lot-5-etb-30th-display-ev9-etb-me03"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 36.99,
+   "shop": "Le Bordel Magique",
+   "title": "Lot Pokémon : 1 Tripack Pokémon 30th FR + 1 1st Partner 3 CHN",
+   "url": "https://lebordelmagique.com/products/lot-pokemon-1-tripack-pokemon-30th-fr-1-1st-partner-3-chn"
   },
   {
    "available": false,
@@ -889,6 +907,15 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 65.0,
+   "shop": "Masterset",
+   "title": "[LIMITE 1] Pokémon - Coffret Collection Classeur - 30e Anniversaire",
+   "url": "https://masterset.store/products/pok-mon-coffret-collection-classeur-30e-anniversaire"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 30.0,
    "shop": "Masterset",
    "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Lucario",
@@ -916,10 +943,28 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 107.0,
+   "price": 112.0,
    "shop": "Masterset",
-   "title": "[Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire",
+   "title": "[Limite 1] Pokemon - ETB (Coffret dresseur d'élite) - 30e Anniversaire (+Acrylique)",
    "url": "https://masterset.store/products/pokemon-etb-coffret-dresseur-d-lite-30e-anniversaire"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 36.0,
+   "shop": "Masterset",
+   "title": "[Limite 1] Pokémon - Deck Combat - 30e Anniversaire Mentali-ex",
+   "url": "https://masterset.store/products/pok-mon-deck-combat-30e-anniversaire-mentali-ex"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 36.0,
+   "shop": "Masterset",
+   "title": "[Limite 1] Pokémon - Deck Combat - 30e Anniversaire Noctali-ex",
+   "url": "https://masterset.store/products/pok-mon-deck-combat-30e-anniversaire-noctali-ex"
   },
   {
    "available": false,
@@ -1795,7 +1840,7 @@
    "url": "https://www.pokemillon.com/products/pokemon-day-2026-collection"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 5.99,
@@ -1957,7 +2002,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-autocollant-reajustable-noadkoko-dalola-ou-lucario-1x-boite-aleatoire-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 44.99,
@@ -2101,7 +2146,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 89.9,
@@ -2137,7 +2182,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-figurine-30e-anniversaire-me05-5-mew"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 49.9,
@@ -2146,7 +2191,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-poster-30e-anniversaire-me05-5-artikodin-electhor-et-sulfura"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 399.9,
@@ -2173,10 +2218,10 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-decks-combat-30e-anniversaire-me05-5-mentali-et-noctali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 84.9,
+   "price": 69.9,
    "shop": "Trading Cards XXX",
    "title": "Pokémon - Lot de 6 boosters ME05.5 : 30e Anniversaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-6-boosters-me05-5-30e-anniversaire"
@@ -2218,5 +2263,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-23T10:34:15+00:00"
+ "updated": "2026-11-23T22:14:44+00:00"
 }
