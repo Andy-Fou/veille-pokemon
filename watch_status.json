@@ -745,10 +745,19 @@
    "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 94.99,
+   "price": 79.99,
    "shop": "Le Bordel Magique",
    "title": "Display Pokémon 30th  M6a CHN",
    "url": "https://lebordelmagique.com/products/display-pokemon-30th-m6a-chn"
+  },
+  {
+   "available": true,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 34.99,
+   "shop": "Le Bordel Magique",
+   "title": "Duopack 30th Mentali / Noctali CHN",
+   "url": "https://lebordelmagique.com/products/duopack-30th-mentali-noctali-chn"
   },
   {
    "available": false,
@@ -2209,5 +2218,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-23T01:51:30+00:00"
+ "updated": "2026-11-23T10:34:15+00:00"
 }
