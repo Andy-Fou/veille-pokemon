@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 279.0,
+   "price": 280.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 279.0,
+   "price": 280.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -146,6 +146,15 @@
    "shop": "Pokemillon",
    "title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-30th"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "watch",
+   "price": 499.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Collection Ultra Premium 30ᵉ Anniversaire ME05.5 Journée : Mentali",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-collection-ultra-premium-30ᵉ-anniversaire-me05-5-journee-mentali"
   },
   {
    "available": false,
@@ -493,7 +502,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 78.0,
+   "price": 79.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1903,7 +1912,7 @@
    "url": "https://www.relictcg.com/products/duplicate-soiree-anniversaire-pokemon-day-1"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 30.0,
@@ -2146,7 +2155,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 89.9,
@@ -2182,7 +2191,16 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-figurine-30e-anniversaire-me05-5-mew"
   },
   {
-   "available": true,
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 74.9,
+   "shop": "Trading Cards XXX",
+   "title": "Pokémon - Collection Figurine 30e Anniversaire ME05.5 : Mewtwo",
+   "url": "https://tradingcardsxxx.fr/products/pokemon-collection-figurine-30e-anniversaire-me05-5-mewtwo"
+  },
+  {
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 49.9,
@@ -2191,7 +2209,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-poster-30e-anniversaire-me05-5-artikodin-electhor-et-sulfura"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 399.9,
@@ -2263,5 +2281,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-24T06:11:05+00:00"
+ "updated": "2026-11-24T17:58:35+00:00"
 }
