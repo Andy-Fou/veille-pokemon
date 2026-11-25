@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 279.0,
+   "price": 280.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 279.0,
+   "price": 280.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -225,6 +225,15 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
+   "title": "Pokèmon - Collection Figurine Mewtwo - 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/260127-pokemon-collection-figurine-mewtwo-30e-anniversaire-46440"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Aux Trois Koalas",
    "title": "Pokémon - Bundle 6 Boosters 30e Anniversaire",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok260123-pokemon-bundle-6-boosters-30e-anniversaire-45947"
   },
@@ -243,8 +252,8 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
-   "title": "Pokémon - Collection Premium Métamorph - 30e Anniversaire",
-   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169870-pokemon-collection-premium-metamorph-30e-anniversaire-46135"
+   "title": "Pokémon - Collection Figurine Mew - 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169871-pokemon-collection-figurine-mew-30e-anniversaire-46136"
   },
   {
    "available": null,
@@ -252,8 +261,8 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
-   "title": "Pokémon - Collection avec Figurine Mew - 30e Anniversaire",
-   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169871-pokemon-collection-avec-figurine-mew-30e-anniversaire-46136"
+   "title": "Pokémon - Collection Premium Métamorph - 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169870-pokemon-collection-premium-metamorph-30e-anniversaire-46135"
   },
   {
    "available": null,
@@ -306,8 +315,8 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
-   "title": "Pokémon - Tripack Tech Sticker Box - 30ème Anniversaire - (Illustration Aléatoire)",
-   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok258862-pokemon-tripack-tech-sticker-box-30eme-anniversaire-illustration-aleatoire-46263"
+   "title": "Pokémon - Tripack Tech Sticker Box - 30e Anniversaire - (Illustration Aléatoire)",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok258862-pokemon-tripack-tech-sticker-box-30e-anniversaire-illustration-aleatoire-46263"
   },
   {
    "available": null,
@@ -511,7 +520,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 78.0,
+   "price": 79.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -1576,7 +1585,7 @@
    "price": 38.9,
    "shop": "Pokemillon",
    "title": "Blíster Exeggutor Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
-   "url": "https://www.pokemillon.com/products/blister-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
+   "url": "https://www.pokemillon.com/products/blister-30th-exeguttor"
   },
   {
    "available": true,
@@ -2308,5 +2317,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-25T11:29:42+00:00"
+ "updated": "2026-11-25T20:39:57+00:00"
 }
