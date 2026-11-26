@@ -1786,7 +1786,7 @@
   },
   "10177169064265": {
    "available": false,
-   "price": 151.0,
+   "price": 152.0,
    "title": "Magic The Gathering - The Hobbit Draft Night (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-the-hobbit-draft-night-ingles"
   },
@@ -1852,7 +1852,7 @@
   },
   "10234781204809": {
    "available": false,
-   "price": 358.0,
+   "price": 359.0,
    "title": "Pokémon TCG - Terastal Grand Gathering | Premium Box (Chino Simplificado)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-terastal-grand-gathering-premium-box-chino-simplificado"
   },
@@ -2152,7 +2152,7 @@
   },
   "10404565254473": {
    "available": true,
-   "price": 151.0,
+   "price": 152.0,
    "title": "Riftbound League of Legends - 1st Anniversary Gift Box (Chino)",
    "url": "https://www.jjcollection.es/products/riftbound-league-of-legends-1st-anniversary-gift-box-chino"
   },
@@ -2271,7 +2271,7 @@
    "url": "https://www.jjcollection.es/products/pokemon-tcg-sobre-emblistado-dominio-delta-espanol"
   },
   "10554038157641": {
-   "available": true,
+   "available": false,
    "price": 157.0,
    "title": "Dragon Ball Super Card Game - Booster Box Chromatic Ascension BT32 (Inglés)",
    "url": "https://www.jjcollection.es/products/dragon-ball-booster-box-chromatic-ascension-bt32-ingles"
@@ -2290,7 +2290,7 @@
   },
   "9751217537353": {
    "available": true,
-   "price": 19.0,
+   "price": 20.0,
    "title": "Ultra Pro - Carpeta PRO Binder 9 Bolsillos Charmander Pokémon",
    "url": "https://www.jjcollection.es/products/carpeta-pro-binder-9-bolsillos-charmander-pokemon-ultra-pro"
   },
@@ -2452,7 +2452,7 @@
   },
   "9788790800713": {
    "available": true,
-   "price": 22.37,
+   "price": 22.38,
    "title": "JJ COLLECTION - GIFT CARD",
    "url": "https://www.jjcollection.es/products/jj-collection-gift-card"
   },
@@ -2710,7 +2710,7 @@
   },
   "9925735448905": {
    "available": true,
-   "price": 151.0,
+   "price": 152.0,
    "title": "Magic The Gathering - Play Booster Box Lorwyn Eclipsado (Español)",
    "url": "https://www.jjcollection.es/products/caja-de-sobres-30-lorwyn-mtg-espanol"
   },
@@ -2831,7 +2831,7 @@
    "url": "https://kairyu.fr/products/scelle-tripack-ev08-5-evolutions-prismatiques-fr"
   },
   "15033510461775": {
-   "available": true,
+   "available": false,
    "price": 89.9,
    "title": "[SCELLE] Lot de 4 Mini Tins Evolutions Prismatiques [FR]",
    "url": "https://kairyu.fr/products/scelle-lot-de-5-mini-tins-destinees-de-paldea-fr-copie"
@@ -6899,7 +6899,7 @@
    "url": "https://kairyu.fr/products/092-128-noctali-ex"
   },
   "16423318225231": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "129/128 Noadkoko d'Alola",
    "url": "https://kairyu.fr/products/129-128-noadkoko-dalola"
@@ -6911,7 +6911,7 @@
    "url": "https://kairyu.fr/products/130-128-sulfura"
   },
   "16423318421839": {
-   "available": true,
+   "available": false,
    "price": 7.9,
    "title": "131/128 Lokhlass",
    "url": "https://kairyu.fr/products/131-128-lokhlass"
@@ -6923,13 +6923,13 @@
    "url": "https://kairyu.fr/products/132-128-artikodin"
   },
   "16423320224079": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "133/128 Électhor",
    "url": "https://kairyu.fr/products/133-128-electhor"
   },
   "16423320518991": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "136/128 Baudrive",
    "url": "https://kairyu.fr/products/136-128-baudrive"
@@ -6977,7 +6977,7 @@
    "url": "https://kairyu.fr/products/144-128-miaouss"
   },
   "16423321502031": {
-   "available": true,
+   "available": false,
    "price": 6.9,
    "title": "145/128 Zorua de Hisui",
    "url": "https://kairyu.fr/products/145-128-zorua-de-hisui"
@@ -7283,7 +7283,7 @@
    "url": "https://kairyu.fr/products/grade-psa-9-130-094-mega-dracaufeu-x-ex"
   },
   "16461350273359": {
-   "available": true,
+   "available": false,
    "price": 219.9,
    "title": "[GRADE] [PSA 9] 295/217 Méga-Dracolosse ex",
    "url": "https://kairyu.fr/products/grade-psa-9-295-217-mega-dracolosse-ex"
@@ -16439,7 +16439,7 @@
    "url": "https://kairyu.fr/products/176-165-tetarte-1"
   },
   "8711679639887": {
-   "available": true,
+   "available": false,
    "price": 25.9,
    "title": "177/165 Machopeur",
    "url": "https://kairyu.fr/products/177-165-machopeur"
@@ -16523,7 +16523,7 @@
    "url": "https://kairyu.fr/products/191-165-lippoutou-ex-2"
   },
   "8711693959503": {
-   "available": true,
+   "available": false,
    "price": 15.9,
    "title": "192/165 Electhor ex",
    "url": "https://kairyu.fr/products/192-165-electhor-ex"
@@ -16535,7 +16535,7 @@
    "url": "https://kairyu.fr/products/193-165-mew-ex"
   },
   "8711695499599": {
-   "available": true,
+   "available": false,
    "price": 5.9,
    "title": "194/165 Transfert de Léo",
    "url": "https://kairyu.fr/products/194-165-transfert-de-leo"
@@ -16565,7 +16565,7 @@
    "url": "https://kairyu.fr/products/204-165-charisme-de-giovanni"
   },
   "8711704445263": {
-   "available": true,
+   "available": false,
    "price": 26.9,
    "title": "205/165 Mew ex",
    "url": "https://kairyu.fr/products/205-165-mew-ex-1"
@@ -16583,7 +16583,7 @@
    "url": "https://kairyu.fr/products/207-165-energie-psy-de-base"
   },
   "8719849259343": {
-   "available": true,
+   "available": false,
    "price": 149.9,
    "title": "[SCELLE] Coffret Pikachu VMax [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-pikachu-vmax-fr"
@@ -20209,7 +20209,7 @@
    "url": "https://lebordelmagique.com/products/valisette-pokemon-coffret-de-collection-2025"
   },
   "16000626753881": {
-   "available": true,
+   "available": false,
    "price": 18.99,
    "title": "Pokeball 2025 Q4",
    "url": "https://lebordelmagique.com/products/pokeball-2025-q4"
@@ -34031,7 +34031,7 @@
    "url": "https://metamorphcenter.com/products/sobre-mega-symphonia-coreano"
   },
   "10461493428566": {
-   "available": false,
+   "available": true,
    "price": 2.5,
    "title": "Sobre Super Electric Breaker - Coreano",
    "url": "https://metamorphcenter.com/products/sobre-super-electric-breaker-coreano"
@@ -35802,7 +35802,7 @@
   },
   "11420278980950": {
    "available": true,
-   "price": 109.95,
+   "price": 105.95,
    "title": "Caja EB05 Heroines Edition vol.2 - Japonés",
    "url": "https://metamorphcenter.com/products/caja-eb05-heroines-edition-vol-2-japones"
   },
@@ -36035,7 +36035,7 @@
    "url": "https://metamorphcenter.com/products/danada-etb-dominio-delta-espanol"
   },
   "11474108612950": {
-   "available": true,
+   "available": false,
    "price": 19.95,
    "title": "Blíster 3 Sobres Dominio Delta - Español",
    "url": "https://metamorphcenter.com/products/blister-3-sobres-dominio-delta-espanol"
@@ -52159,7 +52159,7 @@
    "url": "https://www.pokemillon.com/products/blister-30th-exeguttor"
   },
   "15362837283139": {
-   "available": true,
+   "available": false,
    "price": 39.9,
    "title": "Blíster Lucario Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
    "url": "https://www.pokemillon.com/products/blister-lucario-30th"
@@ -53593,7 +53593,7 @@
    "url": "https://www.pokemillon.com/products/lata-slaking-whammy"
   },
   "15397493997891": {
-   "available": false,
+   "available": true,
    "price": 32.9,
    "title": "Lata Tyranitar Whammy Tins 2024",
    "url": "https://www.pokemillon.com/products/lata-tyranitar"
@@ -55225,7 +55225,7 @@
    "url": "https://www.pokemillon.com/products/topps-value-box-topps-nfl-heritage-2026"
   },
   "15464528642371": {
-   "available": false,
+   "available": true,
    "price": 69.99,
    "title": "Caja 30 Sobres Aura Seeker m7",
    "url": "https://www.pokemillon.com/products/caja-30-sobres-aura-seeker-m7"
@@ -56249,6 +56249,12 @@
    "price": 4.99,
    "title": "Kayou K-Pop Sobre Demon Hunters Energy Edition",
    "url": "https://www.pokemillon.com/products/kayou-k-pop-sobre-demon-hunters-energy-edition"
+  },
+  "15497968353603": {
+   "available": true,
+   "price": 29.9,
+   "title": "Reshiram & Charizard-GX PremiumCollection (copia)",
+   "url": "https://www.pokemillon.com/products/reshiram-charizard-gx-premiumcollection-copia"
   },
   "7430823411958": {
    "available": false,
@@ -58951,7 +58957,7 @@
    "url": "https://www.pokemillon.com/products/ultra-terapagos"
   },
   "9462537683267": {
-   "available": true,
+   "available": false,
    "price": 89.9,
    "title": "Super Premium Collection Charizard ex Figure",
    "url": "https://www.pokemillon.com/products/super-premium-collection-charizard-ex"
@@ -65397,8 +65403,8 @@
    "url": "https://www.relictcg.com/products/mega-dracaufeu-x-sar-ex-125-094-me02-ccc-9-5-fr"
   },
   "16093522264409": {
-   "available": false,
-   "price": 250.0,
+   "available": true,
+   "price": 200.0,
    "title": "Dracaufeu 3/132 - D&P Merveilles Secrètes- PCA 8 - FR",
    "url": "https://www.relictcg.com/products/dracaufeu-3-132-d-p-merveilles-secretes-pca-8-fr"
   },
@@ -66832,13 +66838,13 @@
   },
   "16279183491417": {
    "available": false,
-   "price": 450.0,
+   "price": 280.0,
    "title": "Dracaufeu 4/102 - Célébrations 25 ans - PCA 9 - FR",
    "url": "https://www.relictcg.com/products/dracaufeu-4-102-celebrations-25-ans-pca-9-fr"
   },
   "16279225106777": {
    "available": true,
-   "price": 180.0,
+   "price": 85.0,
    "title": "Salamèche AR 168/165 - 151 - EV3.5 - PCA 9.5 - FR",
    "url": "https://www.relictcg.com/products/salameche-ar-168-165-151-ev3-5-pca-9-5-fr"
   },
@@ -66856,7 +66862,7 @@
   },
   "16284700311897": {
    "available": true,
-   "price": 55.0,
+   "price": 20.0,
    "title": "Mentali EX 52/122 - XY Rupture Turbo - Akatsu Grading 8 - FR",
    "url": "https://www.relictcg.com/products/mentali-ex-52-122-xy-rupture-turbo-akatsu-grading-8-fr"
   },
@@ -66885,13 +66891,13 @@
    "url": "https://www.relictcg.com/products/duplicate-0205-multi-commander-nights-1"
   },
   "16287635734873": {
-   "available": true,
+   "available": null,
    "price": 150.0,
    "title": "Skyla FA - 076/070 SR BW7 - Plasma Gale - PSA 6 - KRN",
    "url": "https://www.relictcg.com/products/skyla-fa-076-070-sr-bw7-plasma-gale-psa-6-krn"
   },
   "16287693046105": {
-   "available": true,
+   "available": null,
    "price": 200.0,
    "title": "Korinna FA - 102/096 SR XY3 - Rising Fist - PSA 8 - KRN",
    "url": "https://www.relictcg.com/products/korinna-fa-102-096-sr-xy3-rising-fist-psa-8-krn"
@@ -67960,31 +67966,31 @@
   },
   "16405319123289": {
    "available": false,
-   "price": 320.0,
+   "price": 260.0,
    "title": "Mega-Lucario ex GOLD - Mega-Evolution 188/132 - PCA 9.5 - FR",
    "url": "https://www.relictcg.com/products/mega-lucario-ex-fa-pca-9-5-46005242"
   },
   "16405319319897": {
    "available": true,
-   "price": 180.0,
+   "price": 90.0,
    "title": "Alakazam ex -151 201/165 - PCA 9.5 - FR",
    "url": "https://www.relictcg.com/products/alakazam-ex-fa-pca-9-5-40644499"
   },
   "16405319483737": {
    "available": false,
-   "price": 520.0,
+   "price": 400.0,
    "title": "Dracaufeu V - La Voie du Maitre 079/073 - PCA 9.5 - FR",
    "url": "https://www.relictcg.com/products/dracaufeu-v-fa-pca-9-5-28050933"
   },
   "16405319811417": {
    "available": true,
-   "price": 200.0,
+   "price": 170.0,
    "title": "Dracolosse EX - XY Evolutions 106/108 - PCA 9 - FR",
    "url": "https://www.relictcg.com/products/dracolosse-ex-fa-pca-9-78026599"
   },
   "16405320040793": {
    "available": true,
-   "price": 95.0,
+   "price": 80.0,
    "title": "Mew EX - Dragons Exaltes 46/124 - PCA 8 - FR",
    "url": "https://www.relictcg.com/products/mew-ex-pca-8-63739010"
   },
@@ -68002,7 +68008,7 @@
   },
   "16405320663385": {
    "available": true,
-   "price": 100.0,
+   "price": 65.0,
    "title": "Noctali ex FA - Promo E&V 176 - PCA 10 - FR",
    "url": "https://www.relictcg.com/products/noctali-ex-fa-pca-10-79020924"
   },
@@ -68301,8 +68307,8 @@
    "url": "https://www.relictcg.com/products/dracaufeu-sr-star-birth-s9-103-100-bgs-10-black-label-jpn"
   },
   "16447536071001": {
-   "available": false,
-   "price": 410.0,
+   "available": true,
+   "price": 200.0,
    "title": "Mew VMAX - Poing de Fusion 269/264 - AP GRADING 9 - FR",
    "url": "https://www.relictcg.com/products/mew-vmax-poing-de-fusion-269-264-ap-grading-9-fr"
   },
@@ -68986,7 +68992,7 @@
   },
   "16487852343641": {
    "available": false,
-   "price": 250.0,
+   "price": 200.0,
    "title": "Tyranocif V FA  - 155/163 - EB 5 Styles de Combat - PCA 9.5 - FR",
    "url": "https://www.relictcg.com/products/tyranocif-v-fa-155-163-eb-5-styles-de-combat-pca-9-5-fr"
   },
@@ -70377,7 +70383,7 @@
    "url": "https://www.relictcg.com/products/duplicate-0809-armory-silver-age-7"
   },
   "16771380969817": {
-   "available": false,
+   "available": true,
    "price": 0.0,
    "title": "02/12 Silver Age - 2 Dec 2026",
    "url": "https://www.relictcg.com/products/duplicate-0508-silver-age-4"
@@ -85957,7 +85963,7 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-impulsion-dominus-of-star-blgg-fr146"
   },
   "15612149465436": {
-   "available": false,
+   "available": true,
    "price": 199.9,
    "title": "One Piece - Display 24 boosters OP16 : L'Heure de la Bataille Décisive",
    "url": "https://tradingcardsxxx.fr/products/one-piece-display-24-boosters-op16-lheure-de-la-bataille-decisive"
@@ -90055,7 +90061,7 @@
    "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-la-quete-des-merveilles-le-livre-de-lore"
   },
   "15797448048988": {
-   "available": true,
+   "available": false,
    "price": 5.5,
    "title": "KMC - 60 Sleeves SMALL Hyper Mat MINI : Blanc",
    "url": "https://tradingcardsxxx.fr/products/kmc-60-sleeves-small-hyper-mat-mini-blanc"
@@ -93205,7 +93211,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-figurine-30e-anniversaire-me05-5-mew"
   },
   "15949995245916": {
-   "available": true,
+   "available": false,
    "price": 89.9,
    "title": "Pokémon - Coffret Collection Premium 30e Anniversaire ME05.5 : Métamorph",
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-collection-premium-30e-anniversaire-me05-5-metamorph"
@@ -95983,7 +95989,7 @@
    "url": "https://tradingcardsxxx.fr/products/one-piece-double-pack-set-dp13-op18-la-domination-de-dieu"
   },
   "16010846273884": {
-   "available": false,
+   "available": true,
    "price": 74.9,
    "title": "Pokémon - Collection Figurine 30e Anniversaire ME05.5 : Mewtwo",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-figurine-30e-anniversaire-me05-5-mewtwo"
