@@ -961,7 +961,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 29.0,
+   "price": 30.0,
    "shop": "Masterset",
    "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Lucario",
    "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-lucario"
@@ -970,7 +970,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 29.0,
+   "price": 30.0,
    "shop": "Masterset",
    "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Noadkoko d’Alola",
    "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-noadkoko-d-alola"
@@ -1033,7 +1033,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 78.0,
+   "price": 79.0,
    "shop": "Masterset",
    "title": "[PRECOMMANDE] Vanguard [EN]- Boîte de 10 Boosters Premium- VGE-DZ-TBP02 - Persona 30th Anniversary",
    "url": "https://masterset.store/products/vanguard-en-bo-te-de-10-boosters-premium-vge-dz-tbp02-persona-30th-anniversary"
@@ -1579,7 +1579,7 @@
    "url": "https://www.pokemillon.com/products/blister-2-sobres-30th"
   },
   {
-   "available": true,
+   "available": false,
    "country": "ES",
    "kind": "anniv",
    "price": 38.9,
@@ -1594,7 +1594,7 @@
    "price": 39.9,
    "shop": "Pokemillon",
    "title": "Blíster Lucario Tech Sticker Celebraciones 30 Aniversario | Celebrations 30th",
-   "url": "https://www.pokemillon.com/products/blister-lucario-tech-sticker-celebraciones-30-aniversario-celebrations-30th"
+   "url": "https://www.pokemillon.com/products/blister-lucario-30th"
   },
   {
    "available": false,
@@ -1696,7 +1696,7 @@
    "url": "https://www.pokemillon.com/products/case-6-first-partner-series-3-primer-companero-30-aniversario-espanol"
   },
   {
-   "available": false,
+   "available": true,
    "country": "ES",
    "kind": "anniv",
    "price": 99.9,
@@ -2317,5 +2317,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-25T20:39:57+00:00"
+ "updated": "2026-11-26T03:10:54+00:00"
 }
