@@ -398,6 +398,12 @@
    "title": "Pokémon - Booster (Aléatoire)- ME05 Nuit Noire",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/bme05-pokemon-booster-aleatoire-me05-nuit-noire-45905"
   },
+  "45907": {
+   "available": null,
+   "price": null,
+   "title": "Pokémon - Duopack 30e Anniversaire Évoli",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169044-pokemon-duopack-30e-anniversaire-evoli-45907"
+  },
   "45947": {
    "available": null,
    "price": null,
@@ -1959,7 +1965,7 @@
    "url": "https://www.jjcollection.es/products/pokemon-tcg-elite-trainer-box-30th-celebration-ingles"
   },
   "10338196488521": {
-   "available": false,
+   "available": true,
    "price": 45.0,
    "title": "Pokémon TCG - Booster Bundle 30th Celebration (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-bundle-30th-celebration-ingles-espanol"
@@ -2697,7 +2703,7 @@
    "url": "https://www.jjcollection.es/products/pokemon-tcg-booster-bundle-fulgor-negro-espanol"
   },
   "9923522134345": {
-   "available": true,
+   "available": false,
    "price": 196.0,
    "title": "Magic The Gathering - Play Booster Box Final Fantasy (Inglés)",
    "url": "https://www.jjcollection.es/products/magic-the-gathering-play-booster-box-final-fantasy-ingles"
@@ -2892,7 +2898,7 @@
   },
   "15301632033103": {
    "available": true,
-   "price": 69.9,
+   "price": 64.9,
    "title": "[SCELLE] Coffret Accessoire Evolutions Prismatiques [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-accessoire-evolutions-prismatiques-fr"
   },
@@ -2944,6 +2950,12 @@
    "title": "[SCELLE] Coffret Premium Carchacrok ex de Cynthia [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-premium-carchacrok-ex-de-cynthia-fr"
   },
+  "15423983911247": {
+   "available": true,
+   "price": 24.9,
+   "title": "[SCELLE] Deck de Combat Battle [FR]",
+   "url": "https://kairyu.fr/products/scelle-deck-combat-zeraora-v-vs-deoxys-v-fr-copie"
+  },
   "15471824109903": {
    "available": false,
    "price": 109.9,
@@ -2969,8 +2981,8 @@
    "url": "https://kairyu.fr/products/scelle-coffret-portfolio-5-boosters-foudre-noire-fr"
   },
   "15471881224527": {
-   "available": false,
-   "price": 59.9,
+   "available": true,
+   "price": 54.9,
    "title": "[SCELLE] Coffret Victini [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-victini-fr"
   },
@@ -3299,7 +3311,7 @@
    "url": "https://kairyu.fr/products/185-182-shaymin-copie"
   },
   "15562955161935": {
-   "available": true,
+   "available": false,
    "price": 4.9,
    "title": "187/182 Filentrappe de la Team Rocket",
    "url": "https://kairyu.fr/products/186-182-crabaraque-copie"
@@ -3311,7 +3323,7 @@
    "url": "https://kairyu.fr/products/187-182-filentrappe-de-la-team-rocket-copie"
   },
   "15562957652303": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "189/182 Galopa",
    "url": "https://kairyu.fr/products/188-182-pomdorochi-copie"
@@ -3359,13 +3371,13 @@
    "url": "https://kairyu.fr/products/198-182-astronelle-de-la-team-rocket-copie"
   },
   "15562967974223": {
-   "available": true,
+   "available": false,
    "price": 4.9,
    "title": "201/182 Zamazenta",
    "url": "https://kairyu.fr/products/200-182-cornebre-de-la-team-rocket-copie"
   },
   "15562969317711": {
-   "available": true,
+   "available": false,
    "price": 6.9,
    "title": "202/182 Rattatac de la Team Rocket",
    "url": "https://kairyu.fr/products/201-182-zamazenta-copie"
@@ -3377,7 +3389,7 @@
    "url": "https://kairyu.fr/products/202-182-rattatac-de-la-team-rocket-copie"
   },
   "15562970759503": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "204/182 Kangourex",
    "url": "https://kairyu.fr/products/203-182-miaouss-de-la-team-rocket-copie"
@@ -3407,19 +3419,19 @@
    "url": "https://kairyu.fr/products/207-182-arboliva-ex-copie"
   },
   "15562976985423": {
-   "available": true,
+   "available": false,
    "price": 6.9,
    "title": "209/182 Ho-Oh ex de Luth",
    "url": "https://kairyu.fr/products/208-182-sulfura-ex-de-la-team-rocket-copie"
   },
   "15562977706319": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "210/182 Balbalèze ex",
    "url": "https://kairyu.fr/products/209-182-ho-oh-ex-de-luth-copie"
   },
   "15562978722127": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "211/182 Oyacata ex",
    "url": "https://kairyu.fr/products/210-182-balbaleze-ex-copie"
@@ -3455,13 +3467,13 @@
    "url": "https://kairyu.fr/products/215-182-carchacrok-ex-de-cynthia-copie"
   },
   "15562985341263": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "217/182 Nostenfer ex de la Team Rocket",
    "url": "https://kairyu.fr/products/216-182-nidoking-ex-de-la-team-rocket-copie"
   },
   "15562985898319": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "218/182 Dogrino ex de Pepper",
    "url": "https://kairyu.fr/products/217-182-nostenfer-ex-de-la-team-rocket-copie"
@@ -3593,7 +3605,7 @@
    "url": "https://kairyu.fr/products/091-086-chlorobule-copie"
   },
   "15563528208719": {
-   "available": true,
+   "available": false,
    "price": 6.9,
    "title": "093/086 Maracachi",
    "url": "https://kairyu.fr/products/092-086-fragilady-copie"
@@ -3623,7 +3635,7 @@
    "url": "https://kairyu.fr/products/097-086-darumarond-copie"
   },
   "15563537547599": {
-   "available": true,
+   "available": false,
    "price": 14.9,
    "title": "099/086 Pyronille",
    "url": "https://kairyu.fr/products/098-086-darumacho-copie"
@@ -3785,7 +3797,7 @@
    "url": "https://kairyu.fr/products/155-086-gueriaigle-copie"
   },
   "15563632804175": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "157/086 Kyurem ex",
    "url": "https://kairyu.fr/products/156-086-majaspic-ex-copie"
@@ -4523,7 +4535,7 @@
    "url": "https://kairyu.fr/products/184-132-determination-de-lilie-copie"
   },
   "15920556474703": {
-   "available": true,
+   "available": false,
    "price": 124.9,
    "title": "180/132 Méga-Absol ex",
    "url": "https://kairyu.fr/products/179-132-mega-lucario-ex-copie-1"
@@ -5447,7 +5459,7 @@
    "url": "https://kairyu.fr/products/artset-boosters-blister-sl11-harmonie-des-esprits-fr"
   },
   "16108602065231": {
-   "available": false,
+   "available": true,
    "price": 69.9,
    "title": "[SCELLE] Lot de 5 Mini tins - Illumis [FR]",
    "url": "https://kairyu.fr/products/scelle-lot-de-5-mini-tins-illumis-fr"
@@ -5999,7 +6011,7 @@
    "url": "https://kairyu.fr/products/scelle-demi-display-eb09-stars-etincelantes-fr"
   },
   "16240462266703": {
-   "available": true,
+   "available": false,
    "price": 119.9,
    "title": "[SCELLE] Demi Display ME04 - Chaos Ascendant [FR]",
    "url": "https://kairyu.fr/products/scelle-demi-display-me04-chaos-ascendant-fr"
@@ -6095,7 +6107,7 @@
    "url": "https://kairyu.fr/products/085-084-mimantis-copie"
   },
   "16247569187151": {
-   "available": true,
+   "available": false,
    "price": 7.9,
    "title": "087/084 Poissirène",
    "url": "https://kairyu.fr/products/086-084-carmadura-copie"
@@ -6815,13 +6827,13 @@
    "url": "https://kairyu.fr/products/scelle-duopack-blister-octobre-2026-me04-me05-fr"
   },
   "16389941264719": {
-   "available": false,
-   "price": 239.9,
+   "available": true,
+   "price": 259.9,
    "title": "[SCELLE] Display ME06 - Règne Delta [FR]",
    "url": "https://kairyu.fr/products/scelle-display-me06-regne-delta-fr"
   },
   "16389953618255": {
-   "available": false,
+   "available": true,
    "price": 74.9,
    "title": "[SCELLE] Elite Trainer Box ME06 - Règne Delta [FR]",
    "url": "https://kairyu.fr/products/scelle-elite-trainer-box-me06-regne-delta-fr"
@@ -6834,7 +6846,7 @@
   },
   "16389965480271": {
    "available": true,
-   "price": 49.9,
+   "price": 44.9,
    "title": "[SCELLE] Bundle ME06 - Règne Delta [FR]",
    "url": "https://kairyu.fr/products/scelle-bundle-me06-regne-delta-fr"
   },
@@ -6917,7 +6929,7 @@
    "url": "https://kairyu.fr/products/131-128-lokhlass"
   },
   "16423320125775": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "132/128 Artikodin",
    "url": "https://kairyu.fr/products/132-128-artikodin"
@@ -6935,7 +6947,7 @@
    "url": "https://kairyu.fr/products/136-128-baudrive"
   },
   "16423320617295": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "137/128 Lugulabre",
    "url": "https://kairyu.fr/products/137-128-lugulabre"
@@ -7515,6 +7527,12 @@
    "price": 549.9,
    "title": "[MASTER SET] Master Set - ME04 - Chaos Ascendant [FR]",
    "url": "https://kairyu.fr/products/master-set-master-set-me04-chaos-ascendant-fr"
+  },
+  "16501984133455": {
+   "available": true,
+   "price": 24.9,
+   "title": "[SCELLE] Coffret Exagide ex [FR]",
+   "url": "https://kairyu.fr/products/scelle-coffret-exagide-ex-fr"
   },
   "16503926686031": {
    "available": true,
@@ -9701,7 +9719,7 @@
    "url": "https://kairyu.fr/products/012-025-rockets-admin"
   },
   "7877404754179": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "011/025 Mew",
    "url": "https://kairyu.fr/products/011-025-mew"
@@ -10043,7 +10061,7 @@
    "url": "https://kairyu.fr/products/202-203-roy"
   },
   "7877518131459": {
-   "available": true,
+   "available": false,
    "price": 2.9,
    "title": "SWSH132 Lanssorien",
    "url": "https://kairyu.fr/products/swsh132-lanssorien"
@@ -11987,7 +12005,7 @@
    "url": "https://kairyu.fr/products/tg05-tg30-pikachu"
   },
   "7881753690371": {
-   "available": true,
+   "available": false,
    "price": 9.9,
    "title": "203/196 Zoroark de Hisui-VSTAR",
    "url": "https://kairyu.fr/products/203-196-zoroark-de-hisui-vstar"
@@ -15725,13 +15743,13 @@
    "url": "https://kairyu.fr/products/250-198-jacq"
   },
   "8355722461519": {
-   "available": true,
+   "available": false,
    "price": 7.9,
    "title": "253/198 Miraidon",
    "url": "https://kairyu.fr/products/253-198-miraidon-ex"
   },
   "8355722625359": {
-   "available": true,
+   "available": false,
    "price": 8.9,
    "title": "254/198 Koraidon EX",
    "url": "https://kairyu.fr/products/254-198-koraidon-ex"
@@ -16049,7 +16067,7 @@
    "url": "https://kairyu.fr/products/235-193-palmaval-ex"
   },
   "8635714601295": {
-   "available": true,
+   "available": false,
    "price": 3.9,
    "title": "236/193 Baojian ex",
    "url": "https://kairyu.fr/products/236-193-baojian-ex"
@@ -16169,7 +16187,7 @@
    "url": "https://kairyu.fr/products/272-193-flamigator-ex"
   },
   "8635728462159": {
-   "available": true,
+   "available": false,
    "price": 5.9,
    "title": "273/193 Palmaval ex",
    "url": "https://kairyu.fr/products/273-193-palmaval-ex"
@@ -16583,7 +16601,7 @@
    "url": "https://kairyu.fr/products/207-165-energie-psy-de-base"
   },
   "8719849259343": {
-   "available": false,
+   "available": true,
    "price": 149.9,
    "title": "[SCELLE] Coffret Pikachu VMax [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-pikachu-vmax-fr"
@@ -18318,7 +18336,7 @@
   },
   "9327308833103": {
    "available": true,
-   "price": 59.9,
+   "price": 64.9,
    "title": "[SCELLE] Coffret Premium EV06.5 - Fable Nébuleuse [FR]",
    "url": "https://kairyu.fr/products/scelle-coffret-premium-ev06-5-fr"
   },
@@ -19855,7 +19873,7 @@
    "url": "https://lebordelmagique.com/products/display-saint-seiya-wave-4"
   },
   "15659388797273": {
-   "available": true,
+   "available": false,
    "price": 19.99,
    "title": "Labubu Big Into Energy",
    "url": "https://lebordelmagique.com/products/labubu-big-into-energy"
@@ -20527,7 +20545,7 @@
    "url": "https://lebordelmagique.com/products/funism-poke-ball-palmsize-wonders-2"
   },
   "16220406579545": {
-   "available": false,
+   "available": true,
    "price": 5.99,
    "title": "FUNISM Poké ball Palmsize Wonders 3",
    "url": "https://lebordelmagique.com/products/funism-poke-ball-palmsize-wonders-3"
@@ -21301,7 +21319,7 @@
    "url": "https://lebordelmagique.com/products/pop-mart-pokemon-choose-your-partner"
   },
   "16832866386265": {
-   "available": true,
+   "available": false,
    "price": 19.99,
    "title": "Labubu Have a Seat",
    "url": "https://lebordelmagique.com/products/labubu-have-a-seat"
@@ -21323,6 +21341,24 @@
    "price": 14.99,
    "title": "Pop Mart Digimon Adventure Fridge Magnet Series",
    "url": "https://lebordelmagique.com/products/pop-mart-digimon-adventure-fridge-magnet-series"
+  },
+  "16839577567577": {
+   "available": true,
+   "price": 34.99,
+   "title": "KaBao Golden Wind Série",
+   "url": "https://lebordelmagique.com/products/kabao-golden-wind-collectible-cards-series-2"
+  },
+  "16839614726489": {
+   "available": true,
+   "price": 29.99,
+   "title": "Display KaBao Dragon Ball Z Polaroid Series 1 V10",
+   "url": "https://lebordelmagique.com/products/kabao-dragon-ball-z"
+  },
+  "16840295022937": {
+   "available": true,
+   "price": 49.99,
+   "title": "Display Pokémon GEM Pack Vol 7",
+   "url": "https://lebordelmagique.com/products/display-pokemon-gem-pack-vol-7"
   },
   "8373591376217": {
    "available": false,
@@ -33593,7 +33629,7 @@
    "url": "https://metamorphcenter.com/products/vaultx-exo-tec-zip-binder-4-pockets-album-premium-160-cartas-con-cremallera-negro"
   },
   "10242386788694": {
-   "available": true,
+   "available": false,
    "price": 82.95,
    "title": "Caja OP15 Adventure on Kami's Island - Japonés",
    "url": "https://metamorphcenter.com/products/caja-op15-adventure-on-kamis-island-japones"
@@ -35909,7 +35945,7 @@
    "url": "https://metamorphcenter.com/products/caja-cyberpunk-tcg-welcome-to-night-city-ingles"
   },
   "11472234578262": {
-   "available": true,
+   "available": false,
    "price": 85.95,
    "title": "[ RESERVA ] Caja Aura Seeker M7 - Japonés",
    "url": "https://metamorphcenter.com/products/caja-aura-seeker-pokemon-japones"
@@ -35999,7 +36035,7 @@
    "url": "https://metamorphcenter.com/products/sobre-30th-celebration-pokemon-chino"
   },
   "11474094227798": {
-   "available": true,
+   "available": false,
    "price": 4.5,
    "title": "Sobre Storm Emeralda M6 - Japonés",
    "url": "https://metamorphcenter.com/products/sobre-storm-emeralda-pokemon-japones"
@@ -36485,7 +36521,7 @@
    "url": "https://metamorphcenter.com/products/caja-entrenador-brecha-paradojica-sv4-espanol"
   },
   "9716231110998": {
-   "available": true,
+   "available": false,
    "price": 224.95,
    "title": "Caja Evoluciones en Paldea - Español",
    "url": "https://metamorphcenter.com/products/caja-evoluciones-de-paldea-en-espanol"
@@ -48662,8 +48698,8 @@
   },
   "15265696383299": {
    "available": true,
-   "price": 69.95,
-   "title": "Bundle Celebraciones 30 Aniversario | Celebrations 30th",
+   "price": 79.9,
+   "title": "Bundle Celebraciones 30 Aniversario | Celebrations 30th (6 Sobres)",
    "url": "https://www.pokemillon.com/products/bundle-30th-anniversary"
   },
   "15265699594563": {
@@ -53377,7 +53413,7 @@
    "url": "https://www.pokemillon.com/products/yugioh-legendary-collection-arc-v-decks"
   },
   "15391792628035": {
-   "available": true,
+   "available": false,
    "price": 37.9,
    "title": "Panini Liga Este 2026/27 - Caja 50 sobres",
    "url": "https://www.pokemillon.com/products/panini-liga-este-2026-27-caja-50-sobres"
@@ -53845,7 +53881,7 @@
    "url": "https://www.pokemillon.com/products/yugioh-caja-sobres-duel-monsters-utility-selection"
   },
   "15399689847107": {
-   "available": true,
+   "available": false,
    "price": 59.9,
    "title": "YuGiOh! | Caja Sobres Photon Hypernova Booster Box",
    "url": "https://www.pokemillon.com/products/yugioh-caja-sobres-photon-hypernova-booster-box"
@@ -55873,7 +55909,7 @@
    "url": "https://www.pokemillon.com/products/one-piece-rumbo-a-egghead-caja-50-sobres"
   },
   "15491212640579": {
-   "available": true,
+   "available": false,
    "price": 49.99,
    "title": "Caja 18 Sobres Gem Pack Vol. 7 Booster Box",
    "url": "https://www.pokemillon.com/products/gem-pack-vol-7"
@@ -56256,6 +56292,12 @@
    "title": "Reshiram & Charizard-GX PremiumCollection (copia)",
    "url": "https://www.pokemillon.com/products/reshiram-charizard-gx-premiumcollection-copia"
   },
+  "15498237935939": {
+   "available": true,
+   "price": 4.9,
+   "title": "Caja Pokémon McDonald's Happy Meal 2026 M26",
+   "url": "https://www.pokemillon.com/products/caja-pokemon-mcdonalds-2026"
+  },
   "7430823411958": {
    "available": false,
    "price": 36.95,
@@ -56605,7 +56647,7 @@
    "url": "https://www.pokemillon.com/products/cantidad-personalizada"
   },
   "7592611250422": {
-   "available": true,
+   "available": false,
    "price": 16.95,
    "title": "Sobre Promo 25th Celebrations",
    "url": "https://www.pokemillon.com/products/sobre-promo-25th-celebrations"
@@ -58369,7 +58411,7 @@
    "url": "https://www.pokemillon.com/products/armarouge-ex"
   },
   "9125072011587": {
-   "available": true,
+   "available": false,
    "price": 15.9,
    "title": "Blíster 3 Sobres Fuerzas Temporales | Temporal Forces",
    "url": "https://www.pokemillon.com/products/blister-3-sobres-temporal-forces"
@@ -62630,6 +62672,12 @@
    "title": "Nigosier - 226/S-P - Promo StampBox - PSA10  - JPN",
    "url": "https://www.relictcg.com/products/nigosier-226-s-p-promo-stampbox-psa10-jpn"
   },
+  "15575811129689": {
+   "available": true,
+   "price": 1800.0,
+   "title": "Mew SAR ex 232/091 - EV4.5 - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/mew-sar-ex-232-091-ev4-5-psa-10-fr-1"
+  },
   "15583818056025": {
    "available": false,
    "price": 60.0,
@@ -65421,7 +65469,7 @@
    "url": "https://www.relictcg.com/products/zoroark-de-n-ex-sar-ex-185-159-ev09-ccc-9-5-fr"
   },
   "16101212520793": {
-   "available": false,
+   "available": true,
    "price": 290.0,
    "title": "Alakazam 1/165 - Expedition - CCC 6 - FR",
    "url": "https://www.relictcg.com/products/alakazam-1-65-expedition-ccc-6-fr"
@@ -66812,6 +66860,12 @@
    "title": "Ire-Foudre SAR ex 208/162 - EV05 - PSA 9 - FR",
    "url": "https://www.relictcg.com/products/ire-foudre-sar-ex-208-162-ev05-psa-9-fr"
   },
+  "16273204773209": {
+   "available": true,
+   "price": 600.0,
+   "title": "Groudon AR 199/182 - EV04 - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/groudon-ar-199-182-ev04-psa-10-fr"
+  },
   "16273312579929": {
    "available": null,
    "price": 20.0,
@@ -66837,7 +66891,7 @@
    "url": "https://www.relictcg.com/products/mew-corocoro-comics-holo-psa-8-jpn"
   },
   "16279183491417": {
-   "available": false,
+   "available": true,
    "price": 280.0,
    "title": "Dracaufeu 4/102 - Célébrations 25 ans - PCA 9 - FR",
    "url": "https://www.relictcg.com/products/dracaufeu-4-102-celebrations-25-ans-pca-9-fr"
@@ -67251,7 +67305,7 @@
    "url": "https://www.relictcg.com/products/nidoqueen-holo-7-64-jungle-ed-1-psa-5-fr"
   },
   "16317045506393": {
-   "available": false,
+   "available": true,
    "price": 220.0,
    "title": "Raichu Holo 14/62 - Fossile Ed.1 - PSA 6 - FR",
    "url": "https://www.relictcg.com/products/raichu-holo-29-62-fossile-ed-1-psa-6-fr"
@@ -67443,7 +67497,7 @@
    "url": "https://www.relictcg.com/products/pharamp-holo-1-64-neo-revelation-psa-7-fr"
   },
   "16328414691673": {
-   "available": false,
+   "available": true,
    "price": 2100.0,
    "title": "Magnéton Holo 10/64 - Neo Revelation - PSA 10 [POP1] - FR",
    "url": "https://www.relictcg.com/products/magneton-holo-10-64-neo-revelation-psa-10-fr"
@@ -67965,7 +68019,7 @@
    "url": "https://www.relictcg.com/products/miraidon-ex-sir-cgs-9-5-393156"
   },
   "16405319123289": {
-   "available": false,
+   "available": true,
    "price": 260.0,
    "title": "Mega-Lucario ex GOLD - Mega-Evolution 188/132 - PCA 9.5 - FR",
    "url": "https://www.relictcg.com/products/mega-lucario-ex-fa-pca-9-5-46005242"
@@ -68295,7 +68349,7 @@
    "url": "https://www.relictcg.com/products/arkane-shield-protection-pour-cartes-gradees-dark-matter"
   },
   "16447498355033": {
-   "available": false,
+   "available": true,
    "price": 250.0,
    "title": "Mentali V - Evolution Celeste 180/203 - CCC 9 - FR",
    "url": "https://www.relictcg.com/products/mentali-v-evolution-celeste-180-203-ccc-9-fr"
@@ -68781,8 +68835,8 @@
    "url": "https://www.relictcg.com/products/duplicate-1808-armory-silver-age"
   },
   "16482477801817": {
-   "available": false,
-   "price": 340.0,
+   "available": true,
+   "price": 230.0,
    "title": "Carchacrok de Cynthia SAR ex  -  Rivalités Destinées EV10 - 232/182 PSA 9 - FR",
    "url": "https://www.relictcg.com/products/carchacrok-de-cynthia-sar-ex-rivalites-destinees-ev10-232-182-psa-9-fr"
   },
@@ -68847,8 +68901,8 @@
    "url": "https://www.relictcg.com/products/duplicate-0809-armory-silver-age"
   },
   "16484003971417": {
-   "available": false,
-   "price": 1700.0,
+   "available": true,
+   "price": 1050.0,
    "title": "Méga Dracolosse SAR ex  -  Héros Transcendants ME2.5- 290/217 PSA 10 - FR",
    "url": "https://www.relictcg.com/products/mega-dracolosse-sar-ex-heros-transcendants-me-2-5-290-217-psa-10-fr"
   },
@@ -68871,14 +68925,14 @@
    "url": "https://www.relictcg.com/products/duplicate-1208-duel-commander-night-5"
   },
   "16484068000089": {
-   "available": false,
-   "price": 430.0,
+   "available": true,
+   "price": 380.0,
    "title": "Victini BWR - Foudre Noire EV10.5 - 171/086 - PSA 9 - FR",
    "url": "https://www.relictcg.com/products/victini-bwr-flamme-blanche-ev10-5-172-086-psa-9-fr"
   },
   "16484091068761": {
-   "available": false,
-   "price": 430.0,
+   "available": true,
+   "price": 380.0,
    "title": "Victini BWR - Flamme Blanche EV10.5 - 172/086 - PSA 9 - FR",
    "url": "https://www.relictcg.com/products/victini-bwr-flamme-blanche-ev10-5-172-086-psa-9-fr-copie"
   },
@@ -68907,8 +68961,8 @@
    "url": "https://www.relictcg.com/products/dracaufeu-clc-003-classic-charizard-ho-oh-ex-deck-psa-10-eng-2"
   },
   "16484263362905": {
-   "available": false,
-   "price": 980.0,
+   "available": true,
+   "price": 800.0,
    "title": "GARDEVOIR ex - #019 - XY POKEKYUN COLLECTION - PSA 10 - JPN",
    "url": "https://www.relictcg.com/products/gardevoir-ex-019-xy-pokekyun-collection-psa-10-jpn"
   },
@@ -68919,8 +68973,8 @@
    "url": "https://www.relictcg.com/products/mega-gardevoir-ex-020-xy-pokekyun-collection-psa-10-jpn"
   },
   "16484295016793": {
-   "available": false,
-   "price": 750.0,
+   "available": true,
+   "price": 640.0,
    "title": "Nymphali - #025 - XY POKEKYUN COLLECTION - PSA 10 - JPN",
    "url": "https://www.relictcg.com/products/nymphali-025-xy-pokekyun-collection-psa-10-jpn"
   },
@@ -69938,6 +69992,12 @@
    "title": "Coffret - Figurine Premium Pokémon - 30 ans - Mewtwo - FR",
    "url": "https://www.relictcg.com/products/coffret-figurine-premium-pokemon-30-ans-mewtwo-fr"
   },
+  "16666992869721": {
+   "available": false,
+   "price": 40.0,
+   "title": "Bundle - Pokémon - Méga-Évolution - Règne Delta [ME06] - FR",
+   "url": "https://www.relictcg.com/products/bundle-pokemon-mega-evolution-regne-delta-me06-fr"
+  },
   "16673252311385": {
    "available": true,
    "price": 25.0,
@@ -70555,6 +70615,42 @@
    "price": 20.0,
    "title": "Official Sac Cabas - NARUTO Card Game - Scellé",
    "url": "https://www.relictcg.com/products/official-sac-cabas-naruto-card-game-scelle"
+  },
+  "16840606581081": {
+   "available": true,
+   "price": 700.0,
+   "title": "Phyllali VMAX 205/203 - EB07 Évolutions Céleste - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/phyllali-vmax-205-203-eb07-evolutions-celeste-psa-10-fr"
+  },
+  "16840720286041": {
+   "available": true,
+   "price": 1150.0,
+   "title": "Giratina VSTAR GOLD - Zenith Suprême GG69/GG70 - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/giratina-vstar-gold-zenith-supreme-gg69-gg70-psa-10-fr"
+  },
+  "16841049080153": {
+   "available": true,
+   "price": 1350.0,
+   "title": "Méga Ectoplasma SAR ex - Héros Transcendants ME2.5- 284/217 - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/mega-ectoplasma-sar-ex-heros-transcendants-me2-5-284-217-psa-10-fr"
+  },
+  "16841133293913": {
+   "available": true,
+   "price": 400.0,
+   "title": "Métalosse de Pierre SAR ex - Héros Transcendants ME2.5- 289/217 PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/mega-metalosse-sar-ex-heros-transcendants-me2-5-289-217-psa-10-fr"
+  },
+  "16841179267417": {
+   "available": true,
+   "price": 620.0,
+   "title": "Mewtwo de la Team Rocket SAR ex  -  Héros Transcendants ME2.5- 281/217 - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/mewtwo-de-la-team-rocket-sar-ex-heros-transcendants-me2-5-281-217-psa-10-fr"
+  },
+  "16841194111321": {
+   "available": true,
+   "price": 590.0,
+   "title": "Pikachu Téracristal SAR ex - Héros Transcendants ME2.5- 277/217 PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/pikachu-teracristal-sar-ex-heros-transcendants-me2-5-277-217-psa-10-fr"
   },
   "7441091887327": {
    "available": false,
@@ -73681,6 +73777,12 @@
    "price": 0.0,
    "title": "04/10 Tournoi Lorcana",
    "url": "https://www.relictcg.com/products/duplicate-27-09-tournoi-lorcana"
+  },
+  "9004132008281": {
+   "available": true,
+   "price": 2100.0,
+   "title": "Dracaufeu SAR ex 199/165 - EV3.5 - PSA 10 - FR",
+   "url": "https://www.relictcg.com/products/dracaufeu-sar-ex-199-165-ev3-5-psa-10-fr"
   },
   "9004555731289": {
    "available": false,
@@ -80461,103 +80563,103 @@
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lancea-dragon-ancestral-de-la-montagne-de-glace-se-ra05-fr045"
   },
   "15528068317532": {
-   "available": true,
+   "available": null,
    "price": 4.9,
    "title": "Yu-Gi-Oh! Lancéa, Dragon Ancestral de la Montagne de Glace : PS RA05-FR045",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lancea-dragon-ancestral-de-la-montagne-de-glace-ps-ra05-fr045"
   },
   "15528068383068": {
-   "available": true,
+   "available": null,
    "price": 9.9,
    "title": "Yu-Gi-Oh! Lancéa, Dragon Ancestral de la Montagne de Glace : STAR RA05-FR045",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lancea-dragon-ancestral-de-la-montagne-de-glace-star-ra05-fr045"
   },
   "15528068415836": {
-   "available": true,
+   "available": null,
    "price": 4.9,
    "title": "Yu-Gi-Oh! Lancéa, Dragon Ancestral de la Montagne de Glace : UL RA05-FR045",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lancea-dragon-ancestral-de-la-montagne-de-glace-ul-ra05-fr045"
   },
   "15528068481372": {
-   "available": true,
+   "available": null,
    "price": 4.9,
    "title": "Yu-Gi-Oh! Lancéa, Dragon Ancestral de la Montagne de Glace : CR RA05-FR045",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-lancea-dragon-ancestral-de-la-montagne-de-glace-cr-ra05-fr045"
   },
   "15528068546908": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : SR RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-sr-ra05-fr046"
   },
   "15528068612444": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : UR RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-ur-ra05-fr046"
   },
   "15528068677980": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : SE RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-se-ra05-fr046"
   },
   "15528068743516": {
-   "available": true,
+   "available": null,
    "price": 2.9,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : PS RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-ps-ra05-fr046"
   },
   "15528068776284": {
-   "available": true,
+   "available": null,
    "price": 9.9,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : STAR RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-star-ra05-fr046"
   },
   "15528068809052": {
-   "available": true,
+   "available": null,
    "price": 2.9,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : UL RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-ul-ra05-fr046"
   },
   "15528068874588": {
-   "available": true,
+   "available": null,
    "price": 2.9,
    "title": "Yu-Gi-Oh! Numéro C104 : Mascarade Horreur de l'Ombre : CR RA05-FR046",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-numero-c104-mascarade-horreur-de-lombre-cr-ra05-fr046"
   },
   "15528068907356": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! D/D/D Tireur Roi Tell : SR RA05-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-d-d-d-tireur-roi-tell-sr-ra05-fr047"
   },
   "15528068940124": {
-   "available": true,
+   "available": null,
    "price": 0.25,
    "title": "Yu-Gi-Oh! D/D/D Tireur Roi Tell : UR RA05-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-d-d-d-tireur-roi-tell-ur-ra05-fr047"
   },
   "15528069005660": {
-   "available": true,
+   "available": null,
    "price": 0.5,
    "title": "Yu-Gi-Oh! D/D/D Tireur Roi Tell : SE RA05-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-d-d-d-tireur-roi-tell-se-ra05-fr047"
   },
   "15528069038428": {
-   "available": true,
+   "available": null,
    "price": 1.9,
    "title": "Yu-Gi-Oh! D/D/D Tireur Roi Tell : PS RA05-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-d-d-d-tireur-roi-tell-ps-ra05-fr047"
   },
   "15528069071196": {
-   "available": true,
+   "available": null,
    "price": 4.9,
    "title": "Yu-Gi-Oh! D/D/D Tireur Roi Tell : STAR RA05-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-d-d-d-tireur-roi-tell-star-ra05-fr047"
   },
   "15528069103964": {
-   "available": true,
+   "available": null,
    "price": 1.9,
    "title": "Yu-Gi-Oh! D/D/D Tireur Roi Tell : UL RA05-FR047",
    "url": "https://tradingcardsxxx.fr/products/yu-gi-oh-d-d-d-tireur-roi-tell-ul-ra05-fr047"
@@ -90061,7 +90163,7 @@
    "url": "https://tradingcardsxxx.fr/products/disney-lorcana-tcg-la-quete-des-merveilles-le-livre-de-lore"
   },
   "15797448048988": {
-   "available": false,
+   "available": true,
    "price": 5.5,
    "title": "KMC - 60 Sleeves SMALL Hyper Mat MINI : Blanc",
    "url": "https://tradingcardsxxx.fr/products/kmc-60-sleeves-small-hyper-mat-mini-blanc"
@@ -90997,7 +91099,7 @@
    "url": "https://tradingcardsxxx.fr/products/one-piece-blister-de-12-cartes-op14-eb04-les-sept-de-la-mer-dazur"
   },
   "15920347316572": {
-   "available": true,
+   "available": false,
    "price": 59.9,
    "title": "Pokémon - Collection 30e Anniversaire ME05.5 : Classeur",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-30e-anniversaire-me05-5-classeur"
@@ -96000,6 +96102,108 @@
    "title": "Pokémon - Collection Ultra Premium 30ᵉ Anniversaire ME05.5 Journée : Mentali",
    "url": "https://tradingcardsxxx.fr/products/pokemon-collection-ultra-premium-30ᵉ-anniversaire-me05-5-journee-mentali"
   },
+  "16021502591324": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] My Little Pony TCG - Starter Deck Friendships Begin : Pinkie Pie",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-starter-deck-friendships-begin-pinkie-pie"
+  },
+  "16021595980124": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] My Little Pony TCG - Starter Deck Friendships Begin : Applejack",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-starter-deck-friendships-begin-applejack"
+  },
+  "16021599453532": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] My Little Pony TCG - Starter Deck Friendships Begin : Fluttershy",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-starter-deck-friendships-begin-fluttershy"
+  },
+  "16021604860252": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] My Little Pony TCG - Starter Deck Friendships Begin : Rainbow Dash",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-starter-deck-friendships-begin-rainbow-dash"
+  },
+  "16021607612764": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] My Little Pony TCG - Starter Deck Friendships Begin : Rarity",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-starter-deck-friendships-begin-rarity"
+  },
+  "16021622194524": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] My Little Pony TCG - Starter Deck Friendships Begin : Twilight Sparkle",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-starter-deck-friendships-begin-twilight-sparkle"
+  },
+  "16021681963356": {
+   "available": true,
+   "price": 54.9,
+   "title": "[KAYOU] My Little Pony TCG - Display de 20 boosters Pack 01 : Fantasy Wonderland",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-display-de-20-boosters-pack-01-fantasy-wonderland"
+  },
+  "16021724692828": {
+   "available": true,
+   "price": 2.9,
+   "title": "[KAYOU] My Little Pony TCG - Booster de 5 cartes Pack 01 : Fantasy Wonderland",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-tcg-booster-de-5-cartes-pack-01-fantasy-wonderland"
+  },
+  "16021788426588": {
+   "available": true,
+   "price": 34.9,
+   "title": "[KAYOU] Naruto CCG - Display de 20 boosters : Earth Scroll Series 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-naruto-ccg-display-de-20-boosters-earth-scroll-series-02"
+  },
+  "16021910126940": {
+   "available": true,
+   "price": 1.9,
+   "title": "[KAYOU] Naruto CCG - Booster de 7 cartes : Earth Scroll Series 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-naruto-ccg-booster-de-7-cartes-earth-scroll-series-02"
+  },
+  "16021937783132": {
+   "available": true,
+   "price": 34.9,
+   "title": "[KAYOU] K-POP Demon Hunters CCG - Display de 20 boosters : Classic Edition 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-k-pop-demon-hunters-ccg-display-de-20-boosters-classic-edition-02"
+  },
+  "16022006661468": {
+   "available": true,
+   "price": 1.9,
+   "title": "[KAYOU] K-POP Demon Hunters CCG - Boosters de 5 cartes : Classic Edition 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-k-pop-demon-hunters-ccg-boosters-de-5-cartes-classic-edition-02"
+  },
+  "16022053814620": {
+   "available": true,
+   "price": 19.9,
+   "title": "[KAYOU] K-POP Demon Hunters CCG - Collector Box 10 boosters : Classic Edition 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-k-pop-demon-hunters-ccg-collector-box-10-boosters-classic-edition-02"
+  },
+  "16022084583772": {
+   "available": true,
+   "price": 54.9,
+   "title": "[KAYOU] K-POP Demon Hunters CCG - Display de 12 boosters : Energy Edition 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-k-pop-demon-hunters-ccg-display-de-12-boosters-energy-edition-02"
+  },
+  "16022100443484": {
+   "available": true,
+   "price": 4.9,
+   "title": "[KAYOU] K-POP Demon Hunters CCG - Booster de 8 cartes : Energy Edition 02",
+   "url": "https://tradingcardsxxx.fr/products/kayou-k-pop-demon-hunters-ccg-booster-de-8-cartes-energy-edition-02"
+  },
+  "16022114861404": {
+   "available": true,
+   "price": 44.9,
+   "title": "[KAYOU] My Little Pony CCG - Display de 12 boosters : Moon Edition Series 04",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-ccg-display-de-12-boosters-moon-edition-series-04"
+  },
+  "16022131147100": {
+   "available": true,
+   "price": 3.9,
+   "title": "[KAYOU] My Little Pony CCG - Booster de 8 cartes : Moon Edition Series 04",
+   "url": "https://tradingcardsxxx.fr/products/kayou-my-little-pony-ccg-booster-de-8-cartes-moon-edition-series-04"
+  },
   "7331019194539": {
    "available": null,
    "price": 399.9,
@@ -96115,7 +96319,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-4-pokebox-septembre-2024-boites-destinee-paradoxe"
   },
   "9578253484380": {
-   "available": true,
+   "available": false,
    "price": 7.5,
    "title": "Pokémon - Booster de 10 cartes EV07 : Couronne Stellaire",
    "url": "https://tradingcardsxxx.fr/products/pokemon-booster-de-10-cartes-ev07-couronne-stellaire"
