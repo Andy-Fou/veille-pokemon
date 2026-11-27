@@ -34,7 +34,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 280.0,
+   "price": 279.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-ex-ingles-espanol"
@@ -43,7 +43,7 @@
    "available": false,
    "country": "ES",
    "kind": "watch",
-   "price": 280.0,
+   "price": 279.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG — 30th Celebration Ultra Premium Collection Night | Umbreon ex (Inglés & Español)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-ex-ingles-espanol-copia"
@@ -148,7 +148,7 @@
    "url": "https://www.pokemillon.com/products/ultra-premium-umbreon-30th"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "watch",
    "price": 499.9,
@@ -529,7 +529,7 @@
    "available": false,
    "country": "ES",
    "kind": "anniv",
-   "price": 79.0,
+   "price": 78.0,
    "shop": "JJ Collection",
    "title": "Pokémon TCG - Mega Gardevoir ex Premium Poster Collection (Español & Ingles)",
    "url": "https://www.jjcollection.es/products/pokemon-tcg-first-partners-illustration-collection-series-1-30th-anniversary-ingles-espanol-copia"
@@ -907,6 +907,42 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
+   "price": 61.0,
+   "shop": "Masterset",
+   "title": "Pokémon - Bundle de 6 Boosters - 30e Anniversaire",
+   "url": "https://masterset.store/products/pok-mon-bundle-de-6-boosters-30e-anniversaire"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 21.0,
+   "shop": "Masterset",
+   "title": "Pokémon - Duopack - 30e Anniversaire - Evoli",
+   "url": "https://masterset.store/products/pok-mon-duopack-30e-anniversaire-evoli"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 41.0,
+   "shop": "Masterset",
+   "title": "Pokémon - Pokebox - 30e Anniversaire - Amphinobi-ex",
+   "url": "https://masterset.store/products/pok-mon-pokebox-30e-anniversaire-amphinobi-ex"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
+   "price": 41.0,
+   "shop": "Masterset",
+   "title": "Pokémon - Pokebox - 30e Anniversaire - Nymphali-ex",
+   "url": "https://masterset.store/products/pok-mon-pokebox-30e-anniversaire-nymphali-ex"
+  },
+  {
+   "available": false,
+   "country": "FR",
+   "kind": "anniv",
    "price": 27.0,
    "shop": "Masterset",
    "title": "Pokémon – Blind box Palmsize Wonders First Partner 30th Anniversary",
@@ -920,24 +956,6 @@
    "shop": "Masterset",
    "title": "Ultra Pro - Zip PRO-Binder 12 cases - MTG 30th Anniv.",
    "url": "https://masterset.store/products/ultra-pro-zip-pro-binder-12-cases-mtg-30th-anniv"
-  },
-  {
-   "available": false,
-   "country": "FR",
-   "kind": "anniv",
-   "price": 21.0,
-   "shop": "Masterset",
-   "title": "[EXPEDITION 28/10] [LIMITE 2] Pokémon - Duopack - 30e Anniversaire - Evoli",
-   "url": "https://masterset.store/products/pok-mon-duopack-30e-anniversaire-evoli"
-  },
-  {
-   "available": false,
-   "country": "FR",
-   "kind": "anniv",
-   "price": 61.0,
-   "shop": "Masterset",
-   "title": "[EXPEDITION 29/10] [Limite 1] Pokémon - Bundle de 6 Boosters - 30e Anniversaire",
-   "url": "https://masterset.store/products/pok-mon-bundle-de-6-boosters-30e-anniversaire"
   },
   {
    "available": false,
@@ -970,7 +988,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 30.0,
+   "price": 31.0,
    "shop": "Masterset",
    "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Lucario",
    "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-lucario"
@@ -979,7 +997,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 30.0,
+   "price": 31.0,
    "shop": "Masterset",
    "title": "[LIMITE 1] Pokémon - Tripack Collection autocollant réajustable - 30e Anniversaire - Noadkoko d’Alola",
    "url": "https://masterset.store/products/pok-mon-tripack-collection-autocollant-r-ajustable-30e-anniversaire-noadkoko-d-alola"
@@ -1033,7 +1051,7 @@
    "available": false,
    "country": "FR",
    "kind": "anniv",
-   "price": 40.0,
+   "price": 41.0,
    "shop": "Masterset",
    "title": "[Limite de 1] [1 au choix] Pokémon - Coffret 4 boosters - 30e Anniversaire - Amphinobi-ex ou Nymphali-ex",
    "url": "https://masterset.store/products/limite-de-1-1-au-choix-pokemon-coffret-4-boosters-30e-anniversaire-amphinobi-ex-ou-nymphali-ex"
@@ -1792,7 +1810,7 @@
    "price": 24.9,
    "shop": "Pokemillon",
    "title": "Mini Lata Celebraciones 30 Aniversario | Celebrations 30th",
-   "url": "https://www.pokemillon.com/products/mini-lata-dia-celebraciones-30-aniversario-celebrations-30th"
+   "url": "https://www.pokemillon.com/products/mini-lata-30th"
   },
   {
    "available": false,
@@ -2200,7 +2218,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-coffret-30e-anniversaire-me05-5-nymphali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 89.9,
@@ -2281,7 +2299,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-decks-combat-30e-anniversaire-me05-5-mentali-et-noctali-ex"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
    "price": 69.9,
@@ -2326,5 +2344,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-27T14:07:01+00:00"
+ "updated": "2026-11-27T22:47:39+00:00"
 }
