@@ -225,15 +225,6 @@
    "kind": "anniv",
    "price": null,
    "shop": "Aux Trois Koalas",
-   "title": "Pokèmon - Collection Figurine Mewtwo - 30e Anniversaire",
-   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/260127-pokemon-collection-figurine-mewtwo-30e-anniversaire-46440"
-  },
-  {
-   "available": null,
-   "country": "FR",
-   "kind": "anniv",
-   "price": null,
-   "shop": "Aux Trois Koalas",
    "title": "Pokémon - Bundle 6 Boosters 30e Anniversaire",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok260123-pokemon-bundle-6-boosters-30e-anniversaire-45947"
   },
@@ -254,6 +245,15 @@
    "shop": "Aux Trois Koalas",
    "title": "Pokémon - Collection Figurine Mew - 30e Anniversaire",
    "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/pok169871-pokemon-collection-figurine-mew-30e-anniversaire-46136"
+  },
+  {
+   "available": null,
+   "country": "FR",
+   "kind": "anniv",
+   "price": null,
+   "shop": "Aux Trois Koalas",
+   "title": "Pokémon - Collection Figurine Mewtwo - 30e Anniversaire",
+   "url": "https://www.auxtroiskoalas.fr/shop/pokemon-coffrets-428/260127-pokemon-collection-figurine-mewtwo-30e-anniversaire-46440"
   },
   {
    "available": null,
@@ -1930,10 +1930,10 @@
    "url": "https://www.pokemillon.com/products/weiss-schwarz-blau-premium-pack-detective-conan-tv-anime-30th-anniversary"
   },
   {
-   "available": false,
+   "available": true,
    "country": "FR",
    "kind": "anniv",
-   "price": 40.0,
+   "price": 58.0,
    "shop": "Relic TCG",
    "title": "Coffret - Figurine Premium Pokémon - 30 ans - Mewtwo - FR",
    "url": "https://www.relictcg.com/products/coffret-figurine-premium-pokemon-30-ans-mewtwo-fr"
@@ -2119,7 +2119,7 @@
    "url": "https://strikegames.shop/products/pokemon-me-5-5-30e-anniversaire-collection-avec-figurine-mew-fr"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 59.99,
@@ -2281,7 +2281,7 @@
    "url": "https://tradingcardsxxx.fr/products/pokemon-lot-de-2-decks-combat-30e-anniversaire-me05-5-mentali-et-noctali-ex"
   },
   {
-   "available": true,
+   "available": false,
    "country": "FR",
    "kind": "anniv",
    "price": 69.9,
@@ -2326,5 +2326,5 @@
    "url": "https://tradingcardsxxx.fr/products/sv-pokemon-coffret-dresseur-delite-me05-5-30e-anniversaire"
   }
  ],
- "updated": "2026-11-27T04:20:55+00:00"
+ "updated": "2026-11-27T14:07:01+00:00"
 }
